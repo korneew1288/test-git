@@ -21,9 +21,6 @@
                     "ref_id": "cl6w48s8q000mm4g51k8wa80r"
                 },
                 {
-                    "ref_id": "cl6w4h7u8000om4g5fxdt3c6z"
-                },
-                {
                     "ref_id": "cl6w4mw0f000qm4g55nez9q4n"
                 }
             ]
@@ -46,9 +43,6 @@
                 },
                 {
                     "ref_id": "cl6w48s8q000mm4g51k8wa80r"
-                },
-                {
-                    "ref_id": "cl6w4h7u8000om4g5fxdt3c6z"
                 },
                 {
                     "ref_id": "cl6w4mw0f000qm4g55nez9q4n"
@@ -75,9 +69,6 @@
                     "ref_id": "cl6w3movo000im4g58jkm2n0j"
                 },
                 {
-                    "ref_id": "cl6w4h7u8000om4g5fxdt3c6z"
-                },
-                {
                     "ref_id": "cl6w4mw0f000qm4g55nez9q4n"
                 }
             ]
@@ -87,27 +78,14 @@
             "asset_id": "cl6w4h7u8000om4g5fxdt3c6z",
             "externalId": "tether",
             "type": "ERC20",
-            "address": "0x135669c2dcBd63F639582b313883F101a4497F76",
+            "address": "0xB404c51BBC10dcBE948077F18a4B8E553D160084",
             "name": "USDT Test",
             "symbol": "USDT",
-            "decimals": 8,
-            "logoURI": "assets/0x135669c2dcBd63F639582b313883F101a4497F76/logo.png",
+            "decimals": 6,
+            "logoURI": "assets/0xB404c51BBC10dcBE948077F18a4B8E553D160084/logo.png",
             "status": "active",
-            "explorer": "https://ropsten.etherscan.io/token/0x135669c2dcBd63F639582b313883F101a4497F76",
-            "pairs": [
-                {
-                    "ref_id": "cl6w3mh9v0006m4g5gk4e1t26"
-                },
-                {
-                    "ref_id": "cl6w3movo000im4g58jkm2n0j"
-                },
-                {
-                    "ref_id": "cl6w48s8q000mm4g51k8wa80r"
-                },
-                {
-                    "ref_id": "cl6w4mw0f000qm4g55nez9q4n"
-                }
-            ]
+            "explorer": "https://ropsten.etherscan.io/token/0xB404c51BBC10dcBE948077F18a4B8E553D160084",
+            "pairs": []
         },
         {
             "chainId": 3,
@@ -130,9 +108,6 @@
                 },
                 {
                     "ref_id": "cl6w48s8q000mm4g51k8wa80r"
-                },
-                {
-                    "ref_id": "cl6w4h7u8000om4g5fxdt3c6z"
                 }
             ]
         }
@@ -140,6 +115,6 @@
     "version": {
         "major": 0,
         "minor": 0,
-        "patch": 1
+        "patch": 2
     }
 }
