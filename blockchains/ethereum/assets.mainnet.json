@@ -1,25 +1,48 @@
 {
     "name": "Iron Wallet: Ethereum",
     "logoURI": "",
-    "timestamp": "2022-08-18T10:10:25Z",
+    "timestamp": "2022-08-18T16:47:34Z",
     "status": "active",
     "assets": [
         {
             "chainId": 1,
             "asset_id": "cl6y2qtls000sm4g5at8c4kt7",
             "externalId": "ethereum",
-            "name": "ETH",
+            "name": "Wrapped ETH",
             "symbol": "ETH",
             "decimals": 18,
             "logoURI": "assets/0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/logo.png",
             "status": "active",
             "default": true,
-            "pairs": []
+            "pairs": [
+                {
+                    "ref_id": "cl6z9siee000um4g51g2qcoiq"
+                }
+            ]
+        },
+        {
+            "chainId": 1,
+            "asset_id": "cl6z9siee000um4g51g2qcoiq",
+            "externalId": "weth",
+            "type": "ERC20",
+            "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+            "name": "Wrapped ETH",
+            "symbol": "WETH",
+            "decimals": 18,
+            "logoURI": "assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
+            "status": "active",
+            "default": false,
+            "explorer": "https://etherscan.io/token/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+            "pairs": [
+                {
+                    "ref_id": "cl6y2qtls000sm4g5at8c4kt7"
+                }
+            ]
         }
     ],
     "version": {
         "major": 0,
         "minor": 0,
-        "patch": 1
+        "patch": 2
     }
 }

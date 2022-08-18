@@ -1,7 +1,7 @@
 {
     "name": "Iron Wallet: Ethereum",
     "logoURI": "",
-    "timestamp": "2022-08-18T10:09:05Z",
+    "timestamp": "2022-08-18T16:47:34Z",
     "status": "active",
     "assets": [
         {
@@ -32,7 +32,7 @@
             "externalId": "weth",
             "type": "ERC20",
             "address": "0xc778417E063141139Fce010982780140Aa0cD5Ab",
-            "name": "WETH",
+            "name": "Wrapped ETH",
             "symbol": "WETH",
             "decimals": 18,
             "logoURI": "assets/0xc778417E063141139Fce010982780140Aa0cD5Ab/logo.png",
@@ -120,6 +120,6 @@
     "version": {
         "major": 0,
         "minor": 0,
-        "patch": 4
+        "patch": 5
     }
 }
