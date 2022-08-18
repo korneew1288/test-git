@@ -2,12 +2,24 @@
     "versions": [
         {
             "blockchain": "ethereum",
-            "timestamp": "2022-08-17T20:35:10Z",
-            "list": "assets.json",
+            "chainId": 3,
+            "timestamp": "2022-08-18T10:09:05Z",
+            "list": "assets.tesnet.json",
             "version": {
                 "major": 0,
                 "minor": 0,
                 "patch": 3
+            }
+        },
+        {
+            "blockchain": "ethereum",
+            "chainId": 1,
+            "timestamp": "2022-08-18T10:10:25Z",
+            "list": "assets.mainnet.json",
+            "version": {
+                "major": 0,
+                "minor": 0,
+                "patch": 1
             }
         }
     ]
