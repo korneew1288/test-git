@@ -4,7 +4,7 @@
             "blockchain": "ethereum",
             "chainId": 3,
             "timestamp": "2022-08-18T10:09:05Z",
-            "list": "assets.tesnet.json",
+            "list": "assets.testnet.json",
             "version": {
                 "major": 0,
                 "minor": 0,
