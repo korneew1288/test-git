@@ -1,7 +1,7 @@
 {
     "name": "Iron Wallet: Ethereum",
     "logoURI": "",
-    "timestamp": "2022-08-17T20:35:10Z",
+    "timestamp": "2022-08-18T10:09:05Z",
     "status": "active",
     "assets": [
         {
@@ -110,22 +110,11 @@
                     "ref_id": "cl6w48s8q000mm4g51k8wa80r"
                 }
             ]
-        },
-        {
-            "chainId": 1,
-            "asset_id": "cl6y2qtls000sm4g5at8c4kt7",
-            "externalId": "ethereum",
-            "name": "ETH",
-            "symbol": "ETH",
-            "decimals": 18,
-            "logoURI": "assets/0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/logo.png",
-            "status": "active",
-            "pairs": []
         }
     ],
     "version": {
         "major": 0,
         "minor": 0,
-        "patch": 3
+        "patch": 4
     }
 }
