@@ -13,6 +13,7 @@
             "decimals": 18,
             "logoURI": "assets/0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/logo.png",
             "status": "active",
+            "default": true,
             "pairs": []
         }
     ],

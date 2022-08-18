@@ -13,6 +13,7 @@
             "decimals": 18,
             "logoURI": "assets/0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/logo.png",
             "status": "active",
+            "default": true,
             "pairs": [
                 {
                     "ref_id": "cl6w3movo000im4g58jkm2n0j"
@@ -36,6 +37,7 @@
             "decimals": 18,
             "logoURI": "assets/0xc778417E063141139Fce010982780140Aa0cD5Ab/logo.png",
             "status": "active",
+            "default": false,
             "explorer": "https://ropsten.etherscan.io/token/0xc778417E063141139Fce010982780140Aa0cD5Ab",
             "pairs": [
                 {
@@ -60,6 +62,7 @@
             "decimals": 6,
             "logoURI": "assets/0x07865c6E87B9F70255377e024ace6630C1Eaa37F/logo.png",
             "status": "active",
+            "default": true,
             "explorer": "https://ropsten.etherscan.io/token/0x07865c6E87B9F70255377e024ace6630C1Eaa37F",
             "pairs": [
                 {
@@ -84,6 +87,7 @@
             "decimals": 6,
             "logoURI": "assets/0xB404c51BBC10dcBE948077F18a4B8E553D160084/logo.png",
             "status": "active",
+            "default": true,
             "explorer": "https://ropsten.etherscan.io/token/0xB404c51BBC10dcBE948077F18a4B8E553D160084",
             "pairs": []
         },
@@ -98,6 +102,7 @@
             "decimals": 18,
             "logoURI": "assets/0xaD6D458402F60fD3Bd25163575031ACDce07538D/logo.png",
             "status": "active",
+            "default": true,
             "explorer": "https://ropsten.etherscan.io/token/0xaD6D458402F60fD3Bd25163575031ACDce07538D",
             "pairs": [
                 {
