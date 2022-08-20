@@ -3,23 +3,23 @@
         {
             "blockchain": "ethereum",
             "chainId": 3,
-            "timestamp": "2022-08-18T16:47:34Z",
+            "timestamp": "2022-08-20T14:30:26Z",
             "list": "assets.testnet.json",
             "version": {
                 "major": 0,
                 "minor": 0,
-                "patch": 5
+                "patch": 6
             }
         },
         {
             "blockchain": "ethereum",
             "chainId": 1,
-            "timestamp": "2022-08-20T14:19:37Z",
+            "timestamp": "2022-08-20T14:30:26Z",
             "list": "assets.mainnet.json",
             "version": {
                 "major": 0,
                 "minor": 0,
-                "patch": 3
+                "patch": 4
             }
         }
     ]
