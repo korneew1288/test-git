@@ -14,12 +14,12 @@
         {
             "blockchain": "ethereum",
             "chainId": 1,
-            "timestamp": "2022-08-18T16:47:34Z",
+            "timestamp": "2022-08-20T14:19:37Z",
             "list": "assets.mainnet.json",
             "version": {
                 "major": 0,
                 "minor": 0,
-                "patch": 2
+                "patch": 3
             }
         }
     ]
