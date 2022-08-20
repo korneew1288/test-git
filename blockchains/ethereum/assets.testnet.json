@@ -1,7 +1,7 @@
 {
     "name": "Iron Wallet: Ethereum",
     "logoURI": "",
-    "timestamp": "2022-08-18T16:47:34Z",
+    "timestamp": "2022-08-20T14:30:26Z",
     "status": "active",
     "assets": [
         {
@@ -37,7 +37,7 @@
             "decimals": 18,
             "logoURI": "assets/0xc778417E063141139Fce010982780140Aa0cD5Ab/logo.png",
             "status": "active",
-            "default": false,
+            "default": true,
             "explorer": "https://ropsten.etherscan.io/token/0xc778417E063141139Fce010982780140Aa0cD5Ab",
             "pairs": [
                 {
@@ -120,6 +120,6 @@
     "version": {
         "major": 0,
         "minor": 0,
-        "patch": 5
+        "patch": 6
     }
 }
