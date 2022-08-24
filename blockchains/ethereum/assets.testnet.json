@@ -1,125 +1,150 @@
 {
-    "name": "Iron Wallet: Ethereum",
-    "logoURI": "",
-    "timestamp": "2022-08-20T14:30:26Z",
-    "status": "active",
-    "assets": [
+  "name": "Iron Wallet: Ethereum",
+  "logoURI": "",
+  "timestamp": "2022-08-24T14:07:09Z",
+  "status": "active",
+  "assets": [
+    {
+      "chainId": 3,
+      "asset_id": "cl6w3mh9v0006m4g5gk4e1t26",
+      "externalId": "ethereum",
+      "name": "ETH Test",
+      "symbol": "ETH",
+      "decimals": 18,
+      "logoURI": "assets/0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/logo.png",
+      "status": "active",
+      "default": true,
+      "pairs": [
         {
-            "chainId": 3,
-            "asset_id": "cl6w3mh9v0006m4g5gk4e1t26",
-            "externalId": "ethereum",
-            "name": "ETH Test",
-            "symbol": "ETH",
-            "decimals": 18,
-            "logoURI": "assets/0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/logo.png",
-            "status": "active",
-            "default": true,
-            "pairs": [
-                {
-                    "ref_id": "cl6w3movo000im4g58jkm2n0j"
-                },
-                {
-                    "ref_id": "cl6w48s8q000mm4g51k8wa80r"
-                },
-                {
-                    "ref_id": "cl6w4mw0f000qm4g55nez9q4n"
-                }
-            ]
+          "ref_id": "cl6w3movo000im4g58jkm2n0j"
         },
         {
-            "chainId": 3,
-            "asset_id": "cl6w3movo000im4g58jkm2n0j",
-            "externalId": "weth",
-            "type": "ERC20",
-            "address": "0xc778417E063141139Fce010982780140Aa0cD5Ab",
-            "name": "Wrapped ETH",
-            "symbol": "WETH",
-            "decimals": 18,
-            "logoURI": "assets/0xc778417E063141139Fce010982780140Aa0cD5Ab/logo.png",
-            "status": "active",
-            "default": true,
-            "explorer": "https://ropsten.etherscan.io/token/0xc778417E063141139Fce010982780140Aa0cD5Ab",
-            "pairs": [
-                {
-                    "ref_id": "cl6w3mh9v0006m4g5gk4e1t26"
-                },
-                {
-                    "ref_id": "cl6w48s8q000mm4g51k8wa80r"
-                },
-                {
-                    "ref_id": "cl6w4mw0f000qm4g55nez9q4n"
-                }
-            ]
+          "ref_id": "cl6w48s8q000mm4g51k8wa80r"
         },
         {
-            "chainId": 3,
-            "asset_id": "cl6w48s8q000mm4g51k8wa80r",
-            "externalId": "usd-coin",
-            "type": "ERC20",
-            "address": "0x07865c6E87B9F70255377e024ace6630C1Eaa37F",
-            "name": "USD//C Test",
-            "symbol": "USDC",
-            "decimals": 6,
-            "logoURI": "assets/0x07865c6E87B9F70255377e024ace6630C1Eaa37F/logo.png",
-            "status": "active",
-            "default": true,
-            "explorer": "https://ropsten.etherscan.io/token/0x07865c6E87B9F70255377e024ace6630C1Eaa37F",
-            "pairs": [
-                {
-                    "ref_id": "cl6w3mh9v0006m4g5gk4e1t26"
-                },
-                {
-                    "ref_id": "cl6w3movo000im4g58jkm2n0j"
-                },
-                {
-                    "ref_id": "cl6w4mw0f000qm4g55nez9q4n"
-                }
-            ]
+          "ref_id": "cl6w4mw0f000qm4g55nez9q4n"
         },
         {
-            "chainId": 3,
-            "asset_id": "cl6w4h7u8000om4g5fxdt3c6z",
-            "externalId": "tether",
-            "type": "ERC20",
-            "address": "0xB404c51BBC10dcBE948077F18a4B8E553D160084",
-            "name": "USDT Test",
-            "symbol": "USDT",
-            "decimals": 6,
-            "logoURI": "assets/0xB404c51BBC10dcBE948077F18a4B8E553D160084/logo.png",
-            "status": "active",
-            "default": true,
-            "explorer": "https://ropsten.etherscan.io/token/0xB404c51BBC10dcBE948077F18a4B8E553D160084",
-            "pairs": []
-        },
-        {
-            "chainId": 3,
-            "asset_id": "cl6w4mw0f000qm4g55nez9q4n",
-            "externalId": "dai",
-            "type": "ERC20",
-            "address": "0xaD6D458402F60fD3Bd25163575031ACDce07538D",
-            "name": "DAI Test",
-            "symbol": "DAI",
-            "decimals": 18,
-            "logoURI": "assets/0xaD6D458402F60fD3Bd25163575031ACDce07538D/logo.png",
-            "status": "active",
-            "default": true,
-            "explorer": "https://ropsten.etherscan.io/token/0xaD6D458402F60fD3Bd25163575031ACDce07538D",
-            "pairs": [
-                {
-                    "ref_id": "cl6w3mh9v0006m4g5gk4e1t26"
-                },
-                {
-                    "ref_id": "cl6w3movo000im4g58jkm2n0j"
-                },
-                {
-                    "ref_id": "cl6w48s8q000mm4g51k8wa80r"
-                }
-            ]
+          "ref_id": "cl6w4h7u8000om4g5fxdt3c6z"
         }
-    ],
-    "version": {
-        "major": 0,
-        "minor": 0,
-        "patch": 6
+      ]
+    },
+    {
+      "chainId": 3,
+      "asset_id": "cl6w3movo000im4g58jkm2n0j",
+      "externalId": "weth",
+      "type": "ERC20",
+      "address": "0xc778417E063141139Fce010982780140Aa0cD5Ab",
+      "name": "Wrapped ETH",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "assets/0xc778417E063141139Fce010982780140Aa0cD5Ab/logo.png",
+      "status": "active",
+      "default": true,
+      "explorer": "https://ropsten.etherscan.io/token/0xc778417E063141139Fce010982780140Aa0cD5Ab",
+      "pairs": [
+        {
+          "ref_id": "cl6w3mh9v0006m4g5gk4e1t26"
+        },
+        {
+          "ref_id": "cl6w48s8q000mm4g51k8wa80r"
+        },
+        {
+          "ref_id": "cl6w4h7u8000om4g5fxdt3c6z"
+        },
+        {
+          "ref_id": "cl6w4mw0f000qm4g55nez9q4n"
+        }
+      ]
+    },
+    {
+      "chainId": 3,
+      "asset_id": "cl6w48s8q000mm4g51k8wa80r",
+      "externalId": "usd-coin",
+      "type": "ERC20",
+      "address": "0x07865c6E87B9F70255377e024ace6630C1Eaa37F",
+      "name": "USD//C Test",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "assets/0x07865c6E87B9F70255377e024ace6630C1Eaa37F/logo.png",
+      "status": "active",
+      "default": true,
+      "explorer": "https://ropsten.etherscan.io/token/0x07865c6E87B9F70255377e024ace6630C1Eaa37F",
+      "pairs": [
+        {
+          "ref_id": "cl6w3mh9v0006m4g5gk4e1t26"
+        },
+        {
+          "ref_id": "cl6w3movo000im4g58jkm2n0j"
+        },
+        {
+          "ref_id": "cl6w4h7u8000om4g5fxdt3c6z"
+        },
+        {
+          "ref_id": "cl6w4mw0f000qm4g55nez9q4n"
+        }
+      ]
+    },
+    {
+      "chainId": 3,
+      "asset_id": "cl6w4h7u8000om4g5fxdt3c6z",
+      "externalId": "tether",
+      "type": "ERC20",
+      "address": "0xB404c51BBC10dcBE948077F18a4B8E553D160084",
+      "name": "USDT Test",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "assets/0xB404c51BBC10dcBE948077F18a4B8E553D160084/logo.png",
+      "status": "active",
+      "default": true,
+      "explorer": "https://ropsten.etherscan.io/token/0xB404c51BBC10dcBE948077F18a4B8E553D160084",
+      "pairs": [
+        {
+          "ref_id": "cl6w3movo000im4g58jkm2n0j"
+        },
+        {
+          "ref_id": "cl6w3movo000im4g58jkm2n0j"
+        },
+        {
+          "ref_id": "cl6w48s8q000mm4g51k8wa80r"
+        },
+        {
+          "ref_id": "cl6w4mw0f000qm4g55nez9q4n"
+        }
+      ]
+    },
+    {
+      "chainId": 3,
+      "asset_id": "cl6w4mw0f000qm4g55nez9q4n",
+      "externalId": "dai",
+      "type": "ERC20",
+      "address": "0xaD6D458402F60fD3Bd25163575031ACDce07538D",
+      "name": "DAI Test",
+      "symbol": "DAI",
+      "decimals": 18,
+      "logoURI": "assets/0xaD6D458402F60fD3Bd25163575031ACDce07538D/logo.png",
+      "status": "active",
+      "default": true,
+      "explorer": "https://ropsten.etherscan.io/token/0xaD6D458402F60fD3Bd25163575031ACDce07538D",
+      "pairs": [
+        {
+          "ref_id": "cl6w3mh9v0006m4g5gk4e1t26"
+        },
+        {
+          "ref_id": "cl6w3movo000im4g58jkm2n0j"
+        },
+        {
+          "ref_id": "cl6w48s8q000mm4g51k8wa80r"
+        },
+        {
+          "ref_id": "cl6w4h7u8000om4g5fxdt3c6z"
+        }
+      ]
     }
+  ],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 7
+  }
 }
