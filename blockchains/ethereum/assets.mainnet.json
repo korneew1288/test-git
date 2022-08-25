@@ -1,150 +1,80 @@
 {
-    "name": "Iron Wallet: Ethereum",
-    "logoURI": "",
-    "timestamp": "2022-08-20T14:30:26Z",
-    "status": "active",
-    "assets": [
-        {
-            "chainId": 1,
-            "asset_id": "cl6y2qtls000sm4g5at8c4kt7",
-            "externalId": "ethereum",
-            "name": "ETH",
-            "symbol": "ETH",
-            "decimals": 18,
-            "logoURI": "assets/0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/logo.png",
-            "status": "active",
-            "default": true,
-            "pairs": [
-                {
-                    "ref_id": "cl6z9siee000um4g51g2qcoiq"
-                },
-                {
-                    "ref_id": "cl71yr4zg000wm4g5hpaxfyb3"
-                },
-                {
-                    "ref_id": "cl71yvqi1000ym4g54hjmcbti"
-                },
-                {
-                    "ref_id": "cl71z1mq70012m4g55is7ah36"
-                }
-            ]
-        },
-        {
-            "chainId": 1,
-            "asset_id": "cl6z9siee000um4g51g2qcoiq",
-            "externalId": "weth",
-            "type": "ERC20",
-            "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
-            "name": "Wrapped ETH",
-            "symbol": "WETH",
-            "decimals": 18,
-            "logoURI": "assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
-            "status": "active",
-            "default": true,
-            "explorer": "https://etherscan.io/token/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
-            "pairs": [
-                {
-                    "ref_id": "cl6y2qtls000sm4g5at8c4kt7"
-                },
-                {
-                    "ref_id": "cl71yr4zg000wm4g5hpaxfyb3"
-                },
-                {
-                    "ref_id": "cl71yvqi1000ym4g54hjmcbti"
-                },
-                {
-                    "ref_id": "cl71z1mq70012m4g55is7ah36"
-                }
-            ]
-        },
-        {
-            "chainId": 1,
-            "asset_id": "cl71yr4zg000wm4g5hpaxfyb3",
-            "externalId": "usd-coin",
-            "type": "ERC20",
-            "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
-            "name": "USD Coin",
-            "symbol": "USDC",
-            "decimals": 6,
-            "logoURI": "assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
-            "status": "active",
-            "default": true,
-            "explorer": "https://etherscan.io/token/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
-            "pairs": [
-                {
-                    "ref_id": "cl6y2qtls000sm4g5at8c4kt7"
-                },
-                {
-                    "ref_id": "cl6z9siee000um4g51g2qcoiq"
-                },
-                {
-                    "ref_id": "cl71yvqi1000ym4g54hjmcbti"
-                },
-                {
-                    "ref_id": "cl71z1mq70012m4g55is7ah36"
-                }
-            ]
-        },
-        {
-            "chainId": 1,
-            "asset_id": "cl71yvqi1000ym4g54hjmcbti",
-            "externalId": "tether",
-            "type": "ERC20",
-            "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
-            "name": "Tether USD",
-            "symbol": "USDT",
-            "decimals": 6,
-            "logoURI": "assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
-            "status": "active",
-            "default": true,
-            "explorer": "https://etherscan.io/token/0xdAC17F958D2ee523a2206206994597C13D831ec7",
-            "pairs": [
-                {
-                    "ref_id": "cl6y2qtls000sm4g5at8c4kt7"
-                },
-                {
-                    "ref_id": "cl6z9siee000um4g51g2qcoiq"
-                },
-                {
-                    "ref_id": "cl71yr4zg000wm4g5hpaxfyb3"
-                },
-                {
-                    "ref_id": "cl71z1mq70012m4g55is7ah36"
-                }
-            ]
-        },
-        {
-            "chainId": 1,
-            "asset_id": "cl71z1mq70012m4g55is7ah36",
-            "externalId": "dai",
-            "type": "ERC20",
-            "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
-            "name": "Dai Stablecoin",
-            "symbol": "DAI",
-            "decimals": 18,
-            "logoURI": "assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png",
-            "status": "active",
-            "default": true,
-            "explorer": "https://etherscan.io/token/0x6B175474E89094C44Da98b954EedeAC495271d0F",
-            "pairs": [
-                {
-                    "ref_id": "cl6y2qtls000sm4g5at8c4kt7"
-                },
-                {
-                    "ref_id": "cl6z9siee000um4g51g2qcoiq"
-                },
-                {
-                    "ref_id": "cl71yr4zg000wm4g5hpaxfyb3"
-                },
-                {
-                    "ref_id": "cl71yvqi1000ym4g54hjmcbti"
-                }
-            ]
-        }
-    ],
-    "version": {
-        "major": 0,
-        "minor": 0,
-        "patch": 4
+  "name": "Iron Wallet: Ethereum",
+  "logoURI": "",
+  "timestamp": "2022-08-25T09:24:41Z",
+  "status": "active",
+  "assets": [
+    {
+      "chainId": 1,
+      "asset_id": "cl6y2qtls000sm4g5at8c4kt7",
+      "externalId": "ethereum",
+      "name": "ETH",
+      "symbol": "ETH",
+      "decimals": 18,
+      "logoURI": "assets/0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/logo.png",
+      "status": "active",
+      "default": true
+    },
+    {
+      "chainId": 1,
+      "asset_id": "cl6z9siee000um4g51g2qcoiq",
+      "externalId": "weth",
+      "type": "ERC20",
+      "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+      "name": "Wrapped ETH",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
+      "status": "active",
+      "default": true,
+      "explorer": "https://etherscan.io/token/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
+    },
+    {
+      "chainId": 1,
+      "asset_id": "cl71yr4zg000wm4g5hpaxfyb3",
+      "externalId": "usd-coin",
+      "type": "ERC20",
+      "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
+      "status": "active",
+      "default": true,
+      "explorer": "https://etherscan.io/token/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"
+    },
+    {
+      "chainId": 1,
+      "asset_id": "cl71yvqi1000ym4g54hjmcbti",
+      "externalId": "tether",
+      "type": "ERC20",
+      "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
+      "status": "active",
+      "default": true,
+      "explorer": "https://etherscan.io/token/0xdAC17F958D2ee523a2206206994597C13D831ec7"
+    },
+    {
+      "chainId": 1,
+      "asset_id": "cl71z1mq70012m4g55is7ah36",
+      "externalId": "dai",
+      "type": "ERC20",
+      "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+      "name": "Dai Stablecoin",
+      "symbol": "DAI",
+      "decimals": 18,
+      "logoURI": "assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png",
+      "status": "active",
+      "default": true,
+      "explorer": "https://etherscan.io/token/0x6B175474E89094C44Da98b954EedeAC495271d0F"
     }
+  ],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 5
+  }
 }

@@ -1,7 +1,7 @@
 {
   "name": "Iron Wallet: Ethereum",
   "logoURI": "",
-  "timestamp": "2022-08-24T14:14:07Z",
+  "timestamp": "2022-08-25T09:24:41Z",
   "status": "active",
   "assets": [
     {
@@ -13,21 +13,7 @@
       "decimals": 18,
       "logoURI": "assets/0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/logo.png",
       "status": "active",
-      "default": true,
-      "pairs": [
-        {
-          "ref_id": "cl6w3movo000im4g58jkm2n0j"
-        },
-        {
-          "ref_id": "cl6w48s8q000mm4g51k8wa80r"
-        },
-        {
-          "ref_id": "cl6w4mw0f000qm4g55nez9q4n"
-        },
-        {
-          "ref_id": "cl6w4h7u8000om4g5fxdt3c6z"
-        }
-      ]
+      "default": true
     },
     {
       "chainId": 3,
@@ -41,21 +27,7 @@
       "logoURI": "assets/0xc778417E063141139Fce010982780140Aa0cD5Ab/logo.png",
       "status": "active",
       "default": true,
-      "explorer": "https://ropsten.etherscan.io/token/0xc778417E063141139Fce010982780140Aa0cD5Ab",
-      "pairs": [
-        {
-          "ref_id": "cl6w3mh9v0006m4g5gk4e1t26"
-        },
-        {
-          "ref_id": "cl6w48s8q000mm4g51k8wa80r"
-        },
-        {
-          "ref_id": "cl6w4h7u8000om4g5fxdt3c6z"
-        },
-        {
-          "ref_id": "cl6w4mw0f000qm4g55nez9q4n"
-        }
-      ]
+      "explorer": "https://ropsten.etherscan.io/token/0xc778417E063141139Fce010982780140Aa0cD5Ab"
     },
     {
       "chainId": 3,
@@ -69,21 +41,7 @@
       "logoURI": "assets/0x07865c6E87B9F70255377e024ace6630C1Eaa37F/logo.png",
       "status": "active",
       "default": true,
-      "explorer": "https://ropsten.etherscan.io/token/0x07865c6E87B9F70255377e024ace6630C1Eaa37F",
-      "pairs": [
-        {
-          "ref_id": "cl6w3mh9v0006m4g5gk4e1t26"
-        },
-        {
-          "ref_id": "cl6w3movo000im4g58jkm2n0j"
-        },
-        {
-          "ref_id": "cl6w4h7u8000om4g5fxdt3c6z"
-        },
-        {
-          "ref_id": "cl6w4mw0f000qm4g55nez9q4n"
-        }
-      ]
+      "explorer": "https://ropsten.etherscan.io/token/0x07865c6E87B9F70255377e024ace6630C1Eaa37F"
     },
     {
       "chainId": 3,
@@ -97,21 +55,7 @@
       "logoURI": "assets/0xB404c51BBC10dcBE948077F18a4B8E553D160084/logo.png",
       "status": "active",
       "default": true,
-      "explorer": "https://ropsten.etherscan.io/token/0xB404c51BBC10dcBE948077F18a4B8E553D160084",
-      "pairs": [
-        {
-          "ref_id": "cl6w3mh9v0006m4g5gk4e1t26"
-        },
-        {
-          "ref_id": "cl6w3movo000im4g58jkm2n0j"
-        },
-        {
-          "ref_id": "cl6w48s8q000mm4g51k8wa80r"
-        },
-        {
-          "ref_id": "cl6w4mw0f000qm4g55nez9q4n"
-        }
-      ]
+      "explorer": "https://ropsten.etherscan.io/token/0xB404c51BBC10dcBE948077F18a4B8E553D160084"
     },
     {
       "chainId": 3,
@@ -125,26 +69,12 @@
       "logoURI": "assets/0xaD6D458402F60fD3Bd25163575031ACDce07538D/logo.png",
       "status": "active",
       "default": true,
-      "explorer": "https://ropsten.etherscan.io/token/0xaD6D458402F60fD3Bd25163575031ACDce07538D",
-      "pairs": [
-        {
-          "ref_id": "cl6w3mh9v0006m4g5gk4e1t26"
-        },
-        {
-          "ref_id": "cl6w3movo000im4g58jkm2n0j"
-        },
-        {
-          "ref_id": "cl6w48s8q000mm4g51k8wa80r"
-        },
-        {
-          "ref_id": "cl6w4h7u8000om4g5fxdt3c6z"
-        }
-      ]
+      "explorer": "https://ropsten.etherscan.io/token/0xaD6D458402F60fD3Bd25163575031ACDce07538D"
     }
   ],
   "version": {
     "major": 0,
     "minor": 0,
-    "patch": 8
+    "patch": 9
   }
 }
