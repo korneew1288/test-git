@@ -1,7 +1,7 @@
 {
   "name": "Iron Wallet: Ethereum",
   "logoURI": "",
-  "timestamp": "2022-08-25T09:24:41Z",
+  "timestamp": "2022-08-25T10:10:46Z",
   "status": "active",
   "assets": [
     {
@@ -75,6 +75,6 @@
   "version": {
     "major": 0,
     "minor": 0,
-    "patch": 9
+    "patch": 10
   }
 }
