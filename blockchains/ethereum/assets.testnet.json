@@ -1,7 +1,7 @@
 {
   "name": "Iron Wallet: Ethereum",
   "logoURI": "",
-  "timestamp": "2022-08-25T09:24:41Z",
+  "timestamp": "2022-08-29T15:08:55Z",
   "status": "active",
   "assets": [
     {
@@ -11,7 +11,7 @@
       "name": "ETH Test",
       "symbol": "ETH",
       "decimals": 18,
-      "logoURI": "assets/0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/logo.png",
+      "logoURI": "assets/cl6w3mh9v0006m4g5gk4e1t26/logo.png",
       "status": "active",
       "default": true
     },
@@ -24,7 +24,7 @@
       "name": "Wrapped ETH",
       "symbol": "WETH",
       "decimals": 18,
-      "logoURI": "assets/0xc778417E063141139Fce010982780140Aa0cD5Ab/logo.png",
+      "logoURI": "assets/cl6w3movo000im4g58jkm2n0j/logo.png",
       "status": "active",
       "default": true,
       "explorer": "https://ropsten.etherscan.io/token/0xc778417E063141139Fce010982780140Aa0cD5Ab"
@@ -38,7 +38,7 @@
       "name": "USD//C Test",
       "symbol": "USDC",
       "decimals": 6,
-      "logoURI": "assets/0x07865c6E87B9F70255377e024ace6630C1Eaa37F/logo.png",
+      "logoURI": "assets/cl6w48s8q000mm4g51k8wa80r/logo.png",
       "status": "active",
       "default": true,
       "explorer": "https://ropsten.etherscan.io/token/0x07865c6E87B9F70255377e024ace6630C1Eaa37F"
@@ -52,7 +52,7 @@
       "name": "USDT Test",
       "symbol": "USDT",
       "decimals": 6,
-      "logoURI": "assets/0xB404c51BBC10dcBE948077F18a4B8E553D160084/logo.png",
+      "logoURI": "assets/cl6w4h7u8000om4g5fxdt3c6z/logo.png",
       "status": "active",
       "default": true,
       "explorer": "https://ropsten.etherscan.io/token/0xB404c51BBC10dcBE948077F18a4B8E553D160084"
@@ -66,7 +66,7 @@
       "name": "DAI Test",
       "symbol": "DAI",
       "decimals": 18,
-      "logoURI": "assets/0xaD6D458402F60fD3Bd25163575031ACDce07538D/logo.png",
+      "logoURI": "assets/cl6w4mw0f000qm4g55nez9q4n/logo.png",
       "status": "active",
       "default": true,
       "explorer": "https://ropsten.etherscan.io/token/0xaD6D458402F60fD3Bd25163575031ACDce07538D"
@@ -75,6 +75,6 @@
   "version": {
     "major": 0,
     "minor": 0,
-    "patch": 9
+    "patch": 10
   }
 }
