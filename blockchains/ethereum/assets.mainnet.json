@@ -6,7 +6,7 @@
             "decimals": 18,
             "default": true,
             "externalId": "ethereum",
-            "logoUri": "assets/0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/logo.png",
+            "logoUri": "assets/cl6y2qtls000sm4g5at8c4kt7/logo.png",
             "name": "ETH",
             "status": "active",
             "symbol": "ETH"
@@ -2745,10 +2745,10 @@
     "logoUri": "",
     "name": "Iron Wallet: Ethereum",
     "status": "active",
-    "timestamp": "2022-08-29T13:53:30.268Z",
+    "timestamp": "2022-08-29T14:41:21Z",
     "version": {
         "major": 0,
         "minor": 0,
-        "patch": 7
+        "patch": 8
     }
 }
