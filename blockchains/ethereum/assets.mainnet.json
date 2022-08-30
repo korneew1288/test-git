@@ -2941,10 +2941,10 @@
     "logoUri": "",
     "name": "Iron Wallet: Ethereum",
     "status": "active",
-    "timestamp": "2022-08-30T14:32:14Z",
+    "timestamp": "2022-08-30T16:56:26Z",
     "version": {
         "major": 0,
-        "minor": 0,
-        "patch": 10
+        "minor": 1,
+        "patch": 1
     }
 }
