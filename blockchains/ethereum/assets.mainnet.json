@@ -17,7 +17,7 @@
             "asset_id": "cl6z9siee000um4g51g2qcoiq",
             "chainId": 1,
             "decimals": 18,
-            "default": true,
+            "default": false,
             "explorer": "https://etherscan.io/token/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
             "externalId": "weth",
             "logoUri": "assets/cl6z9siee000um4g51g2qcoiq/logo.png",
@@ -2941,10 +2941,10 @@
     "logoUri": "",
     "name": "Iron Wallet: Ethereum",
     "status": "active",
-    "timestamp": "2022-08-30T12:40:41.719Z",
+    "timestamp": "2022-08-30T14:32:14Z",
     "version": {
         "major": 0,
         "minor": 0,
-        "patch": 9
+        "patch": 10
     }
 }
