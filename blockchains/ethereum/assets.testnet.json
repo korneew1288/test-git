@@ -1,7 +1,7 @@
 {
   "name": "Iron Wallet: Ethereum",
   "logoUri": "",
-  "timestamp": "2022-08-29T15:30:31Z",
+  "timestamp": "2022-08-31T07:54:45Z",
   "status": "active",
   "assets": [
     {
@@ -17,14 +17,14 @@
     },
     {
       "chainId": 3,
-      "asset_id": "cl6w3movo000im4g58jkm2n0j",
+      "asset_id": "cl7hbjw2k0002dsg5gysx1oqn",
       "externalId": "weth",
       "type": "ERC20",
       "address": "0xc778417E063141139Fce010982780140Aa0cD5Ab",
       "name": "Wrapped ETH",
       "symbol": "WETH",
       "decimals": 18,
-      "logoUri": "assets/cl6w3movo000im4g58jkm2n0j/logo.png",
+      "logoUri": "assets/cl7hbjw2k0002dsg5gysx1oqn/logo.png",
       "status": "active",
       "default": true,
       "explorer": "https://ropsten.etherscan.io/token/0xc778417E063141139Fce010982780140Aa0cD5Ab"
@@ -75,6 +75,6 @@
   "version": {
     "major": 0,
     "minor": 1,
-    "patch": 1
+    "patch": 2
   }
 }
