@@ -823,21 +823,6 @@
             "type": "ERC20"
         },
         {
-            "address": "0xd2877702675e6cEb975b4A1dFf9fb7BAF4C91ea9",
-            "asset_id": "cl7dq00sp00194cuzfye4ia1u",
-            "chainId": 1,
-            "decimals": 18,
-            "default": false,
-            "explorer": "https://etherscan.io/token/0xd2877702675e6cEb975b4A1dFf9fb7BAF4C91ea9",
-            "externalId": "wrapped-terra",
-            "logoUri": "assets/cl7dq00sp00194cuzfye4ia1u/logo.png",
-            "name": "Wrapped LUNA Token",
-            "sort_order": 157,
-            "status": "active",
-            "symbol": "LUNA",
-            "type": "ERC20"
-        },
-        {
             "address": "0xa1faa113cbE53436Df28FF0aEe54275c13B40975",
             "asset_id": "cl7dq01wq006c4cuzpeljt8ry",
             "chainId": 1,
