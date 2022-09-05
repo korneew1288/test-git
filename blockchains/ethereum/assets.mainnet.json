@@ -193,21 +193,6 @@
             "type": "ERC20"
         },
         {
-            "address": "0x1453Dbb8A29551ADe11D89825CA812e05317EAEB",
-            "asset_id": "cl7dq00sl000e4cuzr5q1p6ju",
-            "chainId": 1,
-            "decimals": 18,
-            "default": false,
-            "explorer": "https://etherscan.io/token/0x1453Dbb8A29551ADe11D89825CA812e05317EAEB",
-            "externalId": "tendies",
-            "logoUri": "assets/cl7dq00sl000e4cuzr5q1p6ju/logo.png",
-            "name": "Tendies Token",
-            "sort_order": 114,
-            "status": "active",
-            "symbol": "TEND",
-            "type": "ERC20"
-        },
-        {
             "address": "0x2b591e99afE9f32eAA6214f7B7629768c40Eeb39",
             "asset_id": "cl7dq00sl000f4cuze3tc0frk",
             "chainId": 1,
