@@ -1469,13 +1469,13 @@
     },
     {
         "address": "0x26c8AFBBFE1EBaca03C2bB082E69D0476Bffe099",
-        "asset_id": "cl7dq00sv002i4cuzu83g8fvw",
+        "asset_id": "cl7oqk25y000afcg5goxy2p7u",
         "chainId": 1,
         "decimals": 18,
         "default": false,
         "explorer": "https://etherscan.io/token/0x26c8AFBBFE1EBaca03C2bB082E69D0476Bffe099",
         "externalId": "cellframe",
-        "logoUri": "assets/cl7dq00sv002i4cuzu83g8fvw/logo.png",
+        "logoUri": "assets/cl7oqk25y000afcg5goxy2p7u/logo.png",
         "name": "Cellframe Token",
         "sort_order": 201,
         "status": "active",
@@ -2866,10 +2866,10 @@
   "logoUri": "",
   "name": "Iron Wallet: Ethereum",
   "status": "active",
-  "timestamp": "2022-09-05T12:20:21Z",
+  "timestamp": "2022-09-05T12:25:44Z",
   "version": {
     "major": 0,
     "minor": 1,
-    "patch": 3
+    "patch": 4
   }
 }
