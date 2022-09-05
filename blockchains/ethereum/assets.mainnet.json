@@ -1468,6 +1468,21 @@
       "type": "ERC20"
     },
     {
+        "address": "0x26c8AFBBFE1EBaca03C2bB082E69D0476Bffe099",
+        "asset_id": "cl7dq00sv002i4cuzu83g8fvw",
+        "chainId": 1,
+        "decimals": 18,
+        "default": false,
+        "explorer": "https://etherscan.io/token/0x26c8AFBBFE1EBaca03C2bB082E69D0476Bffe099",
+        "externalId": "cellframe",
+        "logoUri": "assets/cl7dq00sv002i4cuzu83g8fvw/logo.png",
+        "name": "Cellframe Token",
+        "sort_order": 201,
+        "status": "active",
+        "symbol": "CELL",
+        "type": "ERC20"
+    },
+    {
       "address": "0x87d73E916D7057945c9BcD8cdd94e42A6F47f776",
       "asset_id": "cl7dq01ws006o4cuzqx0k9dtr",
       "chainId": 1,
@@ -2226,10 +2241,10 @@
       "explorer": "https://etherscan.io/token/0x8E870D67F660D95d5be530380D0eC0bd388289E1",
       "externalId": "paxos-standard",
       "logoUri": "assets/cl7dq01c1003b4cuzij86ljez/logo.png",
-      "name": "Paxos Standard",
+      "name": "Pax Dollar",
       "sort_order": 255,
       "status": "active",
-      "symbol": "PAX",
+      "symbol": "USDP",
       "type": "ERC20"
     },
     {
@@ -2851,10 +2866,10 @@
   "logoUri": "",
   "name": "Iron Wallet: Ethereum",
   "status": "active",
-  "timestamp": "2022-08-30T16:56:26Z",
+  "timestamp": "2022-09-05T12:10:36Z",
   "version": {
     "major": 0,
     "minor": 1,
-    "patch": 1
+    "patch": 2
   }
 }
