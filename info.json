@@ -3,12 +3,12 @@
         {
             "blockchain": "ethereum",
             "chainId": 3,
-            "list": "assets.testnet.json",
-            "timestamp": "2022-08-31T07:54:45Z",
+            "list": "assets.ropsten.json",
+            "timestamp": "2022-09-08T14:07:56Z",
             "version": {
                 "major": 0,
                 "minor": 1,
-                "patch": 2
+                "patch": 3
             }
         },
         {
