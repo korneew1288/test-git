@@ -21,6 +21,17 @@
                 "minor": 1,
                 "patch": 4
             }
+        },
+        {
+            "blockchain": "ethereum",
+            "chainId": 5,
+            "list": "assets.goerli.json",
+            "timestamp": "2022-09-08T14:56:55Z",
+            "version": {
+                "major": 0,
+                "minor": 0,
+                "patch": 1
+            }
         }
     ]
 }
