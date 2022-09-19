@@ -1,7 +1,7 @@
 {
   "name": "Iron Wallet: Ethereum (goerli)",
   "logoUri": "",
-  "timestamp": "2022-09-08T14:56:55Z",
+  "timestamp": "2022-09-19T16:11:30Z",
   "status": "active",
   "assets": [
     {
@@ -34,33 +34,47 @@
       "asset_id": "cl7t4tbx6000ifcg51hyc6dug",
       "externalId": "usd-coin",
       "type": "ERC20",
-      "address": "0xD87Ba7A50B2E7E660f678A895E4B72E7CB4CCd9C",
+      "address": "0xeeDF8CB30F8E4750Ce4361Ed48169940F007906F",
       "name": "USD//C Test",
       "symbol": "USDC",
       "decimals": 6,
       "logoUri": "assets/cl7t4tbx6000ifcg51hyc6dug/logo.png",
       "status": "active",
       "default": true,
-      "explorer": "https://goerli.etherscan.io/token/0xD87Ba7A50B2E7E660f678A895E4B72E7CB4CCd9C"
+      "explorer": "https://goerli.etherscan.io/token/0xeeDF8CB30F8E4750Ce4361Ed48169940F007906F"
+    },
+    {
+      "chainId": 5,
+      "asset_id": "cl88yo14n0006c4g5gj91hudd",
+      "externalId": "tether",
+      "type": "ERC20",
+      "address": "0x91894eCCE373504Cdd22ce66aBe2abcdD59e74ab",
+      "name": "USDT Test",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoUri": "assets/cl88yo14n0006c4g5gj91hudd/logo.png",
+      "status": "active",
+      "default": true,
+      "explorer": "https://goerli.etherscan.io/token/0x91894eCCE373504Cdd22ce66aBe2abcdD59e74ab"
     },
     {
       "chainId": 5,
       "asset_id": "cl7t4ppeb000gfcg5b6s447m2",
       "externalId": "dai",
       "type": "ERC20",
-      "address": "0xdc31ee1784292379fbb2964b3b9c4124d8f89c60",
+      "address": "0x3fe1377B18E25E74F4d4270766EdF038137d91A9",
       "name": "DAI Test",
       "symbol": "DAI",
       "decimals": 18,
       "logoUri": "assets/cl7t4ppeb000gfcg5b6s447m2/logo.png",
       "status": "active",
       "default": true,
-      "explorer": "https://goerli.etherscan.io/token/0xdc31ee1784292379fbb2964b3b9c4124d8f89c60"
+      "explorer": "https://goerli.etherscan.io/token/0x3fe1377B18E25E74F4d4270766EdF038137d91A9"
     }
   ],
   "version": {
     "major": 0,
     "minor": 0,
-    "patch": 1
+    "patch": 2
   }
 }
