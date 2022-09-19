@@ -26,11 +26,11 @@
             "blockchain": "ethereum",
             "chainId": 5,
             "list": "assets.goerli.json",
-            "timestamp": "2022-09-08T14:56:55Z",
+            "timestamp": "2022-09-19T16:11:30Z",
             "version": {
                 "major": 0,
                 "minor": 0,
-                "patch": 1
+                "patch": 2
             }
         }
     ]
