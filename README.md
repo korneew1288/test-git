@@ -1,1 +1,1 @@
-# assets
+# assets & settings repo
