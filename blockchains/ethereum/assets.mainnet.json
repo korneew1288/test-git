@@ -2866,10 +2866,10 @@
   "logoUri": "",
   "name": "Iron Wallet: Ethereum",
   "status": "active",
-  "timestamp": "2022-09-05T12:25:44Z",
+  "timestamp": "2022-09-27T16:19:49Z",
   "version": {
     "major": 0,
     "minor": 1,
-    "patch": 4
+    "patch": 5
   }
 }
