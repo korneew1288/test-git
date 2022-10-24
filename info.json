@@ -32,6 +32,17 @@
                 "minor": 0,
                 "patch": 2
             }
+        },
+        {
+            "blockchain": "bitcoin",
+            "chainId": 5,
+            "list": "assets.test.json",
+            "timestamp": "2022-10-24T16:11:30Z",
+            "version": {
+                "major": 0,
+                "minor": 0,
+                "patch": 1
+            }
         }
     ]
 }
