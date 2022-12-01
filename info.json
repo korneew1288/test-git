@@ -2,31 +2,31 @@
     "versions": [
         {
             "blockchain": "ethereum",
-            "chainId": 3,
-            "list": "assets.ropsten.json",
-            "timestamp": "2022-09-08T14:07:56Z",
-            "version": {
-                "major": 0,
-                "minor": 1,
-                "patch": 3
-            }
-        },
-        {
-            "blockchain": "ethereum",
             "chainId": 1,
             "list": "assets.mainnet.json",
-            "timestamp": "2022-09-27T16:19:49Z",
+            "timestamp": "2022-12-01T15:20:24.378Z",
             "version": {
                 "major": 0,
                 "minor": 1,
-                "patch": 5
+                "patch": 6
             }
         },
         {
             "blockchain": "ethereum",
             "chainId": 5,
             "list": "assets.goerli.json",
-            "timestamp": "2022-09-19T16:11:30Z",
+            "timestamp": "2022-12-01T15:36:28Z",
+            "version": {
+                "major": 0,
+                "minor": 0,
+                "patch": 3
+            }
+        },
+        {
+            "blockchain": "bitcoin",
+            "chainId": 5,
+            "list": "assets.test.json",
+            "timestamp": "2022-12-01T15:38:12Z",
             "version": {
                 "major": 0,
                 "minor": 0,
@@ -35,13 +35,13 @@
         },
         {
             "blockchain": "bitcoin",
-            "chainId": 5,
-            "list": "assets.test.json",
-            "timestamp": "2022-10-24T16:11:30Z",
+            "chainId": 1,
+            "list": "assets.mainnet.json",
+            "timestamp": "2022-12-01T15:38:12Z",
             "version": {
                 "major": 0,
                 "minor": 0,
-                "patch": 1
+                "patch": 2
             }
         }
     ]
