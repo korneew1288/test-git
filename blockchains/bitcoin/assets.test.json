@@ -1,7 +1,7 @@
 {
   "name": "Iron Wallet: Bitcoin (test)",
   "logoUri": "",
-  "timestamp": "2022-10-24T16:11:30Z",
+  "timestamp": "2022-12-01T15:38:12Z",
   "status": "active",
   "assets": [
     {
@@ -13,12 +13,13 @@
       "decimals": 8,
       "logoUri": "assets/cl6w3mh9v0006m4g5gk4e1y97/logo.png",
       "status": "active",
-      "default": true
+      "default": true,
+      "displayDecimals": 6
     }
   ],
   "version": {
     "major": 0,
     "minor": 0,
-    "patch": 1
+    "patch": 2
   }
 }
