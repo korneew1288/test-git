@@ -2,17 +2,6 @@
     "versions": [
         {
             "blockchain": "ethereum",
-            "chainId": 3,
-            "list": "assets.ropsten.json",
-            "timestamp": "2022-09-08T14:07:56Z",
-            "version": {
-                "major": 0,
-                "minor": 1,
-                "patch": 3
-            }
-        },
-        {
-            "blockchain": "ethereum",
             "chainId": 1,
             "list": "assets.mainnet.json",
             "timestamp": "2022-09-27T16:19:49Z",
