@@ -43,6 +43,17 @@
                 "minor": 0,
                 "patch": 3
             }
+        },
+        {
+            "blockchain": "bsc",
+            "chainId": 1,
+            "list": "assets.testnet.json",
+            "timestamp": "2023-01-11T15:36:28Z",
+            "version": {
+                "major": 0,
+                "minor": 0,
+                "patch": 1
+            }
         }
     ]
 }
