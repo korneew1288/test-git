@@ -46,7 +46,7 @@
         },
         {
             "blockchain": "bsc",
-            "chainId": 1,
+            "chainId": 97,
             "list": "assets.testnet.json",
             "timestamp": "2023-01-11T15:36:28Z",
             "version": {
