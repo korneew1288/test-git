@@ -1,0 +1,25 @@
+{
+  "name": "Iron Wallet: Tron (Testnet)",
+  "logoUri": "",
+  "timestamp": "2023-01-11T15:36:28Z",
+  "status": "active",
+  "assets": [
+    {
+      "chainId": 5,
+      "asset_id": "clcryggzk000108mj2otk8ym5",
+      "externalId": "trx",
+      "name": "TRX Test",
+      "symbol": "TRX",
+      "decimals": 6,
+      "logoUri": "assets/clcryggzk000108mj2otk8ym5/logo.png",
+      "status": "active",
+      "default": true,
+      "displayDecimals": 4
+    }
+  ],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}
