@@ -7,7 +7,7 @@
     {
       "chainId": 97,
       "asset_id": "clcri5np7000008l110zt5dp7",
-      "externalId": "bnb",
+      "externalId": "binancecoin",
       "name": "BNB Test",
       "symbol": "BNB",
       "decimals": 18,
