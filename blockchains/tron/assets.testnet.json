@@ -7,7 +7,7 @@
     {
       "chainId": 5,
       "asset_id": "clcryggzk000108mj2otk8ym5",
-      "externalId": "trx",
+      "externalId": "tron",
       "name": "TRX Test",
       "symbol": "TRX",
       "decimals": 6,
@@ -20,6 +20,6 @@
   "version": {
     "major": 0,
     "minor": 0,
-    "patch": 1
+    "patch": 2
   }
 }
