@@ -15,6 +15,51 @@
       "status": "active",
       "default": true,
       "displayDecimals": 4
+    },
+    {
+      "chainId": 97,
+      "asset_id": "cld1u81pj000008l5adsi7l06",
+      "externalId": "usd-coin",
+      "type": "BEP20",
+      "address": "0x99977d87420657AeB3F9c6352e07eA33C9025303",
+      "name": "USD//C Test",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoUri": "assets/cld1u81pj000008l5adsi7l06/logo.png",
+      "status": "active",
+      "default": true,
+      "displayDecimals": 4,
+      "explorer": "https://testnet.bscscan.com/token/0x99977d87420657AeB3F9c6352e07eA33C9025303"
+    },
+    {
+      "chainId": 97,
+      "asset_id": "cld1u939f000108l5ft7ubeb6",
+      "externalId": "tether",
+      "type": "BEP20",
+      "address": "0x0c97D897de97d4fce69AE0F7fCAE654064FEf80B",
+      "name": "USDT Test",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoUri": "assets/cld1u939f000108l5ft7ubeb6/logo.png",
+      "status": "active",
+      "default": true,
+      "displayDecimals": 4,
+      "explorer": "https://testnet.bscscan.com/token/0x0c97D897de97d4fce69AE0F7fCAE654064FEf80B"
+    },
+    {
+      "chainId": 97,
+      "asset_id": "cld1u99jr000208l5axviggo9",
+      "externalId": "dai",
+      "type": "BEP20",
+      "address": "0x1A69931194b417F95d84B0900A8233df174bB77F",
+      "name": "DAI Test",
+      "symbol": "DAI",
+      "decimals": 18,
+      "logoUri": "assets/cld1u99jr000208l5axviggo9/logo.png",
+      "status": "active",
+      "default": true,
+      "displayDecimals": 4,
+      "explorer": "https://testnet.bscscan.com/token/0x1A69931194b417F95d84B0900A8233df174bB77F"
     }
   ],
   "version": {
