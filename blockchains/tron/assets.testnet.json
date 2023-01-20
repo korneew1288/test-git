@@ -15,11 +15,56 @@
       "status": "active",
       "default": true,
       "displayDecimals": 4
+    },
+    {
+      "chainId": 5,
+      "asset_id": "cld4fil71000408mj1bw7h59a",
+      "externalId": "tether",
+      "type": "TRC20",
+      "address": "TG3XXyExBkPp9nzdajDZsozEu4BkaSJozs",
+      "name": "Tether Token Tron(Test)",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoUri": "assets/cld4fil71000408mj1bw7h59a/logo.png",
+      "status": "active",
+      "default": true,
+      "displayDecimals": 4,
+      "explorer": "https://shasta.tronscan.org/#/token20/TG3XXyExBkPp9nzdajDZsozEu4BkaSJozs"
+    },
+    {
+      "chainId": 5,
+      "asset_id": "cld4fwhfq000908mj2eo1gp50",
+      "externalId": "usdd",
+      "type": "TRC20",
+      "address": "TVMZYcbjpjaGqmciUjzuRWzANTXfHxrRCs",
+      "name": "Decentralized USD Tron(Test)",
+      "symbol": "USDD",
+      "decimals": 18,
+      "logoUri": "assets/cld4fwhfq000908mj2eo1gp50/logo.png",
+      "status": "active",
+      "default": true,
+      "displayDecimals": 4,
+      "explorer": "https://shasta.tronscan.org/#/token20/TVMZYcbjpjaGqmciUjzuRWzANTXfHxrRCs"
+    },
+    {
+      "chainId": 5,
+      "asset_id": "cld4g0rl2000a08mjg06idssv",
+      "externalId": "usd-coin",
+      "type": "TRC20",
+      "address": "TSdZwNqpHofzP6BsBKGQUWdBeJphLmF6id",
+      "name": "USD Coin Tron (USDC)",
+      "symbol": "USDD",
+      "decimals": 6,
+      "logoUri": "assets/cld4g0rl2000a08mjg06idssv/logo.png",
+      "status": "active",
+      "default": true,
+      "displayDecimals": 4,
+      "explorer": "https://shasta.tronscan.org/#/token20/TSdZwNqpHofzP6BsBKGQUWdBeJphLmF6id"
     }
   ],
   "version": {
     "major": 0,
     "minor": 0,
-    "patch": 2
+    "patch": 3
   }
 }
