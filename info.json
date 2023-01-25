@@ -2,17 +2,6 @@
     "versions": [
         {
             "blockchain": "ethereum",
-            "chainId": 1,
-            "list": "assets.mainnet.json",
-            "timestamp": "2022-12-01T15:20:24.378Z",
-            "version": {
-                "major": 0,
-                "minor": 1,
-                "patch": 8
-            }
-        },
-        {
-            "blockchain": "ethereum",
             "chainId": 5,
             "list": "assets.goerli.json",
             "timestamp": "2022-12-01T15:36:28Z",
@@ -20,6 +9,17 @@
                 "major": 0,
                 "minor": 0,
                 "patch": 4
+            }
+        },
+        {
+            "blockchain": "ethereum",
+            "chainId": 1,
+            "list": "assets.mainnet.json",
+            "timestamp": "2022-12-01T15:20:24.378Z",
+            "version": {
+                "major": 0,
+                "minor": 1,
+                "patch": 8
             }
         },
         {
@@ -64,6 +64,17 @@
                 "major": 0,
                 "minor": 0,
                 "patch": 5
+            }
+        },
+        {
+            "blockchain": "avalanche",
+            "chainId": 43113,
+            "list": "assets.testnet.json",
+            "timestamp": "2023-01-24T15:36:28Z",
+            "version": {
+                "major": 0,
+                "minor": 0,
+                "patch": 1
             }
         }
     ]
