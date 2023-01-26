@@ -1,0 +1,25 @@
+{
+  "name": "Iron Wallet: Binance Smart Chain",
+  "logoUri": "",
+  "timestamp": "2023-01-26T12:25:30Z",
+  "status": "active",
+  "assets": [
+    {
+      "chainId": 56,
+      "asset_id": "cldd2k2x70000x0g555gp5qj3",
+      "externalId": "binancecoin",
+      "name": "BNB",
+      "symbol": "BNB",
+      "decimals": 18,
+      "logoUri": "assets/cldd2k2x70000x0g555gp5qj3/logo.png",
+      "status": "active",
+      "default": true,
+      "displayDecimals": 4
+    }
+  ],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}
