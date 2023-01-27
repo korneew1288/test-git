@@ -1,0 +1,25 @@
+{
+  "name": "Iron Wallet: Tron",
+  "logoUri": "",
+  "timestamp": "2023-01-11T15:36:28Z",
+  "status": "active",
+  "assets": [
+    {
+      "chainId": 1,
+      "asset_id": "cldene5ec0002rog50308a92b",
+      "externalId": "tron",
+      "name": "TRX",
+      "symbol": "TRX",
+      "decimals": 6,
+      "logoUri": "assets/cldene5ec0002rog50308a92b/logo.png",
+      "status": "active",
+      "default": true,
+      "displayDecimals": 4
+    }
+  ],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}
