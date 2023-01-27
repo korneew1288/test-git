@@ -1,25 +1,130 @@
 {
-  "name": "Iron Wallet: Tron",
-  "logoUri": "",
-  "timestamp": "2023-01-11T15:36:28Z",
-  "status": "active",
-  "assets": [
-    {
-      "chainId": 1,
-      "asset_id": "cldene5ec0002rog50308a92b",
-      "externalId": "tron",
-      "name": "TRX",
-      "symbol": "TRX",
-      "decimals": 6,
-      "logoUri": "assets/cldene5ec0002rog50308a92b/logo.png",
-      "status": "active",
-      "default": true,
-      "displayDecimals": 4
+    "assets": [
+        {
+            "asset_id": "cldene5ec0002rog50308a92b",
+            "chainId": 1,
+            "decimals": 6,
+            "default": true,
+            "displayDecimals": 4,
+            "externalId": "tron",
+            "logoUri": "assets/cldene5ec0002rog50308a92b/logo.png",
+            "name": "TRX",
+            "status": "active",
+            "symbol": "TRX"
+        },
+        {
+            "address": "TLa2f6VPqDgRE67v1736s7bJ8Ray5wYjU7",
+            "asset_id": "cldeo4das0000twuz35tgy1gl",
+            "chainId": 1,
+            "decimals": 6,
+            "default": false,
+            "displayDecimals": 4,
+            "explorer": "https://tronscan.org/#/token20/TLa2f6VPqDgRE67v1736s7bJ8Ray5wYjU7",
+            "externalId": "wink",
+            "logoUri": "assets/cldeo4das0000twuz35tgy1gl/logo.png",
+            "name": "WINK",
+            "status": "active",
+            "symbol": "WIN",
+            "type": "TRC20"
+        },
+        {
+            "address": "TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t",
+            "asset_id": "cldeo4das0001twuzto18laqe",
+            "chainId": 1,
+            "decimals": 6,
+            "default": false,
+            "displayDecimals": 4,
+            "explorer": "https://tronscan.org/#/token20/TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t",
+            "externalId": "tether",
+            "logoUri": "assets/cldeo4das0001twuzto18laqe/logo.png",
+            "name": "Tether USD",
+            "status": "active",
+            "symbol": "USDT",
+            "type": "TRC20"
+        },
+        {
+            "address": "TNUC9Qb1rRpS5CbWLmNMxXBjyFoydXjWFR",
+            "asset_id": "cldeo4das0002twuz3z0czrwl",
+            "chainId": 1,
+            "decimals": 6,
+            "default": false,
+            "displayDecimals": 4,
+            "explorer": "https://tronscan.org/#/token20/TNUC9Qb1rRpS5CbWLmNMxXBjyFoydXjWFR",
+            "externalId": "wrapped-tron",
+            "logoUri": "assets/cldeo4das0002twuz3z0czrwl/logo.png",
+            "name": "Wrapped TRX",
+            "status": "active",
+            "symbol": "WTRX",
+            "type": "TRC20"
+        },
+        {
+            "address": "TCFLL5dx5ZJdKnWuesXxi1VPwjLVmWZZy9",
+            "asset_id": "cldeo4das0003twuzr7smltlm",
+            "chainId": 1,
+            "decimals": 18,
+            "default": false,
+            "displayDecimals": 4,
+            "explorer": "https://tronscan.org/#/token20/TCFLL5dx5ZJdKnWuesXxi1VPwjLVmWZZy9",
+            "externalId": "just",
+            "logoUri": "assets/cldeo4das0003twuzr7smltlm/logo.png",
+            "name": "JUST GOV v1.0",
+            "status": "active",
+            "symbol": "JST",
+            "type": "TRC20"
+        },
+        {
+            "address": "THb4CqiFdwNHsWsQCs4JhzwjMWys4aqCbF",
+            "asset_id": "cldeo4das0004twuzxbq8n4b6",
+            "chainId": 1,
+            "decimals": 18,
+            "default": false,
+            "displayDecimals": 4,
+            "explorer": "https://tronscan.org/#/token20/THb4CqiFdwNHsWsQCs4JhzwjMWys4aqCbF",
+            "externalId": "weth",
+            "logoUri": "assets/cldeo4das0004twuzxbq8n4b6/logo.png",
+            "name": "Ethereum",
+            "status": "active",
+            "symbol": "ETH",
+            "type": "TRC20"
+        },
+        {
+            "address": "TN3W4H6rK2ce4vX9YnFQHwKENnHjoxb3m9",
+            "asset_id": "cldeo4das0005twuzp7k2iy3f",
+            "chainId": 1,
+            "decimals": 8,
+            "default": false,
+            "displayDecimals": 4,
+            "explorer": "https://tronscan.org/#/token20/TN3W4H6rK2ce4vX9YnFQHwKENnHjoxb3m9",
+            "externalId": "bitcoin-trc20",
+            "logoUri": "assets/cldeo4das0005twuzp7k2iy3f/logo.png",
+            "name": "Bitcoin",
+            "status": "active",
+            "symbol": "BTC",
+            "type": "TRC20"
+        },
+        {
+            "address": "TGbu32VEGpS4kDmjrmn5ZZJgUyHQiaweoq",
+            "asset_id": "cldeo4das000atwuzj1p70hdj",
+            "chainId": 1,
+            "decimals": 18,
+            "default": false,
+            "displayDecimals": 4,
+            "explorer": "https://tronscan.org/#/token20/TGbu32VEGpS4kDmjrmn5ZZJgUyHQiaweoq",
+            "externalId": "pearl-finance",
+            "logoUri": "assets/cldeo4das000atwuzj1p70hdj/logo.png",
+            "name": "Pearl.finance",
+            "status": "active",
+            "symbol": "Pearl",
+            "type": "TRC20"
+        }
+    ],
+    "logoUri": "",
+    "name": "Iron Wallet: Tron",
+    "status": "active",
+    "timestamp": "2023-01-27T15:17:37.494Z",
+    "version": {
+        "major": 0,
+        "minor": 0,
+        "patch": 1
     }
-  ],
-  "version": {
-    "major": 0,
-    "minor": 0,
-    "patch": 0
-  }
 }
