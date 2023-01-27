@@ -103,11 +103,11 @@
             "blockchain": "avalanche",
             "chainId": 43114,
             "list": "assets.mainnet.json",
-            "timestamp": "2023-01-27T16:08:16Z",
+            "timestamp": "2023-01-27T16:33:13.029Z",
             "version": {
                 "major": 0,
                 "minor": 0,
-                "patch": 0
+                "patch": 1
             }
         },
         {
