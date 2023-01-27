@@ -1,17 +1,17 @@
 {
-  "name": "Iron Wallet: Avalanche Fuji Testnet",
+  "name": "Iron Wallet: Avalanche Mainnet",
   "logoUri": "",
-  "timestamp": "2023-01-24T15:36:28Z",
+  "timestamp": "2023-01-27T16:08:16Z",
   "status": "active",
   "assets": [
     {
-      "chainId": 43113,
-      "asset_id": "cldadu4ki000008jxexvc6jdl",
+      "chainId": 43114,
+      "asset_id": "cldepwip10000okg5ekh8cnt2",
       "externalId": "avalanche-2",
-      "name": "Avalanche Test",
+      "name": "Avalanche",
       "symbol": "AVAX",
       "decimals": 18,
-      "logoUri": "assets/cldadu4ki000008jxexvc6jdl/logo.png",
+      "logoUri": "assets/cldepwip10000okg5ekh8cnt2/logo.png",
       "status": "active",
       "default": true,
       "displayDecimals": 4
@@ -20,6 +20,6 @@
   "version": {
     "major": 0,
     "minor": 0,
-    "patch": 1
+    "patch": 0
   }
 }
