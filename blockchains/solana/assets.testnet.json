@@ -1,0 +1,25 @@
+{
+  "name": "Iron Wallet: Solana (Testnet)",
+  "logoUri": "",
+  "timestamp": "2023-01-27T15:36:28Z",
+  "status": "active",
+  "assets": [
+    {
+      "chainId": 5,
+      "asset_id": "cldejolim000008je2ffj9fr0",
+      "externalId": "sol",
+      "name": "Solana Test",
+      "symbol": "SOL",
+      "decimals": 9,
+      "logoUri": "assets/cldejolim000008je2ffj9fr0/logo.png",
+      "status": "active",
+      "default": true,
+      "displayDecimals": 4
+    }
+  ],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}
