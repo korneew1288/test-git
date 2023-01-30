@@ -7,7 +7,7 @@
     {
       "chainId": 5,
       "asset_id": "cldejolim000008je2ffj9fr0",
-      "externalId": "sol",
+      "externalId": "solana",
       "name": "Solana Test",
       "symbol": "SOL",
       "decimals": 9,
