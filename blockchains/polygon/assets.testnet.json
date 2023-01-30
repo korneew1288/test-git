@@ -1,0 +1,25 @@
+{
+  "name": "Iron Wallet: Polygon Mumbai Testnet",
+  "logoUri": "",
+  "timestamp": "2023-01-30T15:36:28Z",
+  "status": "active",
+  "assets": [
+    {
+      "chainId": 80001,
+      "asset_id": "cldirm25m000008md5q5k0y5c",
+      "externalId": "matic-network",
+      "name": "Polygon Test",
+      "symbol": "MATIC",
+      "decimals": 9,
+      "logoUri": "assets/cldirm25m000008md5q5k0y5c/logo.png",
+      "status": "active",
+      "default": true,
+      "displayDecimals": 4
+    }
+  ],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}
