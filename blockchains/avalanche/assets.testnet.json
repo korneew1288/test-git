@@ -15,6 +15,51 @@
       "status": "active",
       "default": true,
       "displayDecimals": 4
+    },
+    {
+      "chainId": 43113,
+      "asset_id": "cldiqdc4z000408lafhtw0hu5",
+      "externalId": "usd-coin",
+      "type": "Avalanche",
+      "address": "0x8021419E21D9a01225F21bA614bFaFf519393AB4",
+      "name": "USD//C Test",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoUri": "assets/cldiqdc4z000408lafhtw0hu5/logo.png",
+      "status": "active",
+      "default": true,
+      "displayDecimals": 4,
+      "explorer": "https://testnet.snowtrace.io/token/0x8021419e21d9a01225f21ba614bfaff519393ab4"
+    },
+    {
+      "chainId": 43113,
+      "asset_id": "cldiqeayj000508lacpp1flhq",
+      "externalId": "tether",
+      "type": "Avalanche",
+      "address": "0x27d2625a7BD43CA4417d0493BEaE35930EAb79C4",
+      "name": "USDT Test",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoUri": "assets/cldiqeayj000508lacpp1flhq/logo.png",
+      "status": "active",
+      "default": true,
+      "displayDecimals": 4,
+      "explorer": "https://testnet.snowtrace.io/token/0x27d2625a7bd43ca4417d0493beae35930eab79c4"
+    },
+    {
+      "chainId": 43113,
+      "asset_id": "cldiqf6eo000608la0f5u6564",
+      "externalId": "dai",
+      "type": "Avalanche",
+      "address": "0xc02ef816F1a040C01De5257f71Fec595413e313E",
+      "name": "DAI Test",
+      "symbol": "DAI",
+      "decimals": 18,
+      "logoUri": "assets/cldiqf6eo000608la0f5u6564/logo.png",
+      "status": "active",
+      "default": true,
+      "displayDecimals": 4,
+      "explorer": "https://testnet.snowtrace.io/token/0xc02ef816f1a040c01de5257f71fec595413e313e"
     }
   ],
   "version": {
