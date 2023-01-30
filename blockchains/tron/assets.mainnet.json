@@ -103,36 +103,6 @@
             "type": "TRC20"
         },
         {
-            "address": "TGbu32VEGpS4kDmjrmn5ZZJgUyHQiaweoq",
-            "asset_id": "cldeo4das000atwuzj1p70hdj",
-            "chainId": 1,
-            "decimals": 18,
-            "default": false,
-            "displayDecimals": 4,
-            "explorer": "https://tronscan.org/#/token20/TGbu32VEGpS4kDmjrmn5ZZJgUyHQiaweoq",
-            "externalId": "pearl-finance",
-            "logoUri": "assets/cldeo4das000atwuzj1p70hdj/logo.png",
-            "name": "Pearl.finance",
-            "status": "active",
-            "symbol": "Pearl",
-            "type": "TRC20"
-        },
-        {
-            "address": "TRkuKAxmWZ4G74MvZnFpoosQZsfvtNpmwH",
-            "asset_id": "cldeu26240002i0uzc3bpmsjy",
-            "chainId": 1,
-            "decimals": 8,
-            "default": false,
-            "displayDecimals": 4,
-            "explorer": "https://tronscan.org/#/token20/TRkuKAxmWZ4G74MvZnFpoosQZsfvtNpmwH",
-            "externalId": "ume-token",
-            "logoUri": "assets/cldeu26240002i0uzc3bpmsjy/logo.png",
-            "name": "UME Token",
-            "status": "active",
-            "symbol": "UME",
-            "type": "TRC20"
-        },
-        {
             "address": "TFczxzPhnThNSqr5by8tvxsdCFRRz6cPNq",
             "asset_id": "cldeu26250006i0uzn9z2qgdk",
             "chainId": 1,
@@ -160,21 +130,6 @@
             "name": "SUN TOKEN",
             "status": "active",
             "symbol": "SUN",
-            "type": "TRC20"
-        },
-        {
-            "address": "TG3XANY34mpabHM2DNc5ajhjMJVUQU741Y",
-            "asset_id": "cldeu26250008i0uzq8ytqc64",
-            "chainId": 1,
-            "decimals": 8,
-            "default": false,
-            "displayDecimals": 4,
-            "explorer": "https://tronscan.org/#/token20/TG3XANY34mpabHM2DNc5ajhjMJVUQU741Y",
-            "externalId": "eft",
-            "logoUri": "assets/cldeu26250008i0uzq8ytqc64/logo.png",
-            "name": "EFT",
-            "status": "active",
-            "symbol": "EFT",
             "type": "TRC20"
         },
         {
@@ -283,21 +238,6 @@
             "type": "TRC20"
         },
         {
-            "address": "TNBrVEzuVYbNbGF2ua3ivSX5Y5V9N4xhax",
-            "asset_id": "cldeu262i001zi0uzm9fq23y4",
-            "chainId": 1,
-            "decimals": 8,
-            "default": false,
-            "displayDecimals": 4,
-            "explorer": "https://tronscan.org/#/token20/TNBrVEzuVYbNbGF2ua3ivSX5Y5V9N4xhax",
-            "externalId": "safemoney",
-            "logoUri": "assets/cldeu262i001zi0uzm9fq23y4/logo.png",
-            "name": "Safe Money",
-            "status": "active",
-            "symbol": "SafeMoney",
-            "type": "TRC20"
-        },
-        {
             "address": "TNo59Khpq46FGf4sD7XSWYFNfYfbc8CqNK",
             "asset_id": "cldeu262j0023i0uzitsdi5ld",
             "chainId": 1,
@@ -341,22 +281,7 @@
             "status": "active",
             "symbol": "AZNT",
             "type": "TRC20"
-        },
-        {
-            "address": "TBp6ZMzkxci5o4sJjFa6Fo9Wy36gcubQLW",
-            "asset_id": "cldeu262m002ki0uz3o2bk6pv",
-            "chainId": 1,
-            "decimals": 6,
-            "default": false,
-            "displayDecimals": 4,
-            "explorer": "https://tronscan.org/#/token20/TBp6ZMzkxci5o4sJjFa6Fo9Wy36gcubQLW",
-            "externalId": "bem",
-            "logoUri": "assets/cldeu262m002ki0uz3o2bk6pv/logo.png",
-            "name": "BEM",
-            "status": "active",
-            "symbol": "BEMT",
-            "type": "TRC20"
-        }
+        }        
     ],
     "logoUri": "",
     "name": "Iron Wallet: Tron",
