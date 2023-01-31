@@ -15,6 +15,51 @@
       "status": "active",
       "default": true,
       "displayDecimals": 4
+    },
+    {
+      "chainId": 80001,
+      "asset_id": "cldk9i54m000208l85d8ig61b",
+      "externalId": "usd-coin",
+      "type": "Polygon",
+      "address": "0x27d2625a7BD43CA4417d0493BEaE35930EAb79C4",
+      "name": "USD//C Test",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoUri": "assets/cldk9i54m000208l85d8ig61b/logo.png",
+      "status": "active",
+      "default": true,
+      "displayDecimals": 4,
+      "explorer": "https://mumbai.polygonscan.com/token/0x27d2625a7BD43CA4417d0493BEaE35930EAb79C4"
+    },
+    {
+      "chainId": 80001,
+      "asset_id": "cldk9ieac000308l88c4bgvy9",
+      "externalId": "tether",
+      "type": "Polygon",
+      "address": "0x8021419E21D9a01225F21bA614bFaFf519393AB4",
+      "name": "USDT Test",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoUri": "assets/cldk9ieac000308l88c4bgvy9/logo.png",
+      "status": "active",
+      "default": true,
+      "displayDecimals": 4,
+      "explorer": "https://mumbai.polygonscan.com/token/0x8021419E21D9a01225F21bA614bFaFf519393AB4"
+    },
+    {
+      "chainId": 80001,
+      "asset_id": "cldk9ijfw000408l88kt23mel",
+      "externalId": "dai",
+      "type": "Polygon",
+      "address": "0xc02ef816F1a040C01De5257f71Fec595413e313E",
+      "name": "DAI Test",
+      "symbol": "DAI",
+      "decimals": 18,
+      "logoUri": "assets/cldk9ijfw000408l88kt23mel/logo.png",
+      "status": "active",
+      "default": true,
+      "displayDecimals": 4,
+      "explorer": "https://mumbai.polygonscan.com/token/0xc02ef816F1a040C01De5257f71Fec595413e313E"
     }
   ],
   "version": {
