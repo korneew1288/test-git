@@ -21,7 +21,7 @@
       "asset_id": "cldlhp47a000008mm4i2x6da5",
       "externalId": "matrix-solana-index",
       "type": "Solana",
-      "address": "2e7yNwrmTgXp9ABUmcPXvFJTSrEVLj4YMyrb4GUM4Pdd",
+      "address": "Gh9ZwEmdLJ8DscKNTkTqPbNwLNNBjuSzaG9Vp2KGtKJr",
       "name": "Matrix Solana Index Test",
       "symbol": "MSI",
       "decimals": 6,
@@ -35,6 +35,6 @@
   "version": {
     "major": 0,
     "minor": 0,
-    "patch": 3
+    "patch": 4
   }
 }
