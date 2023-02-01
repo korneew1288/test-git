@@ -8,7 +8,7 @@
             "displayDecimals": 4,
             "externalId": "binancecoin",
             "logoUri": "assets/cldd2k2x70000x0g555gp5qj3/logo.png",
-            "name": "BNB",
+            "name": "BNB Smart Chain",
             "status": "active",
             "symbol": "BNB"
         },
@@ -11371,10 +11371,10 @@
     "logoUri": "",
     "name": "Iron Wallet: Binance Smart Chain",
     "status": "active",
-    "timestamp": "2023-01-27T15:25:04.868Z",
+    "timestamp": "2023-02-01T21:26:55Z",
     "version": {
         "major": 0,
         "minor": 0,
-        "patch": 4
+        "patch": 5
     }
 }

@@ -1,14 +1,14 @@
 {
   "name": "Iron Wallet: Binance Smart Chain Testnet",
   "logoUri": "",
-  "timestamp": "2023-01-11T15:36:28Z",
+  "timestamp": "2023-02-01T21:26:55Z",
   "status": "active",
   "assets": [
     {
       "chainId": 97,
       "asset_id": "clcri5np7000008l110zt5dp7",
       "externalId": "binancecoin",
-      "name": "BNB Test",
+      "name": "BNB Smart Chain (test)",
       "symbol": "BNB",
       "decimals": 18,
       "logoUri": "assets/clcri5np7000008l110zt5dp7/logo.png",
@@ -65,6 +65,6 @@
   "version": {
     "major": 0,
     "minor": 0,
-    "patch": 1
+    "patch": 2
   }
 }
