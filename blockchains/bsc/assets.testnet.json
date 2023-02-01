@@ -1,7 +1,7 @@
 {
   "name": "Iron Wallet: Binance Smart Chain Testnet",
   "logoUri": "",
-  "timestamp": "2023-01-11T15:36:28Z",
+  "timestamp": "2023-02-01T21:26:55Z",
   "status": "active",
   "assets": [
     {
@@ -65,6 +65,6 @@
   "version": {
     "major": 0,
     "minor": 0,
-    "patch": 1
+    "patch": 2
   }
 }
