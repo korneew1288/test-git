@@ -1,0 +1,34 @@
+{
+  "resources": {
+    "DApps": [
+      {
+        "res_id": "cldw5tfe6000a6wg5bf4u04gd",
+        "name": "Uniswap",
+        "description": "Swap or provide liquidity on the Uniswap Protocol.",
+        "type": "DApp",
+        "link_uri": "https://app.uniswap.org",
+        "logo_uri": "logos/cldw5tfe6000a6wg5bf4u04gd.png",
+        "sort_order": 1,
+        "status": "active"
+      },
+      {
+        "res_id": "cldw59zbi00026wg5apljgje0",
+        "name": "PancakeSwap",
+        "description": "The most popular AMM on BSC by user count! Earn CAKE through yield farming or win it in the Lottery, then stake it in Syrup Pools to earn more tokens! Initial Farm Offerings (new token launch model pioneered by PancakeSwap), NFTs, and more, on a platform you can trust.",
+        "type": "DApp",
+        "link_uri": "https://pancakeswap.finance/",
+        "logo_uri": "logos/cldw59zbi00026wg5apljgje0.png",
+        "sort_order": 2,
+        "status": "active"
+      }
+    ],
+    "DeFi": [],
+    "Staking": []
+  },
+  "timestamp": "2023-02-08T22:02:58Z",
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}
