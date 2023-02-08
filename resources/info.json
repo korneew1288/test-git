@@ -2,7 +2,7 @@
   "resources": {
     "DApps": [
       {
-        "dapp_id": "cldw5tfe6000a6wg5bf4u04gd",
+        "res_id": "cldw5tfe6000a6wg5bf4u04gd",
         "name": "Uniswap",
         "description": "Swap or provide liquidity on the Uniswap Protocol.",
         "type": "DApp",
@@ -12,7 +12,7 @@
         "status": "active"
       },
       {
-        "dapp_id": "cldw59zbi00026wg5apljgje0",
+        "res_id": "cldw59zbi00026wg5apljgje0",
         "name": "PancakeSwap",
         "description": "The most popular AMM on BSC by user count! Earn CAKE through yield farming or win it in the Lottery, then stake it in Syrup Pools to earn more tokens! Initial Farm Offerings (new token launch model pioneered by PancakeSwap), NFTs, and more, on a platform you can trust.",
         "type": "DApp",
