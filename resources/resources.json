@@ -2,269 +2,269 @@
   "resources": {
     "Buy/sell crypto": [
       {
-        "res_id": "cle5ra56o0000fcg5f6zs1bam",
+        "res_id": "cle8jahfe0000igg541dcde3t",
         "name": "Change hero",
         "description": "Buy or Sell crypto with credit card and debit card",
         "type": "WebApp",
         "link_uri": "https://changehero.io/buy-sell-crypto",
-        "logo_uri": "logos/cle5ra56o0000fcg5f6zs1bam.svg",
+        "logo_uri": "logos/cle8jahfe0000igg541dcde3t.png",
         "sort_order": 1,
         "status": "active"
       },
       {
-        "res_id": "cle5rgt1v0002fcg55q2idp65",
+        "res_id": "cle8kzlev0006igg50dkmdwxx",
         "name": "Transak",
         "description": "Available across 160 cryptocurrencies on 75+ blockchains via cards, bank transfers and other payment methods in 150 countries.",
         "type": "WebApp",
         "link_uri": "https://global.transak.com",
-        "logo_uri": "logos/cle5rgt1v0002fcg55q2idp65.svg",
+        "logo_uri": "logos/cle8kzlev0006igg50dkmdwxx.png",
         "sort_order": 2,
         "status": "active"
       },
       {
-        "res_id": "cle5rmh220004fcg57whk09og",
+        "res_id": "cle8l078z000aigg55kkmgcye",
         "name": "Ramp",
         "description": "Allow users to buy crypto without leaving your dApp or wallet. Increase conversion. Be ready for your next million users.",
         "type": "WebApp",
         "link_uri": "https://ramp.network/buy",
-        "logo_uri": "logos/cle5rmh220004fcg57whk09og.svg",
+        "logo_uri": "logos/cle8l078z000aigg55kkmgcye.png",
         "sort_order": 3,
         "status": "active"
       },
       {
-        "res_id": "cle5rp84r0006fcg506kp2m5l",
+        "res_id": "cle8l0qll000cigg5cy63gjki",
         "name": "Banxa",
         "description": "Banxa is a financial technology platform. Banxa is not a bank / authorised deposit taking institution.",
         "type": "WebApp",
         "link_uri": "https://banxa.com",
-        "logo_uri": "logos/cle5rp84r0006fcg506kp2m5l.svg",
+        "logo_uri": "logos/cle8l0qll000cigg5cy63gjki.png",
         "sort_order": 4,
         "status": "active"
       }
     ],
     "DeFi": [
       {
-        "res_id": "cle5s5itr000efcg59su7eglo",
+        "res_id": "cle8l1c9m000eigg57vpo2c7z",
         "name": "ETH2 Deposit Contract",
         "description": "Become a validator and help secure the future of Ethereum Earn continuous rewards for providing a public good to the community.",
         "type": "DApp",
         "link_uri": "https://launchpad.ethereum.org/en/",
-        "logo_uri": "logos/cle5s5itr000efcg59su7eglo.svg",
+        "logo_uri": "logos/cle8l1c9m000eigg57vpo2c7z.png",
         "sort_order": 1,
         "status": "active"
       },
       {
-        "res_id": "cle5scl2k000kfcg56iua0zs9",
+        "res_id": "cle8l1yhj000iigg5bqb1fcj0",
         "name": "Polygon POS Bridge",
         "description": "The safe, fast and most secure way to bring cross-chain assets to Polygon chain.",
         "type": "DApp",
         "link_uri": "https://wallet.polygon.technology",
-        "logo_uri": "logos/cle5scl2k000kfcg56iua0zs9.svg",
+        "logo_uri": "logos/cle8l1yhj000iigg5bqb1fcj0.png",
         "sort_order": 2,
         "status": "active"
       },
       {
-        "res_id": "cle5sfq2u000mfcg5h7lp9cl8",
+        "res_id": "cle8l2f63000kigg5bxdq6rge",
         "name": "Curve",
         "description": "Curve is automated market-maker optimized for stablecoins, working as an exchange on one side, and allowing liquidity providers to earn fees and lending interest on the other side",
         "type": "DApp",
         "link_uri": "https://curve.fi/",
-        "logo_uri": "logos/cle5sfrxg000ofcg5eo0md8fz.svg",
+        "logo_uri": "logos/cle8l2f63000kigg5bxdq6rge.png",
         "sort_order": 3,
         "status": "active"
       },
       {
-        "res_id": "cle5t1o22000sfcg5gcvq6soh",
+        "res_id": "cle8l2zmc000migg52qn8awhk",
         "name": "AutoShark Finance",
         "description": "Automated Yield Optimizer. Liquidity Sources Aggregator. Get rebates when you use our AMM!",
         "type": "DApp",
         "link_uri": "https://autoshark.finance/",
-        "logo_uri": "logos/cle5t1o22000sfcg5gcvq6soh.png",
+        "logo_uri": "logos/cle8l2zmc000migg52qn8awhk.png",
         "sort_order": 4,
         "status": "active"
       },
       {
-        "res_id": "cle5t92m7000wfcg5cbv88wps",
+        "res_id": "cle8l3fa2000oigg58lj37lfu",
         "name": "Oasis.app",
         "description": "You can open a Vault, borrow Dai, multiply your exposure and Earn against your preferred collateral.",
         "type": "DApp",
         "link_uri": "https://oasis.app/",
-        "logo_uri": "logos/cle5t3cwh000ufcg5ece26hl7.png",
+        "logo_uri": "logos/cle8l3fa2000oigg58lj37lfu.png",
         "sort_order": 5,
         "status": "active"
       }
     ],
     "Games": [
       {
-        "res_id": "cle5thx230010fcg59udaaw6w",
+        "res_id": "cle8l62bx000qigg594gl894m",
         "name": "Alien Worlds",
         "description": "Innovative Metaverse where everything is tokenized",
         "type": "DApp",
         "link_uri": "https://alienworlds.io/",
-        "logo_uri": "logos/cle5thx230010fcg59udaaw6w.png",
+        "logo_uri": "logos/cle8l62bx000qigg594gl894m.png",
         "sort_order": 1,
         "status": "active"
       },
       {
-        "res_id": "cle5u42kl0014fcg538ti2v6l",
+        "res_id": "cle8l6gm4000sigg547q57han",
         "name": "Planet IX",
         "description": "Planet IX is an NFT-based strategy and play-to-earn game. Players contribute to building a better planet by acquiring and cultivating land in the form of NFTs.",
         "type": "DApp",
         "link_uri": "https://planetix.com/",
-        "logo_uri": "logos/cle5u1f7f0012fcg57wcq9dqt.png",
+        "logo_uri": "logos/cle8l6gm4000sigg547q57han.png",
         "sort_order": 2,
         "status": "active"
       },
       {
-        "res_id": "cle5u9ais001efcg5bwxj7y1u",
+        "res_id": "cle8l6zoc000uigg58bgvgdcd",
         "name": "Meta Apes",
         "description": "Meta Apes is a free-to-play & play-to-earn MMO strategy game.",
         "type": "DApp",
         "link_uri": "https://metaapesgame.com/",
-        "logo_uri": "logos/cle5u9ais001efcg5bwxj7y1u.png",
+        "logo_uri": "logos/cle8l6zoc000uigg58bgvgdcd.png",
         "sort_order": 3,
         "status": "active"
       },
       {
-        "res_id": "cle5u9yks001gfcg57mlt7dhf",
+        "res_id": "cle8l7i4l000wigg52yhb75wb",
         "name": "X World Games",
         "description": "X World Games is the next-generation decentralized gaming metaverse.",
         "type": "DApp",
         "link_uri": "https://xwg.games/",
-        "logo_uri": "logos/cle5u9yks001gfcg57mlt7dhf.svg",
+        "logo_uri": "logos/cle8l7i4l000wigg52yhb75wb.png",
         "sort_order": 4,
         "status": "active"
       },
       {
-        "res_id": "cle5uh804001ifcg5gm2e8yi5",
+        "res_id": "cle8l7zhh000yigg56sdnb0rd",
         "name": "Iskra",
         "description": "Iskra offers a premier destination for players, developers and investors to explore the thrill and opportunity of Web3 gaming alongside a vibrant community.",
         "type": "DApp",
         "link_uri": "https://iskra.world/",
-        "logo_uri": "logos/cle5uh804001ifcg5gm2e8yi5.png",
+        "logo_uri": "logos/cle8l7zhh000yigg56sdnb0rd.png",
         "sort_order": 4,
         "status": "active"
       }
     ],
     "Gambling": [
       {
-        "res_id": "cle5unavx001kfcg5cufb2hr4",
+        "res_id": "cle8l8v2t0012igg51wmbeorg",
         "name": "OwlDAO",
         "description": "OwlDAO is the leading blockchain-based gaming provider for DeFi Projects. The DAO helps projects build their own Casinos to GameFi their tokens.",
         "type": "DApp",
         "link_uri": "https://owldao.io/",
-        "logo_uri": "logos/cle5unavx001kfcg5cufb2hr4.png",
+        "logo_uri": "logos/cle8l8v2t0012igg51wmbeorg.png",
         "sort_order": 1,
         "status": "active"
       },
       {
-        "res_id": "cle5urvvb001ofcg5hougbewy",
+        "res_id": "cle8l98pw0014igg55c0kgqxp",
         "name": "Solcasino.io",
         "description": "Top One Crypto Casino on Solana network.",
         "type": "DApp",
         "link_uri": "https://solcasino.io/",
-        "logo_uri": "logos/cle5ur51s0cle5urvvb001ofcg5hougbewy01mfcg55gwa3m20.png",
+        "logo_uri": "logos/cle8l98pw0014igg55c0kgqxp.png",
         "sort_order": 2,
         "status": "active"
       },
       {
-        "res_id": "cle5uwdxy001qfcg5hz776qr1",
+        "res_id": "cle8l9tjy0016igg51a6zcag5",
         "name": "Trade signal",
         "description": "Providing Gambling games and profitable Crypto trading signals. to access the premium channel register on our website.",
         "type": "DApp",
         "link_uri": "https://trade-signal.net/",
-        "logo_uri": "logos/cle5uwdxy001qfcg5hz776qr1.png",
+        "logo_uri": "logos/cle8l9tjy0016igg51a6zcag5.png",
         "sort_order": 3,
         "status": "active"
       },
       {
-        "res_id": "cle5uzmhl001sfcg5hjep4a5c",
+        "res_id": "cle8labav0018igg57owj1tpd",
         "name": "SLM Games",
         "description": "SLM.Games is the best crypto casino provider for Web3. Players can not only play here, but also build passive income through our NFT system",
         "type": "DApp",
         "link_uri": "https://slm.games/",
-        "logo_uri": "logos/cle5uzmhl001sfcg5hjep4a5c.png",
+        "logo_uri": "logos/cle8labav0018igg57owj1tpd.png",
         "sort_order": 4,
         "status": "active"
       },
       {
-        "res_id": "cle5v2c3h001ufcg50qsra2tc",
+        "res_id": "cle8lar5b001aigg583xv61m9",
         "name": "Degen Toy Machine",
         "description": "Degen Toy Machine is a randomized SPL/NFT token distribution utility.",
         "type": "DApp",
         "link_uri": "https://www.hydralaunchpad.com/",
-        "logo_uri": "logos/cle5v2c3h001ufcg50qsra2tc.png",
+        "logo_uri": "logos/cle8lar5b001aigg583xv61m9.png",
         "sort_order": 5,
         "status": "active"
       }
     ],
     "Exchanges": [
       {
-        "res_id": "cle5rw31s0008fcg537w81mw4",
+        "res_id": "cle8lb6oc001cigg538ek5s2x",
         "name": "Uniswap V3",
         "description": "Swap or provide liquidity on the Uniswap Protocol.",
         "type": "DApp",
         "link_uri": "https://app.uniswap.org",
-        "logo_uri": "logos/cle5rw31s0008fcg537w81mw4.svg",
+        "logo_uri": "logos/cle8lb6oc001cigg538ek5s2x.png",
         "sort_order": 1,
         "status": "active"
       },
       {
-        "res_id": "cle5rws7z000afcg510ps4iqn",
+        "res_id": "cle8lblkd001eigg5bmd9b4hf",
         "name": "PancakeSwap",
         "description": "The most popular AMM on BSC by user count! Earn CAKE through yield farming or win it in the Lottery, then stake it in Syrup Pools to earn more tokens! Initial Farm Offerings (new token launch model pioneered by PancakeSwap), NFTs, and more, on a platform you can trust.",
         "type": "DApp",
         "link_uri": "https://pancakeswap.finance/",
-        "logo_uri": "logos/cle5rws7z000afcg510ps4iqn.svg",
+        "logo_uri": "logos/cle8lblkd001eigg5bmd9b4hf.png",
         "sort_order": 2,
         "status": "active"
       },
       {
-        "res_id": "cle5v5xlv001wfcg5bipu06y4",
+        "res_id": "cle8ld1hh001iigg50tx70xp5",
         "name": "Balancer",
         "description": "Balancer is a protocol for programmable liquidity",
         "type": "DApp",
-        "link_uri": "https://pancakeswap.finance/",
-        "logo_uri": "logos/cle5v5xlv001wfcg5bipu06y4.svg",
+        "link_uri": "https://balancer.fi/",
+        "logo_uri": "logos/cle8ld1hh001iigg50tx70xp5.png",
         "sort_order": 3,
         "status": "active"
       },
       {
-        "res_id": "cle5v8ey0001yfcg503t55jba",
+        "res_id": "cle8ldndu001kigg54r5x76pd",
         "name": "QuickSwap",
         "description": "QuickSwap is a permissionless decentralized exchange (DEX) based on Ethereum, powered by Matic Network’s Layer 2 scalability infrastructure.",
         "type": "DApp",
         "link_uri": "https://quickswap.exchange/",
-        "logo_uri": "logos/cle5v8ey0001yfcg503t55jba.png",
+        "logo_uri": "logos/cle8ldndu001kigg54r5x76pd.png",
         "sort_order": 4,
         "status": "active"
       },
       {
-        "res_id": "cle5vh2su0020fcg50kxjfra0",
+        "res_id": "cle8ldz2t001migg5al8weh6b",
         "name": "Thena",
         "description": "THENA is THE native liquidity layer & AMM on BNB Chain",
         "type": "DApp",
         "link_uri": "https://thena.fi/",
-        "logo_uri": "logos/cle5vh2su0020fcg50kxjfra0.svg",
+        "logo_uri": "logos/cle8ldz2t001migg5al8weh6b.png",
         "sort_order": 5,
         "status": "active"
       },
       {
-        "res_id": "cle5vkm2l0022fcg54grfcbsy",
+        "res_id": "cle8led10001oigg5cd41emr8",
         "name": "SunSwap",
         "description": "SunSwap is the first decentralized token exchange protocol on TRON.",
         "type": "DApp",
         "link_uri": "https://sunswap.com/",
-        "logo_uri": "logos/cle5vkm2l0022fcg54grfcbsy.svg",
+        "logo_uri": "logos/cle8led10001oigg5cd41emr8.png",
         "sort_order": 6,
         "status": "active"
       }
     ]
   },
-  "timestamp": "2023-02-15T16:19:24Z",
+  "timestamp": "2023-02-17T13:55:01Z",
   "version": {
     "major": 0,
     "minor": 0,
-    "patch": 2
+    "patch": 3
   }
 }
