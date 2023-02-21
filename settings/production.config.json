@@ -1,8 +1,0 @@
-{
-  "Mobile": {
-    "Features": {
-      "enableGaslessTransfer": true,
-      "enableGaslessExchange": true
-    }
-  }
-}
