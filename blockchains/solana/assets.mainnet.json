@@ -1,0 +1,25 @@
+{
+  "name": "Iron Wallet: Solana",
+  "logoUri": "",
+  "timestamp": "2023-03-03T11:12:32Z",
+  "status": "active",
+  "assets": [
+    {
+      "chainId": 1,
+      "asset_id": "clesftgfa0002q0g5gzyeblz6",
+      "externalId": "solana",
+      "name": "Solana",
+      "symbol": "SOL",
+      "decimals": 9,
+      "logoUri": "assets/clesftgfa0002q0g5gzyeblz6/logo.png",
+      "status": "active",
+      "default": true,
+      "displayDecimals": 4
+    }
+  ],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 5
+  }
+}
