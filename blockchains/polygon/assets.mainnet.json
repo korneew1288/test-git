@@ -1,0 +1,25 @@
+{
+  "name": "Iron Wallet: Polygon",
+  "logoUri": "",
+  "timestamp": "2023-03-03T11:08:42Z",
+  "status": "active",
+  "assets": [
+    {
+      "chainId": 137,
+      "asset_id": "clesfo5660000q0g513ix1osj",
+      "externalId": "matic-network",
+      "name": "MATIC",
+      "symbol": "MATIC",
+      "decimals": 18,
+      "logoUri": "assets/clesfo5660000q0g513ix1osj/logo.png",
+      "status": "active",
+      "default": true,
+      "displayDecimals": 4
+    }
+  ],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}
