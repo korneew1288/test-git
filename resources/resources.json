@@ -51,7 +51,7 @@
         "link_uri": "https://launchpad.ethereum.org/en/",
         "logo_uri": "logos/cle8l1c9m000eigg57vpo2c7z.png",
         "sort_order": 1,
-        "status": "active"
+        "status": "disabled"
       },
       {
         "res_id": "cle8l1yhj000iigg5bqb1fcj0",
@@ -61,7 +61,7 @@
         "link_uri": "https://wallet.polygon.technology",
         "logo_uri": "logos/cle8l1yhj000iigg5bqb1fcj0.png",
         "sort_order": 2,
-        "status": "active",
+        "status": "disabled",
         "defaultNetwork": "polygon",
         "defaultChainId": 137
       },
@@ -76,14 +76,34 @@
         "status": "active"
       },
       {
+        "res_id": "clexctkb40002bsg57e0i6eq7",
+        "name": "Aave V3",
+        "description": "Welcome to Aave Protocol, an open source and non-custodial liquidity protocol.",
+        "type": "DApp",
+        "link_uri": "https://app.aave.com/",
+        "logo_uri": "logos/clexctkb40002bsg57e0i6eq7.png",
+        "sort_order": 4,
+        "status": "active"
+      },
+      {
+        "res_id": "clexcz9x60004bsg56nw11jx5",
+        "name": "Compound",
+        "description": "Compound is an algorithmic, autonomous interest rate protocol built for developers, to unlock a universe of open financial applications.",
+        "type": "DApp",
+        "link_uri": "https://app.compound.finance/",
+        "logo_uri": "logos/clexczbxv0006bsg5c4te0bl4.png",
+        "sort_order": 5,
+        "status": "active"
+      },
+      {
         "res_id": "cle8l2zmc000migg52qn8awhk",
         "name": "AutoShark Finance",
         "description": "Automated Yield Optimizer. Liquidity Sources Aggregator. Get rebates when you use our AMM!",
         "type": "DApp",
         "link_uri": "https://autoshark.finance/",
         "logo_uri": "logos/cle8l2zmc000migg52qn8awhk.png",
-        "sort_order": 4,
-        "status": "active"
+        "sort_order": 6,
+        "status": "disabled"
       },
       {
         "res_id": "cle8l3fa2000oigg58lj37lfu",
@@ -92,8 +112,8 @@
         "type": "DApp",
         "link_uri": "https://oasis.app/",
         "logo_uri": "logos/cle8l3fa2000oigg58lj37lfu.png",
-        "sort_order": 5,
-        "status": "active"
+        "sort_order": 7,
+        "status": "disabled"
       }
     ],
     "Games": [
@@ -105,7 +125,7 @@
         "link_uri": "https://alienworlds.io/",
         "logo_uri": "logos/cle8l62bx000qigg594gl894m.png",
         "sort_order": 1,
-        "status": "active"
+        "status": "disabled"
       },
       {
         "res_id": "cle8l6gm4000sigg547q57han",
@@ -115,7 +135,7 @@
         "link_uri": "https://planetix.com/",
         "logo_uri": "logos/cle8l6gm4000sigg547q57han.png",
         "sort_order": 2,
-        "status": "active"
+        "status": "disabled"
       },
       {
         "res_id": "cle8l6zoc000uigg58bgvgdcd",
@@ -137,7 +157,7 @@
         "link_uri": "https://xwg.games/",
         "logo_uri": "logos/cle8l7i4l000wigg52yhb75wb.png",
         "sort_order": 4,
-        "status": "active"
+        "status": "disabled"
       },
       {
         "res_id": "cle8l7zhh000yigg56sdnb0rd",
@@ -146,6 +166,16 @@
         "type": "DApp",
         "link_uri": "https://iskra.world/",
         "logo_uri": "logos/cle8l7zhh000yigg56sdnb0rd.png",
+        "sort_order": 4,
+        "status": "active"
+      },
+      {
+        "res_id": "clexd4v6l0008bsg58c4b32aj",
+        "name": "Aavegotchi",
+        "description": "DeFi-staked Crypto Collectibles Collect, compete, and combine your Aavegotchis for the ultimate gamified DeFi experience!",
+        "type": "DApp",
+        "link_uri": "https://app.aavegotchi.com/",
+        "logo_uri": "logos/clexd4v6l0008bsg58c4b32aj.png",
         "sort_order": 4,
         "status": "active"
       }
@@ -159,7 +189,7 @@
         "link_uri": "https://owldao.io/",
         "logo_uri": "logos/cle8l8v2t0012igg51wmbeorg.png",
         "sort_order": 1,
-        "status": "active",
+        "status": "disabled",
         "defaultNetwork": "bsc",
         "defaultChainId": 56
       },
@@ -171,7 +201,7 @@
         "link_uri": "https://solcasino.io/",
         "logo_uri": "logos/cle8l98pw0014igg55c0kgqxp.png",
         "sort_order": 2,
-        "status": "active",
+        "status": "disabled",
         "defaultNetwork": "solana",
         "defaultChainId": 1
       },
@@ -183,7 +213,7 @@
         "link_uri": "https://trade-signal.net/",
         "logo_uri": "logos/cle8l9tjy0016igg51a6zcag5.png",
         "sort_order": 3,
-        "status": "active"
+        "status": "disabled"
       },
       {
         "res_id": "cle8labav0018igg57owj1tpd",
@@ -193,7 +223,7 @@
         "link_uri": "https://slm.games/",
         "logo_uri": "logos/cle8labav0018igg57owj1tpd.png",
         "sort_order": 4,
-        "status": "active"
+        "status": "disabled"
       },
       {
         "res_id": "cle8lar5b001aigg583xv61m9",
@@ -203,7 +233,7 @@
         "link_uri": "https://www.hydralaunchpad.com/",
         "logo_uri": "logos/cle8lar5b001aigg583xv61m9.png",
         "sort_order": 5,
-        "status": "active",
+        "status": "disabled",
         "defaultNetwork": "solana",
         "defaultChainId": 1
       }
@@ -273,16 +303,16 @@
         "link_uri": "https://sunswap.com/",
         "logo_uri": "logos/cle8led10001oigg5cd41emr8.png",
         "sort_order": 6,
-        "status": "active",
+        "status": "disabled",
         "defaultNetwork": "tron",
         "defaultChainId": 1
       }
     ]
   },
-  "timestamp": "2023-03-03T09:59:29Z",
+  "timestamp": "2023-03-06T22:00:21Z",
   "version": {
     "major": 0,
     "minor": 0,
-    "patch": 6
+    "patch": 7
   }
 }
