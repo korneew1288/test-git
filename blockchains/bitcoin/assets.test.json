@@ -15,26 +15,11 @@
       "status": "active",
       "default": true,
       "displayDecimals": 6
-    },
-    {
-      "chainId": 5,
-      "asset_id": "cldlhp47a000008mm4i2x6da6",
-      "externalId": "matrix-solana-index",
-      "type": "Bitcoin",
-      "address": "Gh9ZwEmdLJ8DscKNTkTqPbNwLNNBjuSzaG9Vp2KGtKJr",
-      "name": "Bitcoin Index Test",
-      "symbol": "MSI",
-      "decimals": 6,
-      "logoUri": "assets/cldlhp47a000008mm4i2x6da6/logo.png",
-      "status": "active",
-      "default": false,
-      "displayDecimals": 4,
-      "explorer": "https://explorer.solana.com/address/Gh9ZwEmdLJ8DscKNTkTqPbNwLNNBjuSzaG9Vp2KGtKJr?cluster=testnet"
     }
   ],
   "version": {
     "major": 0,
     "minor": 0,
-    "patch": 8
+    "patch": 9
   }
 }
