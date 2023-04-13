@@ -2,11 +2,11 @@
   "versions": [
     {
       "list": "resources.json",
-      "timestamp": "2023-03-06T22:00:21Z",
+      "timestamp": "2023-04-13T19:41:10Z",
       "version": {
         "major": 0,
         "minor": 0,
-        "patch": 7
+        "patch": 8
       }
     }
   ]
