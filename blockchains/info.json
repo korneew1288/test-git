@@ -1,158 +1,158 @@
 {
-  "versions": [
-    {
-      "blockchain": "ethereum",
-      "chainId": 5,
-      "list": "assets.goerli.json",
-      "timestamp": "2022-12-01T15:36:28Z",
-      "version": {
-        "major": 0,
-        "minor": 0,
-        "patch": 4
-      }
-    },
-    {
-      "blockchain": "ethereum",
-      "chainId": 1,
-      "list": "assets.mainnet.json",
-      "timestamp": "2022-12-01T15:20:24.378Z",
-      "version": {
-        "major": 0,
-        "minor": 1,
-        "patch": 8
-      }
-    },
-    {
-      "blockchain": "bitcoin",
-      "chainId": 5,
-      "list": "assets.test.json",
-      "timestamp": "2022-12-01T15:38:12Z",
-      "version": {
-        "major": 0,
-        "minor": 0,
-        "patch": 9
-      }
-    },
-    {
-      "blockchain": "bitcoin",
-      "chainId": 1,
-      "list": "assets.mainnet.json",
-      "timestamp": "2022-12-01T15:38:12Z",
-      "version": {
-        "major": 0,
-        "minor": 0,
-        "patch": 3
-      }
-    },
-    {
-      "blockchain": "bsc",
-      "chainId": 97,
-      "list": "assets.testnet.json",
-      "timestamp": "2023-01-11T15:36:28Z",
-      "version": {
-        "major": 0,
-        "minor": 0,
-        "patch": 2
-      }
-    },
-    {
-      "blockchain": "bsc",
-      "chainId": 56,
-      "list": "assets.mainnet.json",
-      "timestamp": "2023-01-27T15:25:04.868Z",
-      "version": {
-        "major": 0,
-        "minor": 0,
-        "patch": 5
-      }
-    },
-    {
-      "blockchain": "tron",
-      "chainId": 5,
-      "list": "assets.testnet.json",
-      "timestamp": "2023-01-11T15:36:28Z",
-      "version": {
-        "major": 0,
-        "minor": 0,
-        "patch": 5
-      }
-    },
-    {
-      "blockchain": "tron",
-      "chainId": 1,
-      "list": "assets.mainnet.json",
-      "timestamp": "2023-01-27T18:04:55.037Z",
-      "version": {
-        "major": 0,
-        "minor": 0,
-        "patch": 2
-      }
-    },
-    {
-      "blockchain": "avalanche",
-      "chainId": 43113,
-      "list": "assets.testnet.json",
-      "timestamp": "2023-01-24T15:36:28Z",
-      "version": {
-        "major": 0,
-        "minor": 0,
-        "patch": 1
-      }
-    },
-    {
-      "blockchain": "avalanche",
-      "chainId": 43114,
-      "list": "assets.mainnet.json",
-      "timestamp": "2023-01-27T18:35:02.670Z",
-      "version": {
-        "major": 0,
-        "minor": 0,
-        "patch": 2
-      }
-    },
-    {
-      "blockchain": "polygon",
-      "chainId": 80001,
-      "list": "assets.testnet.json",
-      "timestamp": "2023-01-30T15:36:28Z",
-      "version": {
-        "major": 0,
-        "minor": 0,
-        "patch": 1
-      }
-    },
-    {
-      "blockchain": "polygon",
-      "chainId": 137,
-      "list": "assets.mainnet.json",
-      "timestamp": "2023-03-03T11:08:42Z",
-      "version": {
-        "major": 0,
-        "minor": 0,
-        "patch": 1
-      }
-    },
-    {
-      "blockchain": "solana",
-      "chainId": 5,
-      "list": "assets.testnet.json",
-      "timestamp": "2023-03-03T11:12:32Z",
-      "version": {
-        "major": 0,
-        "minor": 0,
-        "patch": 6
-      }
-    },
-    {
-      "blockchain": "solana",
-      "chainId": 1,
-      "list": "assets.mainnet.json",
-      "timestamp": "2023-03-03T11:12:32Z",
-      "version": {
-        "major": 0,
-        "minor": 0,
-        "patch": 5
-      }
-    }
-  ]
+    "versions": [
+        {
+            "blockchain": "ethereum",
+            "chainId": 5,
+            "list": "assets.goerli.json",
+            "timestamp": "2022-12-01T15:36:28Z",
+            "version": {
+                "major": 0,
+                "minor": 0,
+                "patch": 4
+            }
+        },
+        {
+            "blockchain": "ethereum",
+            "chainId": 1,
+            "list": "assets.mainnet.json",
+            "timestamp": "2022-12-01T15:20:24.378Z",
+            "version": {
+                "major": 0,
+                "minor": 1,
+                "patch": 8
+            }
+        },
+        {
+            "blockchain": "bitcoin",
+            "chainId": 5,
+            "list": "assets.test.json",
+            "timestamp": "2022-12-01T15:38:12Z",
+            "version": {
+                "major": 0,
+                "minor": 0,
+                "patch": 9
+            }
+        },
+        {
+            "blockchain": "bitcoin",
+            "chainId": 1,
+            "list": "assets.mainnet.json",
+            "timestamp": "2022-12-01T15:38:12Z",
+            "version": {
+                "major": 0,
+                "minor": 0,
+                "patch": 3
+            }
+        },
+        {
+            "blockchain": "bsc",
+            "chainId": 97,
+            "list": "assets.testnet.json",
+            "timestamp": "2023-01-11T15:36:28Z",
+            "version": {
+                "major": 0,
+                "minor": 0,
+                "patch": 2
+            }
+        },
+        {
+            "blockchain": "bsc",
+            "chainId": 56,
+            "list": "assets.mainnet.json",
+            "timestamp": "2023-01-27T15:25:04.868Z",
+            "version": {
+                "major": 0,
+                "minor": 0,
+                "patch": 5
+            }
+        },
+        {
+            "blockchain": "tron",
+            "chainId": 5,
+            "list": "assets.testnet.json",
+            "timestamp": "2023-01-11T15:36:28Z",
+            "version": {
+                "major": 0,
+                "minor": 0,
+                "patch": 5
+            }
+        },
+        {
+            "blockchain": "tron",
+            "chainId": 1,
+            "list": "assets.mainnet.json",
+            "timestamp": "2023-01-27T18:04:55.037Z",
+            "version": {
+                "major": 0,
+                "minor": 0,
+                "patch": 2
+            }
+        },
+        {
+            "blockchain": "avalanche",
+            "chainId": 43113,
+            "list": "assets.testnet.json",
+            "timestamp": "2023-01-24T15:36:28Z",
+            "version": {
+                "major": 0,
+                "minor": 0,
+                "patch": 1
+            }
+        },
+        {
+            "blockchain": "avalanche",
+            "chainId": 43114,
+            "list": "assets.mainnet.json",
+            "timestamp": "2023-01-27T18:35:02.670Z",
+            "version": {
+                "major": 0,
+                "minor": 0,
+                "patch": 2
+            }
+        },
+        {
+            "blockchain": "polygon",
+            "chainId": 80001,
+            "list": "assets.testnet.json",
+            "timestamp": "2023-01-30T15:36:28Z",
+            "version": {
+                "major": 0,
+                "minor": 0,
+                "patch": 1
+            }
+        },
+        {
+            "blockchain": "polygon",
+            "chainId": 137,
+            "list": "assets.mainnet.json",
+            "timestamp": "2023-04-18T22:50:48.704Z",
+            "version": {
+                "major": 0,
+                "minor": 0,
+                "patch": 2
+            }
+        },
+        {
+            "blockchain": "solana",
+            "chainId": 5,
+            "list": "assets.testnet.json",
+            "timestamp": "2023-03-03T11:12:32Z",
+            "version": {
+                "major": 0,
+                "minor": 0,
+                "patch": 6
+            }
+        },
+        {
+            "blockchain": "solana",
+            "chainId": 1,
+            "list": "assets.mainnet.json",
+            "timestamp": "2023-03-03T11:12:32Z",
+            "version": {
+                "major": 0,
+                "minor": 0,
+                "patch": 5
+            }
+        }
+    ]
 }
