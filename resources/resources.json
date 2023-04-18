@@ -76,12 +76,12 @@
         "status": "active"
       },
       {
-        "res_id": "clgfi8vt5000gf0g59x9f2loh",
+        "res_id": "clgmwb4mh0000t8g5ee1yh7ve",
         "name": "Aave V3",
         "description": "Welcome to Aave Protocol, an open source and non-custodial liquidity protocol.",
         "type": "DApp",
         "link_uri": "https://app.aave.com/",
-        "logo_uri": "logos/clgfi8vt5000gf0g59x9f2loh.png",
+        "logo_uri": "logos/clgmwb4mh0000t8g5ee1yh7ve.png",
         "sort_order": 4,
         "status": "active"
       },
@@ -170,12 +170,12 @@
         "status": "active"
       },
       {
-        "res_id": "clgfips9b000yf0g5frg3cq2o",
+        "res_id": "clgmwbtgb0002t8g5300u8wq7",
         "name": "Aavegotchi",
         "description": "DeFi-staked Crypto Collectibles Collect, compete, and combine your Aavegotchis for the ultimate gamified DeFi experience!",
         "type": "DApp",
         "link_uri": "https://app.aavegotchi.com/",
-        "logo_uri": "logos/clgfips9b000yf0g5frg3cq2o.png",
+        "logo_uri": "logos/clgmwbtgb0002t8g5300u8wq7.png",
         "sort_order": 4,
         "status": "active"
       }
@@ -309,10 +309,10 @@
       }
     ]
   },
-  "timestamp": "2023-04-13T19:41:10Z",
+  "timestamp": "2023-04-18T23:29:36Z",
   "version": {
     "major": 0,
     "minor": 0,
-    "patch": 8
+    "patch": 9
   }
 }
