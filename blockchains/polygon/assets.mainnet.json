@@ -1396,15 +1396,15 @@
             "address": "0x9f28e2455f9FFcFac9EBD6084853417362bc5dBb",
             "asset_id": "clgmuz482003e3guz4imghret",
             "chainId": 137,
-            "decimals": 0,
+            "decimals": 18,
             "default": false,
             "displayDecimals": 4,
             "explorer": "https://polygonscan.com/token/0x9f28e2455f9FFcFac9EBD6084853417362bc5dBb",
             "externalId": "stafi-staked-matic",
             "logoUri": "assets/clgmuz482003e3guz4imghret/logo.png",
-            "name": "",
+            "name": "StaFi rMATIC (PoS)",
             "status": "active",
-            "symbol": "",
+            "symbol": "rMATIC",
             "type": "Polygon"
         },
         {
@@ -2881,10 +2881,10 @@
     "logoUri": "",
     "name": "Iron Wallet: Polygon",
     "status": "active",
-    "timestamp": "2023-04-18T22:50:48.704Z",
+    "timestamp": "2023-04-19T00:00:35Z",
     "version": {
         "major": 0,
         "minor": 0,
-        "patch": 2
+        "patch": 3
     }
 }
