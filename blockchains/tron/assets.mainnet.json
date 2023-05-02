@@ -281,15 +281,75 @@
             "status": "active",
             "symbol": "AZNT",
             "type": "TRC20"
-        }        
+        },
+        {
+            "address": "TGbu32VEGpS4kDmjrmn5ZZJgUyHQiaweoq",
+            "asset_id": "clh0v4jul000zd0vbyt2yvyw2",
+            "chainId": 1,
+            "decimals": 18,
+            "default": false,
+            "displayDecimals": 4,
+            "explorer": "https://tronscan.org/#/token20/TGbu32VEGpS4kDmjrmn5ZZJgUyHQiaweoq",
+            "externalId": "pearl-finance",
+            "logoUri": "assets/clh0v4jul000zd0vbyt2yvyw2/logo.png",
+            "name": "Pearl.finance",
+            "status": "active",
+            "symbol": "Pearl",
+            "type": "TRC20"
+        },
+        {
+            "address": "TFptbWaARrWTX5Yvy3gNG5Lm8BmhPx82Bt",
+            "asset_id": "clh0v4jul0011d0vb0x07cjoh",
+            "chainId": 1,
+            "decimals": 8,
+            "default": false,
+            "displayDecimals": 4,
+            "explorer": "https://tronscan.org/#/token20/TFptbWaARrWTX5Yvy3gNG5Lm8BmhPx82Bt",
+            "externalId": "whitebit",
+            "logoUri": "assets/clh0v4jul0011d0vb0x07cjoh/logo.png",
+            "name": "WBT",
+            "status": "active",
+            "symbol": "WBT",
+            "type": "TRC20"
+        },
+        {
+            "address": "TCfLxS9xHxH8auBL3T8pf3NFTZhsxy4Ncg",
+            "asset_id": "clh0v4jun002kd0vbl7655n0s",
+            "chainId": 1,
+            "decimals": 8,
+            "default": false,
+            "displayDecimals": 4,
+            "explorer": "https://tronscan.org/#/token20/TCfLxS9xHxH8auBL3T8pf3NFTZhsxy4Ncg",
+            "externalId": "pallapay",
+            "logoUri": "assets/clh0v4jun002kd0vbl7655n0s/logo.png",
+            "name": "Pallapay",
+            "status": "active",
+            "symbol": "PALLA",
+            "type": "TRC20"
+        },
+        {
+            "address": "TVHH59uHVpHzLDMFFpUgCx2dNAQqCzPhcR",
+            "asset_id": "clh0v4jun002od0vbsxhps48y",
+            "chainId": 1,
+            "decimals": 8,
+            "default": false,
+            "displayDecimals": 4,
+            "explorer": "https://tronscan.org/#/token20/TVHH59uHVpHzLDMFFpUgCx2dNAQqCzPhcR",
+            "externalId": "justmoney-2",
+            "logoUri": "assets/clh0v4jun002od0vbsxhps48y/logo.png",
+            "name": "J U S T M O N E Y",
+            "status": "active",
+            "symbol": "JM",
+            "type": "TRC20"
+        }
     ],
     "logoUri": "",
     "name": "Iron Wallet: Tron",
     "status": "active",
-    "timestamp": "2023-01-27T18:04:55.037Z",
+    "timestamp": "2023-04-28T18:03:46.191Z",
     "version": {
         "major": 0,
         "minor": 0,
-        "patch": 2
+        "patch": 4
     }
 }
