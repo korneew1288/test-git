@@ -1261,10 +1261,10 @@
     "logoUri": "",
     "name": "Iron Wallet: Solana",
     "status": "active",
-    "timestamp": "2023-04-20T13:22:08Z",
+    "timestamp": "2023-04-28T19:39:46.551Z",
     "version": {
         "major": 0,
         "minor": 0,
-        "patch": 7
+        "patch": 9
     }
 }
