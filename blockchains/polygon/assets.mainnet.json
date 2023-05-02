@@ -2876,15 +2876,30 @@
             "status": "active",
             "symbol": "KNC",
             "type": "Polygon"
+        },
+        {
+            "address": "0x4593b173439835ad8f4bB29210668e8FAFb18F56",
+            "asset_id": "clh0vfxnn00118ovbzn9td8r8",
+            "chainId": 137,
+            "decimals": 18,
+            "default": false,
+            "displayDecimals": 4,
+            "explorer": "https://polygonscan.com/token/0x4593b173439835ad8f4bB29210668e8FAFb18F56",
+            "externalId": "magic-oi-money",
+            "logoUri": "assets/clh0vfxnn00118ovbzn9td8r8/logo.png",
+            "name": "MOM",
+            "status": "active",
+            "symbol": "MOM",
+            "type": "Polygon"
         }
     ],
     "logoUri": "",
     "name": "Iron Wallet: Polygon",
     "status": "active",
-    "timestamp": "2023-04-19T00:22:41Z",
+    "timestamp": "2023-04-28T18:12:37.885Z",
     "version": {
         "major": 0,
         "minor": 0,
-        "patch": 4
+        "patch": 6
     }
 }
