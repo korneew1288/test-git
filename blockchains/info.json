@@ -15,7 +15,7 @@
             "blockchain": "ethereum",
             "chainId": 1,
             "list": "assets.mainnet.json",
-            "timestamp": "2022-12-01T15:20:24.378Z",
+            "timestamp": "2023-05-05T19:39:46.551Z",
             "version": {
                 "major": 0,
                 "minor": 1,
@@ -59,11 +59,11 @@
             "blockchain": "bsc",
             "chainId": 56,
             "list": "assets.mainnet.json",
-            "timestamp": "2023-01-27T15:25:04.868Z",
+            "timestamp": "2023-05-05T19:39:46.551Z",
             "version": {
                 "major": 0,
                 "minor": 0,
-                "patch": 6
+                "patch": 7
             }
         },
         {
@@ -81,7 +81,7 @@
             "blockchain": "tron",
             "chainId": 1,
             "list": "assets.mainnet.json",
-            "timestamp": "2023-01-27T18:04:55.037Z",
+            "timestamp": "2023-05-05T19:39:46.551Z",
             "version": {
                 "major": 0,
                 "minor": 0,
@@ -103,11 +103,11 @@
             "blockchain": "avalanche",
             "chainId": 43114,
             "list": "assets.mainnet.json",
-            "timestamp": "2023-01-27T18:35:02.670Z",
+            "timestamp": "2023-05-05T19:39:46.551Z",
             "version": {
                 "major": 0,
                 "minor": 0,
-                "patch": 3
+                "patch": 4
             }
         },
         {
@@ -125,7 +125,7 @@
             "blockchain": "polygon",
             "chainId": 137,
             "list": "assets.mainnet.json",
-            "timestamp": "2023-04-19T00:22:41Z",
+            "timestamp": "2023-05-05T19:39:46.551Z",
             "version": {
                 "major": 0,
                 "minor": 0,
@@ -147,7 +147,7 @@
             "blockchain": "solana",
             "chainId": 1,
             "list": "assets.mainnet.json",
-            "timestamp": "2023-04-28T19:39:46.551Z",
+            "timestamp": "2023-05-05T19:39:46.551Z",
             "version": {
                 "major": 0,
                 "minor": 0,
