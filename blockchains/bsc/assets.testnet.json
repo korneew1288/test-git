@@ -11,7 +11,7 @@
       "name": "BNB Smart Chain (test)",
       "symbol": "BNB",
       "decimals": 18,
-      "logoUri": "assets/clcri5np7000008l110zt5dp7/logo.png",
+      "logoUri": "dev_assets/clcri5np7000008l110zt5dp7/logo.png",
       "status": "active",
       "default": true,
       "displayDecimals": 4
@@ -25,7 +25,7 @@
       "name": "USD//C Test",
       "symbol": "USDC",
       "decimals": 6,
-      "logoUri": "assets/cld1u81pj000008l5adsi7l06/logo.png",
+      "logoUri": "dev_assets/cld1u81pj000008l5adsi7l06/logo.png",
       "status": "active",
       "default": true,
       "displayDecimals": 4,
@@ -40,7 +40,7 @@
       "name": "USDT Test",
       "symbol": "USDT",
       "decimals": 6,
-      "logoUri": "assets/cld1u939f000108l5ft7ubeb6/logo.png",
+      "logoUri": "dev_assets/cld1u939f000108l5ft7ubeb6/logo.png",
       "status": "active",
       "default": true,
       "displayDecimals": 4,
@@ -55,7 +55,7 @@
       "name": "DAI Test",
       "symbol": "DAI",
       "decimals": 18,
-      "logoUri": "assets/cld1u99jr000208l5axviggo9/logo.png",
+      "logoUri": "dev_assets/cld1u99jr000208l5axviggo9/logo.png",
       "status": "active",
       "default": true,
       "displayDecimals": 4,
@@ -65,6 +65,6 @@
   "version": {
     "major": 0,
     "minor": 0,
-    "patch": 2
+    "patch": 3
   }
 }

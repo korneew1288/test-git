@@ -4,11 +4,11 @@
             "blockchain": "ethereum",
             "chainId": 5,
             "list": "assets.goerli.json",
-            "timestamp": "2022-12-01T15:36:28Z",
+            "timestamp": "2023-05-16T15:36:28Z",
             "version": {
                 "major": 0,
                 "minor": 0,
-                "patch": 4
+                "patch": 5
             }
         },
         {
@@ -26,11 +26,11 @@
             "blockchain": "bitcoin",
             "chainId": 5,
             "list": "assets.test.json",
-            "timestamp": "2022-12-01T15:38:12Z",
+            "timestamp": "2023-05-16T15:36:28Z",
             "version": {
                 "major": 0,
                 "minor": 0,
-                "patch": 9
+                "patch": 10
             }
         },
         {
@@ -48,11 +48,11 @@
             "blockchain": "bsc",
             "chainId": 97,
             "list": "assets.testnet.json",
-            "timestamp": "2023-01-11T15:36:28Z",
+            "timestamp": "2023-05-16T15:36:28Z",
             "version": {
                 "major": 0,
                 "minor": 0,
-                "patch": 2
+                "patch": 3
             }
         },
         {
@@ -70,11 +70,11 @@
             "blockchain": "tron",
             "chainId": 5,
             "list": "assets.testnet.json",
-            "timestamp": "2023-01-11T15:36:28Z",
+            "timestamp": "2023-05-16T15:36:28Z",
             "version": {
                 "major": 0,
                 "minor": 0,
-                "patch": 5
+                "patch": 6
             }
         },
         {
@@ -92,11 +92,11 @@
             "blockchain": "avalanche",
             "chainId": 43113,
             "list": "assets.testnet.json",
-            "timestamp": "2023-01-24T15:36:28Z",
+            "timestamp": "2023-05-16T15:36:28Z",
             "version": {
                 "major": 0,
                 "minor": 0,
-                "patch": 1
+                "patch": 2
             }
         },
         {
@@ -114,11 +114,11 @@
             "blockchain": "polygon",
             "chainId": 80001,
             "list": "assets.testnet.json",
-            "timestamp": "2023-01-30T15:36:28Z",
+            "timestamp": "2023-05-16T15:36:28Z",
             "version": {
                 "major": 0,
                 "minor": 0,
-                "patch": 1
+                "patch": 2
             }
         },
         {
@@ -136,11 +136,11 @@
             "blockchain": "solana",
             "chainId": 5,
             "list": "assets.testnet.json",
-            "timestamp": "2023-03-03T11:12:32Z",
+            "timestamp": "2023-05-16T15:36:28Z",
             "version": {
                 "major": 0,
                 "minor": 0,
-                "patch": 6
+                "patch": 7
             }
         },
         {

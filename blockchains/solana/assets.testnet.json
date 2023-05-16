@@ -11,7 +11,7 @@
       "name": "Solana Test",
       "symbol": "SOL",
       "decimals": 9,
-      "logoUri": "assets/cldejolim000008je2ffj9fr0/logo.png",
+      "logoUri": "dev_assets/cldejolim000008je2ffj9fr0/logo.png",
       "status": "active",
       "default": true,
       "displayDecimals": 4
@@ -25,7 +25,7 @@
       "name": "Matrix Solana Index Test",
       "symbol": "MSI",
       "decimals": 6,
-      "logoUri": "assets/cldlhp47a000008mm4i2x6da5/logo.png",
+      "logoUri": "dev_assets/cldlhp47a000008mm4i2x6da5/logo.png",
       "status": "active",
       "default": true,
       "displayDecimals": 4,
@@ -40,7 +40,7 @@
       "name": "STEPN Test",
       "symbol": "GMT",
       "decimals": 9,
-      "logoUri": "assets/clfgxt1bd000008jpckvbg2nr/logo.png",
+      "logoUri": "dev_assets/clfgxt1bd000008jpckvbg2nr/logo.png",
       "status": "active",
       "default": true,
       "displayDecimals": 4,
@@ -50,6 +50,6 @@
   "version": {
     "major": 0,
     "minor": 0,
-    "patch": 6
+    "patch": 7
   }
 }
