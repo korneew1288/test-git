@@ -11,7 +11,7 @@
       "name": "TRX Test",
       "symbol": "TRX",
       "decimals": 6,
-      "logoUri": "assets/clcryggzk000108mj2otk8ym5/logo.png",
+      "logoUri": "dev_assets/clcryggzk000108mj2otk8ym5/logo.png",
       "status": "active",
       "default": true,
       "displayDecimals": 4
@@ -25,7 +25,7 @@
       "name": "USDT Test",
       "symbol": "USDT",
       "decimals": 6,
-      "logoUri": "assets/cld4fil71000408mj1bw7h59a/logo.png",
+      "logoUri": "dev_assets/cld4fil71000408mj1bw7h59a/logo.png",
       "status": "active",
       "default": true,
       "displayDecimals": 4,
@@ -40,7 +40,7 @@
       "name": "USDD Test",
       "symbol": "USDD",
       "decimals": 18,
-      "logoUri": "assets/cld4fwhfq000908mj2eo1gp50/logo.png",
+      "logoUri": "dev_assets/cld4fwhfq000908mj2eo1gp50/logo.png",
       "status": "active",
       "default": true,
       "displayDecimals": 4,
@@ -55,7 +55,7 @@
       "name": "USDC Test",
       "symbol": "USDC",
       "decimals": 6,
-      "logoUri": "assets/cld4g0rl2000a08mjg06idssv/logo.png",
+      "logoUri": "dev_assets/cld4g0rl2000a08mjg06idssv/logo.png",
       "status": "active",
       "default": true,
       "displayDecimals": 4,
@@ -65,6 +65,6 @@
   "version": {
     "major": 0,
     "minor": 0,
-    "patch": 4
+    "patch": 6
   }
 }

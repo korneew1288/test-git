@@ -11,7 +11,7 @@
       "name": "Bitcoin Test",
       "symbol": "BTC",
       "decimals": 8,
-      "logoUri": "assets/cl6w3mh9v0006m4g5gk4e1y97/logo.png",
+      "logoUri": "dev_assets/cl6w3mh9v0006m4g5gk4e1y97/logo.png",
       "status": "active",
       "default": true,
       "displayDecimals": 6
@@ -20,6 +20,6 @@
   "version": {
     "major": 0,
     "minor": 0,
-    "patch": 9
+    "patch": 10
   }
 }

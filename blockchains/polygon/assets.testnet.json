@@ -11,7 +11,7 @@
       "name": "MATIC Test",
       "symbol": "MATIC",
       "decimals": 18,
-      "logoUri": "assets/cldirm25m000008md5q5k0y5c/logo.png",
+      "logoUri": "dev_assets/cldirm25m000008md5q5k0y5c/logo.png",
       "status": "active",
       "default": true,
       "displayDecimals": 4
@@ -25,7 +25,7 @@
       "name": "USD//C Test",
       "symbol": "USDC",
       "decimals": 6,
-      "logoUri": "assets/cldk9i54m000208l85d8ig61b/logo.png",
+      "logoUri": "dev_assets/cldk9i54m000208l85d8ig61b/logo.png",
       "status": "active",
       "default": true,
       "displayDecimals": 4,
@@ -40,7 +40,7 @@
       "name": "USDT Test",
       "symbol": "USDT",
       "decimals": 6,
-      "logoUri": "assets/cldk9ieac000308l88c4bgvy9/logo.png",
+      "logoUri": "dev_assets/cldk9ieac000308l88c4bgvy9/logo.png",
       "status": "active",
       "default": true,
       "displayDecimals": 4,
@@ -55,7 +55,7 @@
       "name": "DAI Test",
       "symbol": "DAI",
       "decimals": 18,
-      "logoUri": "assets/cldk9ijfw000408l88kt23mel/logo.png",
+      "logoUri": "dev_assets/cldk9ijfw000408l88kt23mel/logo.png",
       "status": "active",
       "default": true,
       "displayDecimals": 4,
@@ -65,6 +65,6 @@
   "version": {
     "major": 0,
     "minor": 0,
-    "patch": 1
+    "patch": 2
   }
 }

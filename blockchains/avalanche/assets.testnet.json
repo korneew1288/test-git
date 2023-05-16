@@ -11,7 +11,7 @@
       "name": "AVAX Test",
       "symbol": "AVAX",
       "decimals": 18,
-      "logoUri": "assets/cldadu4ki000008jxexvc6jdl/logo.png",
+      "logoUri": "dev_assets/cldadu4ki000008jxexvc6jdl/logo.png",
       "status": "active",
       "default": true,
       "displayDecimals": 4
@@ -25,7 +25,7 @@
       "name": "USD//C Test",
       "symbol": "USDC",
       "decimals": 6,
-      "logoUri": "assets/cldiqdc4z000408lafhtw0hu5/logo.png",
+      "logoUri": "dev_assets/cldiqdc4z000408lafhtw0hu5/logo.png",
       "status": "active",
       "default": true,
       "displayDecimals": 4,
@@ -40,7 +40,7 @@
       "name": "USDT Test",
       "symbol": "USDT",
       "decimals": 6,
-      "logoUri": "assets/cldiqeayj000508lacpp1flhq/logo.png",
+      "logoUri": "dev_assets/cldiqeayj000508lacpp1flhq/logo.png",
       "status": "active",
       "default": true,
       "displayDecimals": 4,
@@ -55,7 +55,7 @@
       "name": "DAI Test",
       "symbol": "DAI",
       "decimals": 18,
-      "logoUri": "assets/cldiqf6eo000608la0f5u6564/logo.png",
+      "logoUri": "dev_assets/cldiqf6eo000608la0f5u6564/logo.png",
       "status": "active",
       "default": true,
       "displayDecimals": 4,
@@ -65,6 +65,6 @@
   "version": {
     "major": 0,
     "minor": 0,
-    "patch": 1
+    "patch": 2
   }
 }

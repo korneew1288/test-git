@@ -11,7 +11,7 @@
       "name": "ETH Test",
       "symbol": "ETH",
       "decimals": 18,
-      "logoUri": "assets/cl7t4m681000cfcg5bjug3b80/logo.png",
+      "logoUri": "dev_assets/cl7t4m681000cfcg5bjug3b80/logo.png",
       "status": "active",
       "default": true,
       "displayDecimals": 4
@@ -25,7 +25,7 @@
       "name": "Wrapped ETH",
       "symbol": "WETH",
       "decimals": 18,
-      "logoUri": "assets/cl7t4nnig000efcg58cjj63ef/logo.png",
+      "logoUri": "dev_assets/cl7t4nnig000efcg58cjj63ef/logo.png",
       "status": "active",
       "default": true,
       "displayDecimals": 4,
@@ -40,7 +40,7 @@
       "name": "USD//C Test",
       "symbol": "USDC",
       "decimals": 6,
-      "logoUri": "assets/cl7t4tbx6000ifcg51hyc6dug/logo.png",
+      "logoUri": "dev_assets/cl7t4tbx6000ifcg51hyc6dug/logo.png",
       "status": "active",
       "default": true,
       "displayDecimals": 4,
@@ -55,7 +55,7 @@
       "name": "USDT Test",
       "symbol": "USDT",
       "decimals": 6,
-      "logoUri": "assets/cl88yo14n0006c4g5gj91hudd/logo.png",
+      "logoUri": "dev_assets/cl88yo14n0006c4g5gj91hudd/logo.png",
       "status": "active",
       "default": true,
       "displayDecimals": 4,
@@ -70,7 +70,7 @@
       "name": "DAI Test",
       "symbol": "DAI",
       "decimals": 18,
-      "logoUri": "assets/cl7t4ppeb000gfcg5b6s447m2/logo.png",
+      "logoUri": "dev_assets/cl7t4ppeb000gfcg5b6s447m2/logo.png",
       "status": "active",
       "default": true,
       "displayDecimals": 4,
@@ -80,6 +80,6 @@
   "version": {
     "major": 0,
     "minor": 0,
-    "patch": 4
+    "patch": 5
   }
 }
