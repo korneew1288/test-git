@@ -168,6 +168,7 @@
             "chainId": 1,
             "decimals": 0,
             "default": false,
+            "displayDecimals": 4,
             "explorer": "https://tronscan.org/#/token20/1002000",
             "externalId": "bittorrent-old",
             "logoUri": "assets/clh9gbnok064rb0g4v2zc5wes/logo.png",
@@ -182,6 +183,7 @@
             "chainId": 1,
             "decimals": 18,
             "default": false,
+            "displayDecimals": 4,
             "explorer": "https://tronscan.org/#/token20/TDXyBerEqKHrGLEQFH9S3prXHPQiqaDsTA",
             "externalId": "golcoin",
             "logoUri": "assets/clh9gbnol065db0g48sj40n80/logo.png",
@@ -196,6 +198,7 @@
             "chainId": 1,
             "decimals": 8,
             "default": false,
+            "displayDecimals": 4,
             "explorer": "https://tronscan.org/#/token20/TMnqP8yuZrKJFXN59KoVDthkmM3LRkiZXP",
             "externalId": "pollux-coin",
             "logoUri": "assets/clh9gbnol0663b0g4mti7vr57/logo.png",
@@ -210,6 +213,7 @@
             "chainId": 1,
             "decimals": 0,
             "default": false,
+            "displayDecimals": 4,
             "explorer": "https://tronscan.org/#/token20/TZ3c6bmoqVeq9YEEBMSNrBLq2rHJ1vR8Nc",
             "externalId": "rock-dao",
             "logoUri": "assets/clh9gbnom066ab0g4c6824aqp/logo.png",
@@ -224,6 +228,7 @@
             "chainId": 1,
             "decimals": 8,
             "default": false,
+            "displayDecimals": 4,
             "explorer": "https://tronscan.org/#/token20/TFptbWaARrWTX5Yvy3gNG5Lm8BmhPx82Bt",
             "externalId": "whitebit",
             "logoUri": "assets/clh9gbnom0673b0g4yvuvik4x/logo.png",
@@ -240,6 +245,6 @@
     "version": {
         "major": 0,
         "minor": 0,
-        "patch": 4
+        "patch": 5
     }
 }
