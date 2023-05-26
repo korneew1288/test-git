@@ -9,9 +9,25 @@
             "externalId": "ethereum",
             "logoUri": "assets/cl6y2qtls000sm4g5at8c4kt7/logo.png",
             "name": "ETH",
-            "sort_order": 101,
+            "sort_order": 100,
             "status": "active",
             "symbol": "ETH"
+        },
+        {
+            "address": "0x1aBaEA1f7C830bD89Acc67eC4af516284b1bC33c",
+            "asset_id": "cli4bwsbv000108mjavzw795c",
+            "chainId": 1,
+            "decimals": 6,
+            "default": false,
+            "displayDecimals": 4,
+            "explorer": "https://etherscan.io/token/0x1aBaEA1f7C830bD89Acc67eC4af516284b1bC33c",
+            "externalId": "euro-coin",
+            "logoUri": "assets/cli4bwsbv000108mjavzw795c/logo.png",
+            "name": "Euro Coin",
+            "sort_order": 101,
+            "status": "active",
+            "symbol": "EUROC",
+            "type": "ERC20"
         },
         {
             "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
@@ -8518,6 +8534,6 @@
     "version": {
         "major": 0,
         "minor": 2,
-        "patch": 1
+        "patch": 2
     }
 }
