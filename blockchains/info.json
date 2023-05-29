@@ -8,7 +8,7 @@
             "version": {
                 "major": 0,
                 "minor": 0,
-                "patch": 5
+                "patch": 6
             }
         },
         {
@@ -19,7 +19,7 @@
             "version": {
                 "major": 0,
                 "minor": 2,
-                "patch": 4
+                "patch": 5
             }
         },
         {
@@ -30,7 +30,7 @@
             "version": {
                 "major": 0,
                 "minor": 0,
-                "patch": 10
+                "patch": 11
             }
         },
         {
@@ -41,7 +41,7 @@
             "version": {
                 "major": 0,
                 "minor": 0,
-                "patch": 5
+                "patch": 6
             }
         },
         {
@@ -52,7 +52,7 @@
             "version": {
                 "major": 0,
                 "minor": 0,
-                "patch": 3
+                "patch": 4
             }
         },
         {
@@ -63,77 +63,11 @@
             "version": {
                 "major": 0,
                 "minor": 0,
-                "patch": 9
+                "patch": 10
             }
         },
         {
             "blockchain": "tron",
-            "chainId": 5,
-            "list": "assets.testnet.json",
-            "timestamp": "2023-05-16T15:36:28Z",
-            "version": {
-                "major": 0,
-                "minor": 0,
-                "patch": 6
-            }
-        },
-        {
-            "blockchain": "tron",
-            "chainId": 1,
-            "list": "assets.mainnet.json",
-            "timestamp": "2023-05-17T19:39:46.551Z",
-            "version": {
-                "major": 0,
-                "minor": 0,
-                "patch": 6
-            }
-        },
-        {
-            "blockchain": "avalanche",
-            "chainId": 43113,
-            "list": "assets.testnet.json",
-            "timestamp": "2023-05-16T15:36:28Z",
-            "version": {
-                "major": 0,
-                "minor": 0,
-                "patch": 2
-            }
-        },
-        {
-            "blockchain": "avalanche",
-            "chainId": 43114,
-            "list": "assets.mainnet.json",
-            "timestamp": "2023-05-17T19:39:46.551Z",
-            "version": {
-                "major": 0,
-                "minor": 0,
-                "patch": 6
-            }
-        },
-        {
-            "blockchain": "polygon",
-            "chainId": 80001,
-            "list": "assets.testnet.json",
-            "timestamp": "2023-05-16T15:36:28Z",
-            "version": {
-                "major": 0,
-                "minor": 0,
-                "patch": 2
-            }
-        },
-        {
-            "blockchain": "polygon",
-            "chainId": 137,
-            "list": "assets.mainnet.json",
-            "timestamp": "2023-05-17T19:39:46.551Z",
-            "version": {
-                "major": 0,
-                "minor": 0,
-                "patch": 8
-            }
-        },
-        {
-            "blockchain": "solana",
             "chainId": 5,
             "list": "assets.testnet.json",
             "timestamp": "2023-05-16T15:36:28Z",
@@ -144,6 +78,72 @@
             }
         },
         {
+            "blockchain": "tron",
+            "chainId": 1,
+            "list": "assets.mainnet.json",
+            "timestamp": "2023-05-17T19:39:46.551Z",
+            "version": {
+                "major": 0,
+                "minor": 0,
+                "patch": 7
+            }
+        },
+        {
+            "blockchain": "avalanche",
+            "chainId": 43113,
+            "list": "assets.testnet.json",
+            "timestamp": "2023-05-16T15:36:28Z",
+            "version": {
+                "major": 0,
+                "minor": 0,
+                "patch": 3
+            }
+        },
+        {
+            "blockchain": "avalanche",
+            "chainId": 43114,
+            "list": "assets.mainnet.json",
+            "timestamp": "2023-05-17T19:39:46.551Z",
+            "version": {
+                "major": 0,
+                "minor": 0,
+                "patch": 7
+            }
+        },
+        {
+            "blockchain": "polygon",
+            "chainId": 80001,
+            "list": "assets.testnet.json",
+            "timestamp": "2023-05-16T15:36:28Z",
+            "version": {
+                "major": 0,
+                "minor": 0,
+                "patch": 3
+            }
+        },
+        {
+            "blockchain": "polygon",
+            "chainId": 137,
+            "list": "assets.mainnet.json",
+            "timestamp": "2023-05-17T19:39:46.551Z",
+            "version": {
+                "major": 0,
+                "minor": 0,
+                "patch": 9
+            }
+        },
+        {
+            "blockchain": "solana",
+            "chainId": 5,
+            "list": "assets.testnet.json",
+            "timestamp": "2023-05-16T15:36:28Z",
+            "version": {
+                "major": 0,
+                "minor": 0,
+                "patch": 8
+            }
+        },
+        {
             "blockchain": "solana",
             "chainId": 1,
             "list": "assets.mainnet.json",
@@ -151,7 +151,7 @@
             "version": {
                 "major": 0,
                 "minor": 1,
-                "patch": 1
+                "patch": 2
             }
         }
     ]
