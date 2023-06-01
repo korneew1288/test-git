@@ -1,7 +1,7 @@
 {
   "name": "Iron Wallet: Bitcoin",
   "logoUri": "",
-  "timestamp": "2022-12-01T15:38:12Z",
+  "timestamp": "2023-06-01T19:39:46.551Z",
   "status": "active",
   "assets": [
     {
@@ -20,6 +20,6 @@
   "version": {
     "major": 0,
     "minor": 0,
-    "patch": 6
+    "patch": 7
   }
 }
