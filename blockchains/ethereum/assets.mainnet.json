@@ -8530,10 +8530,10 @@
     "logoUri": "",
     "name": "Iron Wallet: Ethereum",
     "status": "active",
-    "timestamp": "2023-05-04T18:12:27.572Z",
+    "timestamp": "2023-06-01T19:39:46.551Z",
     "version": {
         "major": 0,
         "minor": 2,
-        "patch": 5
+        "patch": 6
     }
 }

@@ -241,10 +241,10 @@
     "logoUri": "",
     "name": "Iron Wallet: Tron",
     "status": "active",
-    "timestamp": "2023-05-04T18:19:19.080Z",
+    "timestamp": "2023-06-01T19:39:46.551Z",
     "version": {
         "major": 0,
         "minor": 0,
-        "patch": 7
+        "patch": 8
     }
 }

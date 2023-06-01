@@ -19,7 +19,7 @@
             "version": {
                 "major": 0,
                 "minor": 2,
-                "patch": 5
+                "patch": 6
             }
         },
         {
@@ -41,7 +41,7 @@
             "version": {
                 "major": 0,
                 "minor": 0,
-                "patch": 6
+                "patch": 7
             }
         },
         {
@@ -62,8 +62,8 @@
             "timestamp": "2023-05-17T19:39:46.551Z",
             "version": {
                 "major": 0,
-                "minor": 0,
-                "patch": 10
+                "minor": 1,
+                "patch": 0
             }
         },
         {
@@ -81,11 +81,11 @@
             "blockchain": "tron",
             "chainId": 1,
             "list": "assets.mainnet.json",
-            "timestamp": "2023-05-17T19:39:46.551Z",
+            "timestamp": "2023-06-01T19:39:46.551Z",
             "version": {
                 "major": 0,
                 "minor": 0,
-                "patch": 7
+                "patch": 8
             }
         },
         {
@@ -103,11 +103,11 @@
             "blockchain": "avalanche",
             "chainId": 43114,
             "list": "assets.mainnet.json",
-            "timestamp": "2023-05-17T19:39:46.551Z",
+            "timestamp": "2023-06-01T19:39:46.551Z",
             "version": {
                 "major": 0,
                 "minor": 0,
-                "patch": 7
+                "patch": 8
             }
         },
         {
@@ -125,11 +125,11 @@
             "blockchain": "polygon",
             "chainId": 137,
             "list": "assets.mainnet.json",
-            "timestamp": "2023-05-17T19:39:46.551Z",
+            "timestamp": "2023-06-01T19:39:46.551Z",
             "version": {
                 "major": 0,
                 "minor": 0,
-                "patch": 9
+                "patch": 10
             }
         },
         {
@@ -147,11 +147,11 @@
             "blockchain": "solana",
             "chainId": 1,
             "list": "assets.mainnet.json",
-            "timestamp": "2023-05-17T19:39:46.551Z",
+            "timestamp": "2023-06-01T19:39:46.551Z",
             "version": {
                 "major": 0,
                 "minor": 1,
-                "patch": 2
+                "patch": 3
             }
         }
     ]

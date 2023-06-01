@@ -4366,10 +4366,10 @@
     "logoUri": "",
     "name": "Iron Wallet: Binance Smart Chain",
     "status": "active",
-    "timestamp": "2023-05-04T18:16:34.598Z",
+    "timestamp": "2023-06-01T19:39:46.551Z",
     "version": {
         "major": 0,
-        "minor": 0,
-        "patch": 10
+        "minor": 1,
+        "patch": 0
     }
 }
