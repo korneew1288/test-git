@@ -8,7 +8,7 @@
       "chainId": 5,
       "asset_id": "clcryggzk000108mj2otk8ym5",
       "externalId": "tron",
-      "name": "TRX Test",
+      "name": "TRX Test (Tron)",
       "symbol": "TRX",
       "decimals": 6,
       "logoUri": "dev_assets/clcryggzk000108mj2otk8ym5/logo.png",
@@ -65,6 +65,6 @@
   "version": {
     "major": 0,
     "minor": 0,
-    "patch": 7
+    "patch": 8
   }
 }

@@ -8,7 +8,7 @@
       "chainId": 80001,
       "asset_id": "cldirm25m000008md5q5k0y5c",
       "externalId": "matic-network",
-      "name": "MATIC Test",
+      "name": "MATIC Test (Polygon)",
       "symbol": "MATIC",
       "decimals": 18,
       "logoUri": "dev_assets/cldirm25m000008md5q5k0y5c/logo.png",

@@ -70,22 +70,22 @@
             "blockchain": "tron",
             "chainId": 5,
             "list": "assets.testnet.json",
-            "timestamp": "2023-05-16T15:36:28Z",
+            "timestamp": "2023-07-31T15:36:28Z",
             "version": {
                 "major": 0,
                 "minor": 0,
-                "patch": 7
+                "patch": 8
             }
         },
         {
             "blockchain": "tron",
             "chainId": 1,
             "list": "assets.mainnet.json",
-            "timestamp": "2023-06-01T19:39:46.551Z",
+            "timestamp": "2023-07-31T19:39:46.551Z",
             "version": {
                 "major": 0,
                 "minor": 0,
-                "patch": 8
+                "patch": 9
             }
         },
         {
@@ -114,22 +114,22 @@
             "blockchain": "polygon",
             "chainId": 80001,
             "list": "assets.testnet.json",
-            "timestamp": "2023-05-16T15:36:28Z",
+            "timestamp": "2023-07-31T15:36:28Z",
             "version": {
                 "major": 0,
                 "minor": 0,
-                "patch": 3
+                "patch": 4
             }
         },
         {
             "blockchain": "polygon",
             "chainId": 137,
             "list": "assets.mainnet.json",
-            "timestamp": "2023-06-01T19:39:46.551Z",
+            "timestamp": "2023-07-31T19:39:46.551Z",
             "version": {
                 "major": 0,
-                "minor": 0,
-                "patch": 10
+                "minor": 1,
+                "patch": 0
             }
         },
         {

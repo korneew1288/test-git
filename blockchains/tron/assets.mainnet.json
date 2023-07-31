@@ -8,7 +8,7 @@
             "displayDecimals": 4,
             "externalId": "tron",
             "logoUri": "assets/cldene5ec0002rog50308a92b/logo.png",
-            "name": "TRX",
+            "name": "TRX (Tron)",
             "status": "active",
             "symbol": "TRX"
         },
@@ -245,6 +245,6 @@
     "version": {
         "major": 0,
         "minor": 0,
-        "patch": 8
+        "patch": 9
     }
 }
