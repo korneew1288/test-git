@@ -223,7 +223,7 @@
         "link_uri": "https://slm.games/",
         "logo_uri": "logos/clgfiud930016f0g54nhvaglo.png",
         "sort_order": 4,
-        "status": "active"
+        "status": "disabled"
       },
       {
         "res_id": "clgfiuysf0018f0g56rhpf6sc",
@@ -312,7 +312,7 @@
   "timestamp": "2023-04-18T23:29:36Z",
   "version": {
     "major": 0,
-    "minor": 0,
-    "patch": 9
+    "minor": 1,
+    "patch": 0
   }
 }
