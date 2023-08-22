@@ -70,11 +70,11 @@
             "blockchain": "tron",
             "chainId": 5,
             "list": "assets.testnet.json",
-            "timestamp": "2023-07-31T15:36:28Z",
+            "timestamp": "2023-08-22T17:16:22Z",
             "version": {
                 "major": 0,
                 "minor": 0,
-                "patch": 8
+                "patch": 9
             }
         },
         {
