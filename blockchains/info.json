@@ -70,22 +70,22 @@
             "blockchain": "tron",
             "chainId": 5,
             "list": "assets.testnet.json",
-            "timestamp": "2023-07-31T15:36:28Z",
+            "timestamp": "2023-08-22T17:16:22Z",
             "version": {
                 "major": 0,
                 "minor": 0,
-                "patch": 8
+                "patch": 9
             }
         },
         {
             "blockchain": "tron",
             "chainId": 1,
             "list": "assets.mainnet.json",
-            "timestamp": "2023-07-31T19:39:46.551Z",
+            "timestamp": "2023-08-22T16:26:10Z",
             "version": {
                 "major": 0,
                 "minor": 1,
-                "patch": 2
+                "patch": 3
             }
         },
         {
