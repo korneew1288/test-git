@@ -236,15 +236,30 @@
             "status": "active",
             "symbol": "wbt",
             "type": "TRC20"
+        },
+        {
+            "address": "TEkxiTehnzSmSe2XqrBj4w32RUN966rdz8",
+            "asset_id": "cllmizivo000a34g53bkkduv4",
+            "chainId": 1,
+            "decimals": 6,
+            "default": true,
+            "displayDecimals": 4,
+            "explorer": "https://tronscan.org/#/token20/TEkxiTehnzSmSe2XqrBj4w32RUN966rdz8",
+            "externalId": "usd-coin",
+            "logoUri": "assets/cllmizivo000a34g53bkkduv4/logo.png",
+            "name": "USD Coin",
+            "status": "active",
+            "symbol": "USDC",
+            "type": "TRC20"
         }
     ],
     "logoUri": "",
     "name": "Iron Wallet: Tron",
     "status": "active",
-    "timestamp": "2023-06-01T19:39:46.551Z",
+    "timestamp": "2023-08-22T16:26:10Z",
     "version": {
         "major": 0,
         "minor": 1,
-        "patch": 0
+        "patch": 3
     }
 }
