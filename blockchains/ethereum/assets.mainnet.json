@@ -8525,15 +8525,30 @@
             "status": "active",
             "symbol": "zik",
             "type": "ERC20"
+        },
+        {
+            "address": "0x6c3ea9036406852006290770BEdFcAbA0e23A0e8",
+            "asset_id": "clm3mdf2h0000w4g523vm8xb4",
+            "chainId": 1,
+            "decimals": 6,
+            "default": false,
+            "displayDecimals": 4,
+            "explorer": "https://etherscan.io/token/0x6c3ea9036406852006290770BEdFcAbA0e23A0e8",
+            "externalId": "paypal-usd",
+            "logoUri": "assets/clm3mdf2h0000w4g523vm8xb4/logo.png",
+            "name": "PayPal USD",
+            "status": "active",
+            "symbol": "PYUSD",
+            "type": "ERC20"
         }
     ],
     "logoUri": "",
     "name": "Iron Wallet: Ethereum",
     "status": "active",
-    "timestamp": "2023-06-01T19:39:46.551Z",
+    "timestamp": "2023-09-03T15:50:31Z",
     "version": {
         "major": 0,
         "minor": 2,
-        "patch": 7
+        "patch": 10
     }
 }
