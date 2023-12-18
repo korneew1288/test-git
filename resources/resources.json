@@ -2,23 +2,13 @@
   "resources": {
     "Buy/sell crypto": [
       {
-        "res_id": "clgfi3jt10006f0g551lohigb",
-        "name": "Change hero",
-        "description": "Buy or Sell crypto with credit card and debit card",
-        "type": "WebApp",
-        "link_uri": "https://changehero.io/buy-sell-crypto",
-        "logo_uri": "logos/clgfi3jt10006f0g551lohigb.png",
-        "sort_order": 1,
-        "status": "active"
-      },
-      {
         "res_id": "clgfi42qv0008f0g53tbp35yv",
         "name": "Transak",
         "description": "Available across 160 cryptocurrencies on 75+ blockchains via cards, bank transfers and other payment methods in 150 countries.",
         "type": "WebApp",
-        "link_uri": "https://global.transak.com",
+        "link_uri": "https://global.transak.com?apiKey=49173802-ed67-4410-ae35-545c9eaee89b",
         "logo_uri": "logos/clgfi42qv0008f0g53tbp35yv.png",
-        "sort_order": 2,
+        "sort_order": 1,
         "status": "active"
       },
       {
@@ -26,9 +16,30 @@
         "name": "Ramp",
         "description": "Allow users to buy crypto without leaving your dApp or wallet. Increase conversion. Be ready for your next million users.",
         "type": "WebApp",
-        "link_uri": "https://ramp.network/buy",
+        "link_uri": "https://app.ramp.network?hostApiKey=38xo96vvkyvbg6ye8r5gtf6bpg88yugnhf362a4q",
         "logo_uri": "logos/clgfi4v0v000af0g51pnd7h5e.png",
+        "sort_order": 2,
+        "status": "active"
+      },
+      {
+        "res_id": "clqao0gtg000109ic8dqffsii",
+        "name": "Guardarian",
+        "description": "Enables users to securely buy, sell, and stake cryptocurrencies while maintaining control of their private keys",
+        "type": "WebApp",
+        "link_uri": "https://guardarian.com/calculator/v1?partner_api_token=bbaf1c59-7f62-4698-9148-7a9fedd61396",
+        "logo_uri": "logos/clqao0gtg000109ic8dqffsii.png",
         "sort_order": 3,
+        "status": "active"
+      },
+
+      {
+        "res_id": "clgfi3jt10006f0g551lohigb",
+        "name": "Change hero",
+        "description": "Buy or Sell crypto with credit card and debit card",
+        "type": "WebApp",
+        "link_uri": "https://changehero.io/buy-sell-crypto",
+        "logo_uri": "logos/clgfi3jt10006f0g551lohigb.png",
+        "sort_order": 5,
         "status": "active"
       },
       {
@@ -38,7 +49,7 @@
         "type": "WebApp",
         "link_uri": "https://banxa.com",
         "logo_uri": "logos/clgfi5iuz000cf0g52mklhgov.png",
-        "sort_order": 4,
+        "sort_order": 6,
         "status": "active"
       }
     ],
@@ -309,10 +320,10 @@
       }
     ]
   },
-  "timestamp": "2023-04-18T23:29:36Z",
+  "timestamp": "2023-12-18T11:29:36Z",
   "version": {
     "major": 0,
     "minor": 1,
-    "patch": 0
+    "patch": 1
   }
 }
