@@ -6,7 +6,7 @@
         "name": "Transak",
         "description": "Available across 160 cryptocurrencies on 75+ blockchains via cards, bank transfers and other payment methods in 150 countries.",
         "type": "WebApp",
-        "link_uri": "https://global.transak.com?apiKey=49173802-ed67-4410-ae35-545c9eaee89b",
+        "link_uri": "https://global.transak.com/",
         "logo_uri": "logos/clgfi42qv0008f0g53tbp35yv.png",
         "sort_order": 1,
         "status": "active"
@@ -16,7 +16,7 @@
         "name": "Ramp",
         "description": "Allow users to buy crypto without leaving your dApp or wallet. Increase conversion. Be ready for your next million users.",
         "type": "WebApp",
-        "link_uri": "https://app.ramp.network?hostApiKey=38xo96vvkyvbg6ye8r5gtf6bpg88yugnhf362a4q",
+        "link_uri": "https://ramp.network/buy",
         "logo_uri": "logos/clgfi4v0v000af0g51pnd7h5e.png",
         "sort_order": 2,
         "status": "active"
@@ -320,10 +320,10 @@
       }
     ]
   },
-  "timestamp": "2023-12-18T11:29:36Z",
+  "timestamp": "2023-12-19T11:29:36Z",
   "version": {
     "major": 0,
     "minor": 1,
-    "patch": 1
+    "patch": 2
   }
 }
