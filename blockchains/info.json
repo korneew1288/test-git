@@ -15,11 +15,11 @@
             "blockchain": "ethereum",
             "chainId": 1,
             "list": "assets.mainnet.json",
-            "timestamp": "2023-09-03T15:50:31Z",
+            "timestamp": "2024-03-06T08:00:30.198Z",
             "version": {
                 "major": 0,
-                "minor": 2,
-                "patch": 10
+                "minor": 3,
+                "patch": 0
             }
         },
         {
@@ -59,11 +59,11 @@
             "blockchain": "bsc",
             "chainId": 56,
             "list": "assets.mainnet.json",
-            "timestamp": "2023-05-17T19:39:46.551Z",
+            "timestamp": "2024-02-22T08:00:33.190Z",
             "version": {
                 "major": 0,
                 "minor": 1,
-                "patch": 3
+                "patch": 4
             }
         },
         {
@@ -81,11 +81,11 @@
             "blockchain": "tron",
             "chainId": 1,
             "list": "assets.mainnet.json",
-            "timestamp": "2023-08-22T16:26:10Z",
+            "timestamp": "2024-02-22T08:00:36.370Z",
             "version": {
                 "major": 0,
                 "minor": 1,
-                "patch": 3
+                "patch": 4
             }
         },
         {
@@ -103,11 +103,11 @@
             "blockchain": "avalanche",
             "chainId": 43114,
             "list": "assets.mainnet.json",
-            "timestamp": "2023-06-01T19:39:46.551Z",
+            "timestamp": "2024-02-22T08:00:37.274Z",
             "version": {
                 "major": 0,
                 "minor": 1,
-                "patch": 1
+                "patch": 2
             }
         },
         {
@@ -125,11 +125,11 @@
             "blockchain": "polygon",
             "chainId": 137,
             "list": "assets.mainnet.json",
-            "timestamp": "2023-07-31T19:39:46.551Z",
+            "timestamp": "2024-02-22T08:00:38.564Z",
             "version": {
                 "major": 0,
                 "minor": 1,
-                "patch": 3
+                "patch": 4
             }
         },
         {
@@ -147,11 +147,11 @@
             "blockchain": "solana",
             "chainId": 1,
             "list": "assets.mainnet.json",
-            "timestamp": "2023-06-01T19:39:46.551Z",
+            "timestamp": "2024-02-22T08:00:39.767Z",
             "version": {
                 "major": 0,
                 "minor": 1,
-                "patch": 6
+                "patch": 7
             }
         }
     ]
