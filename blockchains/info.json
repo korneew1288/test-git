@@ -15,11 +15,11 @@
             "blockchain": "ethereum",
             "chainId": 1,
             "list": "assets.mainnet.json",
-            "timestamp": "2024-03-06T08:00:30.198Z",
+            "timestamp": "2024-03-12T08:00:30.198Z",
             "version": {
                 "major": 0,
                 "minor": 3,
-                "patch": 0
+                "patch": 1
             }
         },
         {
@@ -37,11 +37,11 @@
             "blockchain": "bitcoin",
             "chainId": 1,
             "list": "assets.mainnet.json",
-            "timestamp": "2022-12-01T15:38:12Z",
+            "timestamp": "2024-03-12T15:38:12Z",
             "version": {
                 "major": 0,
                 "minor": 1,
-                "patch": 0
+                "patch": 1
             }
         },
         {
@@ -63,7 +63,7 @@
             "version": {
                 "major": 0,
                 "minor": 1,
-                "patch": 4
+                "patch": 5
             }
         },
         {
@@ -85,7 +85,7 @@
             "version": {
                 "major": 0,
                 "minor": 1,
-                "patch": 4
+                "patch": 5
             }
         },
         {
@@ -107,7 +107,7 @@
             "version": {
                 "major": 0,
                 "minor": 1,
-                "patch": 2
+                "patch": 3
             }
         },
         {
@@ -129,7 +129,7 @@
             "version": {
                 "major": 0,
                 "minor": 1,
-                "patch": 4
+                "patch": 5
             }
         },
         {
@@ -151,7 +151,7 @@
             "version": {
                 "major": 0,
                 "minor": 1,
-                "patch": 7
+                "patch": 8
             }
         }
     ]
