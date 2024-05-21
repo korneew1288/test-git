@@ -34,10 +34,10 @@
     {
       "chainId": 5,
       "asset_id": "clfgxt1bd000008jpckvbg2nr",
-      "externalId": "stepn",
+      "externalId": "stepn_unlised",
       "type": "Solana",
       "address": "83KJsjkaLU6C86MAjrGwSe9a3XophvvyXvZxkrZNc5VM",
-      "name": "STEPN Test",
+      "name": "STEPN Test(Unlisted)",
       "symbol": "GMT",
       "decimals": 9,
       "logoUri": "dev_assets/clfgxt1bd000008jpckvbg2nr/logo.png",
