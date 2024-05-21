@@ -19,10 +19,10 @@
     {
       "chainId": 5,
       "asset_id": "cld4fil71000408mj1bw7h59a",
-      "externalId": "tether",
+      "externalId": "tether_unlisted",
       "type": "TRC20",
       "address": "TH9sPoh12RxkKHQUXJeL8GZvbP3CZHKxCF",
-      "name": "USDT Test",
+      "name": "USDT Test(Unlisted)",
       "symbol": "USDT",
       "decimals": 6,
       "logoUri": "dev_assets/cld4fil71000408mj1bw7h59a/logo.png",
@@ -64,7 +64,7 @@
   ],
   "version": {
     "major": 0,
-    "minor": 0,
-    "patch": 9
+    "minor": 1,
+    "patch": 0
   }
 }
