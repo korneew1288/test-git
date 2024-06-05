@@ -19,7 +19,7 @@
     {
       "chainId": 421614,
       "asset_id": "clx0gn7qu000308lg12btfn1m",
-      "externalId": "null",
+      "externalId": "arb-igor",
       "type": "ERC20",
       "address": "0x809a968e44185fe7eef361c3287c9b46d50589f2",
       "name": "Arb Token By Igor",
