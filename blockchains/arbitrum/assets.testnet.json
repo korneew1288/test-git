@@ -1,0 +1,55 @@
+{
+  "name": "Iron Wallet: Arbitrum Testnet Sepolia",
+  "logoUri": "",
+  "timestamp": "2024-06-03T14:36:55Z",
+  "status": "active",
+  "assets": [
+    {
+      "chainId": 421614,
+      "asset_id": "clx0gmcqj000108lg3ypwg7iu",
+      "externalId": "arbitrum",
+      "name": "Arbitrum (test)",
+      "symbol": "ARB",
+      "decimals": 18,
+      "logoUri": "dev_assets/clx0gmcqj000108lg3ypwg7iu.png",
+      "status": "active",
+      "default": true,
+      "displayDecimals": 4
+    },
+    {
+      "chainId": 421614,
+      "asset_id": "clx0gn7qu000308lg12btfn1m",
+      "externalId": "null",
+      "type": "ERC20",
+      "address": "0x809a968e44185fe7eef361c3287c9b46d50589f2",
+      "name": "Arb Token By Igor",
+      "symbol": "ATBY",
+      "decimals": 18,
+      "logoUri": "dev_assets/clx0gn7qu000308lg12btfn1m.png",
+      "status": "active",
+      "default": true,
+      "displayDecimals": 4,
+      "explorer": "https://sepolia.arbiscan.io/token/0x809a968e44185fe7eef361c3287c9b46d50589f2"
+    },
+    {
+      "chainId": 421614,
+      "asset_id": "clx1tlv4u000008jo17536br1",
+      "externalId": "chainlink",
+      "type": "ERC20",
+      "address": "0xb1d4538b4571d411f07960ef2838ce337fe1e80e",
+      "name": "Chainlink Test",
+      "symbol": "LINK",
+      "decimals": 18,
+      "logoUri": "dev_assets/clx1tlv4u000008jo17536br1.png",
+      "status": "active",
+      "default": true,
+      "displayDecimals": 4,
+      "explorer": "https://sepolia.arbiscan.io/token/0xb1d4538b4571d411f07960ef2838ce337fe1e80e"
+    }
+  ],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}
