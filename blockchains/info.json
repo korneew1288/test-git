@@ -156,7 +156,7 @@
         },
         {
             "blockchain": "arbitrum",
-            "chainId": 1,
+            "chainId": 421614,
             "list": "assets.testnet.json",
             "timestamp": "2024-02-22T08:00:39.767Z",
             "version": {
