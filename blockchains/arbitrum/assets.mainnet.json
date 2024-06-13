@@ -11,7 +11,7 @@
       "name": "Arbitrum",
       "symbol": "ARB",
       "decimals": 18,
-      "logoUri": "assets/clxabo6e1000208ld8v8t6i4l.png",
+      "logoUri": "assets/clxabo6e1000208ld8v8t6i4l/logo.png",
       "status": "active",
       "default": true,
       "displayDecimals": 4
