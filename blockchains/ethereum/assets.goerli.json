@@ -1,7 +1,7 @@
 {
-  "name": "Iron Wallet: Ethereum (Goerli)",
+  "name": "Iron Wallet: Ethereum (Sepolia)",
   "logoUri": "",
-  "timestamp": "2022-12-01T15:36:28Z",
+  "timestamp": "2024-05-18T15:36:28Z",
   "status": "active",
   "assets": [
     {
@@ -21,7 +21,7 @@
       "asset_id": "cl7t4nnig000efcg58cjj63ef",
       "externalId": "weth",
       "type": "ERC20",
-      "address": "0xB4FBF271143F4FBf7B91A5ded31805e42b2208d6",
+      "address": "0xb16F35c0Ae2912430DAc15764477E179D9B9EbEa",
       "name": "Wrapped ETH",
       "symbol": "WETH",
       "decimals": 18,
@@ -29,14 +29,14 @@
       "status": "active",
       "default": true,
       "displayDecimals": 4,
-      "explorer": "https://goerli.etherscan.io/token/0xB4FBF271143F4FBf7B91A5ded31805e42b2208d6"
+      "explorer": "https://sepolia.etherscan.io/token/0xb16f35c0ae2912430dac15764477e179d9b9ebea"
     },
     {
       "chainId": 5,
       "asset_id": "cl7t4tbx6000ifcg51hyc6dug",
       "externalId": "usd-coin",
       "type": "ERC20",
-      "address": "0xeeDF8CB30F8E4750Ce4361Ed48169940F007906F",
+      "address": "0x91e0f13ca562dd9206f445d4028AC8745076745D",
       "name": "USD//C Test",
       "symbol": "USDC",
       "decimals": 6,
@@ -44,14 +44,14 @@
       "status": "active",
       "default": true,
       "displayDecimals": 4,
-      "explorer": "https://goerli.etherscan.io/token/0xeeDF8CB30F8E4750Ce4361Ed48169940F007906F"
+      "explorer": "https://sepolia.etherscan.io/address/0x91e0f13ca562dd9206f445d4028ac8745076745d"
     },
     {
       "chainId": 5,
       "asset_id": "cl88yo14n0006c4g5gj91hudd",
       "externalId": "tether",
       "type": "ERC20",
-      "address": "0x91894eCCE373504Cdd22ce66aBe2abcdD59e74ab",
+      "address": "0x032cac62248b39e128A7576e48ABBb3A084874bb",
       "name": "USDT Test",
       "symbol": "USDT",
       "decimals": 6,
@@ -59,14 +59,14 @@
       "status": "active",
       "default": true,
       "displayDecimals": 4,
-      "explorer": "https://goerli.etherscan.io/token/0x91894eCCE373504Cdd22ce66aBe2abcdD59e74ab"
+      "explorer": "https://sepolia.etherscan.io/address/0x032cac62248b39e128a7576e48abbb3a084874bb"
     },
     {
       "chainId": 5,
       "asset_id": "cl7t4ppeb000gfcg5b6s447m2",
       "externalId": "dai",
       "type": "ERC20",
-      "address": "0x3fe1377B18E25E74F4d4270766EdF038137d91A9",
+      "address": "0xA526a47daF1fd97B67F5398A70d69947D7F77336",
       "name": "DAI Test",
       "symbol": "DAI",
       "decimals": 18,
@@ -74,12 +74,12 @@
       "status": "active",
       "default": true,
       "displayDecimals": 4,
-      "explorer": "https://goerli.etherscan.io/token/0x3fe1377B18E25E74F4d4270766EdF038137d91A9"
+      "explorer": "https://sepolia.etherscan.io/address/0xa526a47daf1fd97b67f5398a70d69947d7f77336"
     }
   ],
   "version": {
     "major": 0,
-    "minor": 0,
-    "patch": 6
+    "minor": 1,
+    "patch": 1
   }
 }
