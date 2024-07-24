@@ -6,11 +6,11 @@
             "decimals": 18,
             "default": true,
             "displayDecimals": 4,
-            "externalId": "arbitrum",
+            "externalId": "ethereum",
             "logoUri": "assets/clxabo6e1000208ld8v8t6i4l/logo.png",
-            "name": "Arbitrum",
+            "name": "ETH (Arbitrum)",
             "status": "active",
-            "symbol": "ARB"
+            "symbol": "ETH"
         },
         {
             "address": "0xCa4e51F6AD4AFd9d1068E5899De9dd7d73F3463D",
