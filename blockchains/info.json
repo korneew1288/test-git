@@ -175,6 +175,17 @@
                 "minor": 0,
                 "patch": 4
             }
+        },
+        {
+            "blockchain": "ton",
+            "chainId": 5,
+            "list": "assets.testnet.json",
+            "timestamp": "2024-02-22T08:00:39.767Z",
+            "version": {
+                "major": 0,
+                "minor": 0,
+                "patch": 1
+            }
         }
     ]
 }
