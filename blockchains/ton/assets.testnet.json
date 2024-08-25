@@ -1,0 +1,40 @@
+{
+  "name": "Iron Wallet: Ton (Testnet)",
+  "logoUri": "",
+  "timestamp": "2024-08-23T08:00:39.767Z",
+  "status": "active",
+  "assets": [
+    {
+      "chainId": 5,
+      "asset_id": "cm06ngqnp000208k50d2g3y6w",
+      "externalId": "the-open-network",
+      "name": "Ton Test",
+      "symbol": "TON",
+      "decimals": 9,
+      "logoUri": "dev_assets/cm06ngqnp000208k50d2g3y6w/logo.png",
+      "status": "active",
+      "default": true,
+      "displayDecimals": 4
+    },
+    {
+      "chainId": 5,
+      "asset_id": "cm06nhe85000308k5eygr0u8c",
+      "externalId": "ton-tji",
+      "type": "Ton",
+      "address": "EQD3_XaqhvmtdzfMGPfV6yAfqp4cPcUAVKwHq1RMBdYpRx2V",
+      "name": "TEST JETTON IGOR",
+      "symbol": "TJI",
+      "decimals": 9,
+      "logoUri": "dev_assets/cm06nhe85000308k5eygr0u8c/logo.png",
+      "status": "active",
+      "default": true,
+      "displayDecimals": 4,
+      "explorer": "https://testnet.tonscan.org/address/EQD3_XaqhvmtdzfMGPfV6yAfqp4cPcUAVKwHq1RMBdYpRx2V"
+    }
+  ],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}
