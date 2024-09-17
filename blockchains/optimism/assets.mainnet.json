@@ -1,0 +1,14 @@
+{
+    "name": "Iron Wallet: Optimism",
+    "logoUri": "",
+    "timestamp": "2024-08-23T08:00:39.767+00:00",
+    "status": "active",
+    "assets": [
+
+     ],
+    "version": {
+      "major": 0,
+      "minor": 0,
+      "patch": 1
+    }
+  }

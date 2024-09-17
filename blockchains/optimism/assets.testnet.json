@@ -1,0 +1,59 @@
+{
+    "name": "Iron Wallet: Optimism (Testnet)",
+    "logoUri": "",
+    "timestamp": "2024-08-23T08:00:39.767+00:00",
+    "status": "active",
+    "assets": [
+      {
+        "chainId": 11155420,
+        "asset_id": "cm0mgeqi4000308jx3q0u1thv",
+        "externalId": "optimism",
+        "name": "Test OP",
+        "symbol": "OP",
+        "decimals": 18,
+        "logoUri": "dev_assets/optimism-test-op/logo.png",
+        "status": "active",
+        "default": true,
+        "displayDecimals": 4
+      },
+      {
+        "id": 2,
+        "chainId": 11155420,
+        "asset_id": "cm0o379bd000108l683oaa0nn",
+        "externalId": "optimism-bridged-wbtc-optimism",
+        "name": "WBTC Test",
+        "symbol": "WBTC",
+        "decimals": 6,
+        "logoUri": "dev_assets/usdc-test/logo.png",
+        "status": "active",
+        "default": true,
+        "displayDecimals": 4,
+        "type": "ERC-20",
+        "address": "0x9aa7fEc87CA69695Dd1f879567CcF49F3ba417E2",
+        "explorer": "https://optimism-goerli.etherscan.io/token/0x9aa7fEc87CA69695Dd1f879567CcF49F3ba417E2",
+        "sort_order": null
+      },
+      {
+        "id": 3,
+        "chainId": 11155420,
+        "asset_id": "cm0o37kju000208l687962rhz",
+        "externalId": "optim-oada",
+        "name": "OADA Test",
+        "symbol": "OADA",
+        "decimals": 18,
+        "logoUri": "dev_assets/dai-test/logo.png",
+        "status": "active",
+        "default": true,
+        "displayDecimals": 4,
+        "type": "ERC-20",
+        "address": "0x75Ab5AB1Eef154C0352Fc31D2428Cef80C7F8B33",
+        "explorer": "https://optimism-goerli.etherscan.io/token/0x75Ab5AB1Eef154C0352Fc31D2428Cef80C7F8B33",
+        "sort_order": null
+      }
+    ],
+    "version": {
+      "major": 0,
+      "minor": 0,
+      "patch": 1
+    }
+  }
