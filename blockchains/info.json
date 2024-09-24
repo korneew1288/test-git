@@ -197,6 +197,17 @@
                 "minor": 1,
                 "patch": 0
             }
-          }
+        },
+        {
+            "blockchain": "optimism",
+            "chainId": 10,
+            "list": "assets.mainnet.json",
+            "timestamp": "2024-08-23T00:00:00+00:00",
+            "version": {
+                "major": 0,
+                "minor": 1,
+                "patch": 0
+            }
+        }
     ]
 }
