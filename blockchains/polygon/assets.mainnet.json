@@ -2233,21 +2233,6 @@
             "type": "Polygon"
         },
         {
-            "address": "0x0000000000000000000000000000000000001010",
-            "asset_id": "clswxohav07dv8cuh0nn88440",
-            "chainId": 137,
-            "decimals": 18,
-            "default": false,
-            "displayDecimals": 4,
-            "explorer": "https://polygonscan.com/token/0x0000000000000000000000000000000000001010",
-            "externalId": "matic-network",
-            "logoUri": "assets/clswxohav07dv8cuh0nn88440/logo.png",
-            "name": "Polygon",
-            "status": "active",
-            "symbol": "matic",
-            "type": "Polygon"
-        },
-        {
             "address": "0xB1A91036e4a3C144efeD953e0b6CC5f6B98AD256",
             "asset_id": "clswxohaw07fj8cuhg1be1osf",
             "chainId": 137,
@@ -2746,10 +2731,10 @@
     "logoUri": "",
     "name": "Iron Wallet: Polygon",
     "status": "active",
-    "timestamp": "2024-02-22T08:00:38.564Z",
+    "timestamp": "2024-09-30T18:31:38.564Z",
     "version": {
         "major": 0,
         "minor": 1,
-        "patch": 4
+        "patch": 9
     }
 }
