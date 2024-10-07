@@ -188,6 +188,17 @@
             }
         },
         {
+            "blockchain": "ton",
+            "chainId": 1,
+            "list": "assets.mainnet.json",
+            "timestamp": "2024-02-22T08:00:39.767Z",
+            "version": {
+                "major": 0,
+                "minor": 0,
+                "patch": 1
+            }
+        },
+        {
             "blockchain": "optimism",
             "chainId": 11155420,
             "list": "assets.testnet.json",
