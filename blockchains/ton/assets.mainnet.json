@@ -1,6 +1,18 @@
 {
     "assets": [
         {
+            "asset_id": "cm20b6qz30039ttosktdki5d1",
+            "chainId": 1,
+            "decimals": 0,
+            "default": false,
+            "displayDecimals": 4,
+            "externalId": "the-open-network",
+            "logoUri": "assets/cm20b6qz30039ttosktdki5d1/logo.png",
+            "name": "Toncoin",
+            "status": "active",
+            "symbol": "TON"
+        },
+        {
             "address": "EQAR-KBduwL4w-Lg72QFX4tWTOAJCGS72FkGHrJL9Qt7P9ln",
             "asset_id": "cm20b6qz20007ttos2348hlfj",
             "chainId": 1,
@@ -196,21 +208,6 @@
             "type": "Ton"
         },
         {
-            "address": "EQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAM9c",
-            "asset_id": "cm20b6qz30039ttosktdki5d1",
-            "chainId": 1,
-            "decimals": 0,
-            "default": false,
-            "displayDecimals": 4,
-            "explorer": "https://tonscan.org/address/EQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAM9c",
-            "externalId": "the-open-network",
-            "logoUri": "assets/cm20b6qz30039ttosktdki5d1/logo.png",
-            "name": "Toncoin",
-            "status": "active",
-            "symbol": "ton",
-            "type": "Ton"
-        },
-        {
             "address": "EQCEqz2x3-Ub_EO4Y5798NNoqKw1tP_tJ6b9y-X0C4uvs8Zf",
             "asset_id": "cm20b6qz3004attosszhvw86x",
             "chainId": 1,
@@ -233,6 +230,6 @@
     "version": {
         "major": 0,
         "minor": 0,
-        "patch": 2
+        "patch": 3
     }
 }
