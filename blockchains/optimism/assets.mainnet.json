@@ -1,5 +1,47 @@
 {
     "assets": [
+         {
+            "asset_id": "cm2cjb4fo000008l80wtlhcf1",
+            "chainId": 10,
+            "decimals": 18,
+            "default": true,
+            "displayDecimals": 4,
+            "externalId": "ethereum",
+            "logoUri": "assets/cm2cjb4fo000008l80wtlhcf1/logo.png",
+            "name": "ETH (Optimism)",
+            "status": "active",
+            "symbol": "ETH"
+        },
+        {
+            "address": "0x4200000000000000000000000000000000000042",
+            "asset_id": "cm1e583hq00440hp9e9t1dkd4",
+            "chainId": 10,
+            "decimals": 18,
+            "default": false,
+            "displayDecimals": 4,
+            "explorer": "https://optimistic.etherscan.io/token/0x4200000000000000000000000000000000000042",
+            "externalId": "optimism",
+            "logoUri": "assets/cm1e583hq00440hp9e9t1dkd4/logo.png",
+            "name": "Optimism",
+            "status": "active",
+            "symbol": "op",
+            "type": "Optimism"
+        },
+        {
+            "address": "0x94b008aA00579c1307B0EF2c499aD98a8ce58e58",
+            "asset_id": "cm1e583hq001f0hp9cpb19fz9",
+            "chainId": 10,
+            "decimals": 6,
+            "default": false,
+            "displayDecimals": 4,
+            "explorer": "https://optimistic.etherscan.io/token/0x94b008aa00579c1307b0ef2c499ad98a8ce58e58",
+            "externalId": "bridged-usdt",
+            "logoUri": "assets/cm1e583hq001f0hp9cpb19fz9/logo.png",
+            "name": "Bridged USDT",
+            "status": "active",
+            "symbol": "usdt",
+            "type": "Optimism"
+        },
         {
             "address": "0x76FB31fb4af56892A25e32cFC43De717950c9278",
             "asset_id": "cm1e583gl00000hp9aeoqlbho",
@@ -133,21 +175,6 @@
             "name": "Standard Bridged USDC.e (Optimism)",
             "status": "active",
             "symbol": "usdc.e",
-            "type": "Optimism"
-        },
-        {
-            "address": "0x94b008aA00579c1307B0EF2c499aD98a8ce58e58",
-            "asset_id": "cm1e583hq001f0hp9cpb19fz9",
-            "chainId": 10,
-            "decimals": 6,
-            "default": false,
-            "displayDecimals": 4,
-            "explorer": "https://optimistic.etherscan.io/token/0x94b008aa00579c1307b0ef2c499ad98a8ce58e58",
-            "externalId": "bridged-usdt",
-            "logoUri": "assets/cm1e583hq001f0hp9cpb19fz9/logo.png",
-            "name": "Bridged USDT",
-            "status": "active",
-            "symbol": "usdt",
             "type": "Optimism"
         },
         {
@@ -448,21 +475,6 @@
             "name": "Ocean Protocol",
             "status": "active",
             "symbol": "ocean",
-            "type": "Optimism"
-        },
-        {
-            "address": "0x4200000000000000000000000000000000000042",
-            "asset_id": "cm1e583hq00440hp9e9t1dkd4",
-            "chainId": 10,
-            "decimals": 18,
-            "default": false,
-            "displayDecimals": 4,
-            "explorer": "https://optimistic.etherscan.io/token/0x4200000000000000000000000000000000000042",
-            "externalId": "optimism",
-            "logoUri": "assets/cm1e583hq00440hp9e9t1dkd4/logo.png",
-            "name": "Optimism",
-            "status": "active",
-            "symbol": "op",
             "type": "Optimism"
         },
         {
