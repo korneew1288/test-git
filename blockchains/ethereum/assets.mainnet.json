@@ -1191,7 +1191,7 @@
             "explorer": "https://etherscan.io/token/0x15D4c048F83bd7e37d49eA4C83a07267Ec4203dA",
             "externalId": "gala",
             "logoUri": "assets/cl7dq01c1003d4cuzmlk6jmet/logo.png",
-            "name": "Gala",
+            "name": "Gala-old",
             "sort_order": 227,
             "status": "active",
             "symbol": "GALA",
@@ -3165,7 +3165,7 @@
             "explorer": "https://etherscan.io/token/0xc4c7ea4fab34bd9fb9a5e1b1a98df76e26e6407c",
             "externalId": "cocos-bcx",
             "logoUri": "assets/clh9g2tz000l0b0g49ivh0bvf/logo.png",
-            "name": "COCOS BCX",
+            "name": "COCOS BCX-old",
             "status": "active",
             "symbol": "cocos",
             "type": "ERC20"
@@ -3390,7 +3390,7 @@
             "explorer": "https://etherscan.io/token/0xd04e772bc0d591fbd288f2e2a86afa3d3cb647f8",
             "externalId": "cryptogpt-token",
             "logoUri": "assets/clh9g2tza00p2b0g40y6sf1ga/logo.png",
-            "name": "CryptoGPT Token",
+            "name": "CryptoGPT Token-old",
             "status": "active",
             "symbol": "gpt",
             "type": "ERC20"
@@ -5070,7 +5070,7 @@
             "explorer": "https://etherscan.io/token/0x7bec98609cb6378d6f995e8f8097ee78376fbec9",
             "externalId": "leisuremeta",
             "logoUri": "assets/clh9g2u1i01kzb0g4d78tgacc/logo.png",
-            "name": "LeisureMeta",
+            "name": "LeisureMeta-old",
             "status": "active",
             "symbol": "lm",
             "type": "ERC20"
@@ -5760,7 +5760,7 @@
             "explorer": "https://etherscan.io/token/0x04abeda201850ac0124161f037efd70c74ddc74c",
             "externalId": "nest",
             "logoUri": "assets/clh9g2u2d01wjb0g4dlq7qsz5/logo.png",
-            "name": "Nest Protocol",
+            "name": "Nest Protocol-old",
             "status": "active",
             "symbol": "nest",
             "type": "ERC20"
