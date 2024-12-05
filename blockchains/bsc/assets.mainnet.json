@@ -8846,6 +8846,21 @@
             "status": "active",
             "symbol": "zedxion",
             "type": "BEP20"
+        },
+        {
+            "address": "0x1CE0c2827e2eF14D5C4f29a091d735A204794041",
+            "asset_id": "cm4b8j6yj0001356qrnvq64s7",
+            "chainId": 56,
+            "decimals": 18,
+            "default": false,
+            "displayDecimals": 4,
+            "explorer": "https://bscscan.com/token/0x1CE0c2827e2eF14D5C4f29a091d735A204794041",
+            "externalId": "binance-peg-avalanche",
+            "logoUri": "assets/cm4b8j6yj0001356qrnvq64s7/logo.png",
+            "name": "Binance-Peg Avalanche",
+            "status": "active",
+            "symbol": "AVAX",
+            "type": "BEP20"
         }
     ],
     "logoUri": "",
@@ -8854,7 +8869,7 @@
     "timestamp": "2024-10-25T23:13:44.399Z",
     "version": {
         "major": 0,
-        "minor": 1,
-        "patch": 9
+        "minor": 2,
+        "patch": 0
     }
 }
