@@ -562,7 +562,7 @@
             "explorer": "https://bscscan.com/token/0x14016E85a25aeb13065688cAFB43044C2ef86784",
             "externalId": "true-usd",
             "logoUri": "assets/cldd7lij4002skguzth448h2r/logo.png",
-            "name": "TrueUSD",
+            "name": "TrueUSD-old",
             "status": "active",
             "symbol": "TUSD",
             "type": "BEP20"
@@ -892,7 +892,7 @@
             "explorer": "https://bscscan.com/token/0x4518231a8FDF6ac553B9BBD51Bbb86825B583263",
             "externalId": "media-licensing-token",
             "logoUri": "assets/cldd7lijk005tkguz5s8ic449/logo.png",
-            "name": "Media Licensing Token",
+            "name": "Media Licensing Token-old",
             "status": "active",
             "symbol": "MLT",
             "type": "BEP20"
@@ -1267,7 +1267,7 @@
             "explorer": "https://bscscan.com/token/0x039cB485212f996A9DBb85A9a75d898F94d38dA6",
             "externalId": "dexe",
             "logoUri": "assets/cldd7lik900aykguzob97vj9y/logo.png",
-            "name": "DeXe",
+            "name": "DeXe-old",
             "status": "active",
             "symbol": "DEXE",
             "type": "BEP20"
@@ -1567,7 +1567,7 @@
             "explorer": "https://bscscan.com/token/0x88479186BAC914E4313389a64881F5ed0153C765",
             "externalId": "squidgrow",
             "logoUri": "assets/cldd7lil000gckguz22coer57/logo.png",
-            "name": "SquidGrow",
+            "name": "SquidGrow-old",
             "status": "active",
             "symbol": "SquidGrow",
             "type": "BEP20"
@@ -3457,7 +3457,7 @@
             "explorer": "https://bscscan.com/token/0x98f8669f6481ebb341b522fcd3663f79a3d1a6a7",
             "externalId": "nest",
             "logoUri": "assets/clh9g84pd04xpb0g4q0q3f69p/logo.png",
-            "name": "Nest Protocol",
+            "name": "Nest Protocol-old",
             "status": "active",
             "symbol": "nest",
             "type": "BEP20"
@@ -3547,7 +3547,7 @@
             "explorer": "https://bscscan.com/token/0x9029fdfae9a03135846381c7ce16595c3554e10a",
             "externalId": "openocean",
             "logoUri": "assets/clh9g84pj0515b0g4hkm9ylth/logo.png",
-            "name": "OpenOcean",
+            "name": "OpenOcean-old",
             "status": "active",
             "symbol": "ooe",
             "type": "BEP20"
@@ -3562,7 +3562,7 @@
             "explorer": "https://bscscan.com/token/0xebd49b26169e1b52c04cfd19fcf289405df55f80",
             "externalId": "orbs",
             "logoUri": "assets/clh9g84pk051sb0g4c4xad4jk/logo.png",
-            "name": "Orbs",
+            "name": "Orbs-old",
             "status": "active",
             "symbol": "orbs",
             "type": "BEP20"
