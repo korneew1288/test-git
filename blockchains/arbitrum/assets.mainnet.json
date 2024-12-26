@@ -157,7 +157,7 @@
             "explorer": "https://arbiscan.io/token/0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9",
             "externalId": "arbitrum-bridged-usdt-arbitrum",
             "logoUri": "assets/clxd13ksq001qgbosw0f2wb6b/logo.png",
-            "name": "Arbitrum Bridged USDT (Arbitrum)",
+            "name": "USDT (Arbitrum)",
             "status": "active",
             "symbol": "usdt",
             "type": "Arbitrum"
