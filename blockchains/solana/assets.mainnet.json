@@ -4676,15 +4676,45 @@
             "status": "active",
             "symbol": "zyn",
             "type": "Solana"
-        }
+        },
+        {
+            "address": "6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN",
+            "asset_id": "cm66j4ed1000008l73wv5gyeg",
+            "chainId": 1,
+            "decimals": 6,
+            "default": false,
+            "displayDecimals": 4,
+            "explorer": "https://explorer.solana.com/address/6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN",
+            "externalId": "official-trump",
+            "logoUri": "assets/cm66j4ed1000008l73wv5gyeg/logo.png",
+            "name": "OFFICIAL TRUMP",
+            "status": "active",
+            "symbol": "TRUMP",
+            "type": "Solana"
+        },
+        {
+            "address": "FUAfBo2jgks6gB4Z4LfZkqSZgzNucisEHqnNebaRxM1P",
+            "asset_id": "cm66j4mdr000108l7gy2s6rcg",
+            "chainId": 1,
+            "decimals": 6,
+            "default": false,
+            "displayDecimals": 4,
+            "explorer": "https://explorer.solana.com/address/FUAfBo2jgks6gB4Z4LfZkqSZgzNucisEHqnNebaRxM1P",
+            "externalId": "melania-meme",
+            "logoUri": "assets/cm66j4mdr000108l7gy2s6rcg/logo.png",
+            "name": "Melania Meme",
+            "status": "active",
+            "symbol": "MELANIA",
+            "type": "Solana"
+        }        
     ],
     "logoUri": "",
     "name": "Iron Wallet: Solana",
     "status": "active",
-    "timestamp": "2024-10-25T23:15:30.610Z",
+    "timestamp": "2025-01-21T23:15:30.610Z",
     "version": {
         "major": 0,
         "minor": 2,
-        "patch": 2
+        "patch": 3
     }
 }
