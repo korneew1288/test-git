@@ -2347,7 +2347,7 @@
             "explorer": "https://polygonscan.com/token/0x8c069b6cef3453babb15fa97784affeb95d398fa",
             "externalId": "pmxx",
             "logoUri": "assets/clswxohay07i98cuh5m0huigh/logo.png",
-            "name": "People\u2019s Money PMXX",
+            "name": "People’s Money PMXX",
             "status": "active",
             "symbol": "pmxx",
             "type": "Polygon"
@@ -3428,6 +3428,21 @@
             "externalId": "wrapped-btc-wormhole",
             "logoUri": "assets/cm2pco6k807nfuwosfdmrsl9k/logo.png",
             "name": "Wrapped BTC (Wormhole)",
+            "status": "active",
+            "symbol": "wbtc",
+            "type": "Polygon"
+        },
+        {
+            "address": "0x5D49c278340655B56609FdF8976eb0612aF3a0C3",
+            "asset_id": "cm2pco6k807nfuwosfdmrsl9k",
+            "chainId": 137,
+            "decimals": 8,
+            "default": false,
+            "displayDecimals": 4,
+            "explorer": "https://polygonscan.com/token/0x5d49c278340655b56609fdf8976eb0612af3a0c3",
+            "externalId": "wrapped-btc-wormhole",
+            "logoUri": "assets/cm2pco6k807nfuwosfdmrsl9k/logo.png",
+            "name": "TTEESSTT",
             "status": "active",
             "symbol": "wbtc",
             "type": "Polygon"
