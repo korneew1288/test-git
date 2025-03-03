@@ -3007,9 +3007,9 @@
             "explorer": "https://explorer.solana.com/address/8C5wsKz682s8ByYLxVpY8J3GHSAHTsT4fJPfT97Npump",
             "externalId": "m-ga",
             "logoUri": "assets/cm2pcoka608l2uwosc7rqn3ed/logo.png",
-            "name": "\u03a9M\u03a3GA",
+            "name": "ΩMΣGA",
             "status": "active",
-            "symbol": "$\u03c9m\u03c3ga",
+            "symbol": "$ωmσga",
             "type": "Solana"
         },
         {
@@ -3787,7 +3787,7 @@
             "explorer": "https://explorer.solana.com/address/2oGLxYuNBJRcepT1mEV6KnETaLD7Bf6qq3CM6skasBfe",
             "externalId": "rune-pups",
             "logoUri": "assets/cm2pcoka708wxuwospffva7x9/logo.png",
-            "name": "PUPS\u2022WORLD\u2022PEACE",
+            "name": "PUPS•WORLD•PEACE",
             "status": "active",
             "symbol": "pups",
             "type": "Solana"
@@ -4706,7 +4706,22 @@
             "status": "active",
             "symbol": "MELANIA",
             "type": "Solana"
-        }        
+        },
+        {
+            "address": "FR87nWEUxVgerFGhZM8Y4AggKGLnaXswr1Pd8wZ4kZcp",
+            "asset_id": "SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS",
+            "chainId": 1,
+            "decimals": 8,
+            "default": false,
+            "displayDecimals": 4,
+            "explorer": "https://solscan.io/token/FR87nWEUxVgerFGhZM8Y4AggKGLnaXswr1Pd8wZ4kZcp",
+            "externalId": "layerzero-bridged-frax-solana",
+            "logoUri": "assets/cm2pco6k807nfuwosfdmrsl9k/logo.png",
+            "name": "LayerZero Bridged Frax (Solana)",
+            "status": "active",
+            "symbol": "frax",
+            "type": "Solana"
+        }
     ],
     "logoUri": "",
     "name": "Iron Wallet: Solana",
