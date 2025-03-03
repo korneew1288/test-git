@@ -1,6 +1,6 @@
 {
     "assets": [
-         {
+        {
             "asset_id": "cm2cjb4fo000008l80wtlhcf1",
             "chainId": 10,
             "decimals": 18,
@@ -835,6 +835,21 @@
             "name": "yearn.finance",
             "status": "active",
             "symbol": "yfi",
+            "type": "Optimism"
+        },
+        {
+            "address": "0x1F32b1c2345538c0c6f582fCB022739c4A194Ebb",
+            "asset_id": "SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS",
+            "chainId": 10,
+            "decimals": 18,
+            "default": false,
+            "displayDecimals": 4,
+            "explorer": "https://optimistic.etherscan.io/token/0x1f32b1c2345538c0c6f582fcb022739c4a194ebb",
+            "externalId": "superbridge-bridged-wsteth-optimism",
+            "logoUri": "assets/cm2pco6k807nfuwosfdmrsl9k/logo.png",
+            "name": "Superbridge Bridged wstETH (Optimism)",
+            "status": "active",
+            "symbol": "wsteth",
             "type": "Optimism"
         }
     ],
