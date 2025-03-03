@@ -3551,6 +3551,21 @@
             "status": "active",
             "symbol": "bsc-usd",
             "type": "Polygon"
+        },
+        {
+            "address": "0x55d398326f99059fF775485246999027B3197955",
+            "asset_id": "cm2pco6k807nfuwosfdmrsl9k",
+            "chainId": 137,
+            "decimals": 18,
+            "default": false,
+            "displayDecimals": 4,
+            "explorer": "https://bscscan.com/token/0x55d398326f99059ff775485246999027b3197955",
+            "externalId": "binance-bridged-usdt-bnb-smart-chain",
+            "logoUri": "assets/cm2pco6k807nfuwosfdmrsl9k/logo.png",
+            "name": "Binance Bridged USDT (BNB Smart Chain)",
+            "status": "active",
+            "symbol": "bsc-usd",
+            "type": "Polygon"
         }
     ],
     "logoUri": "",
