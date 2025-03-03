@@ -4736,6 +4736,21 @@
             "status": "active",
             "symbol": "bonk",
             "type": "Solana"
+        },
+        {
+            "address": "DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263",
+            "asset_id": "222222",
+            "chainId": 1,
+            "decimals": 5,
+            "default": false,
+            "displayDecimals": 4,
+            "explorer": "https://solscan.io/token/dezxaz8z7pnrnrjjz3wxborgixca6xjnb7yab1ppb263",
+            "externalId": "bonk",
+            "logoUri": "assets/cm2pco6k807nfuwosfdmrsl9k/logo.png",
+            "name": "Bonk",
+            "status": "active",
+            "symbol": "bonk",
+            "type": "Solana"
         }
     ],
     "logoUri": "",
