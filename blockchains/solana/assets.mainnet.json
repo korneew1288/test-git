@@ -4286,6 +4286,21 @@
             "status": "active",
             "symbol": "zyn",
             "type": "Solana"
+        },
+        {
+            "address": "6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN",
+            "asset_id": "cm7xf4cyv0000t8fmqx3zdz50",
+            "chainId": 1,
+            "decimals": 6,
+            "default": false,
+            "displayDecimals": 4,
+            "explorer": "https://solscan.io/token/6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN",
+            "externalId": "official-trump",
+            "logoUri": "assets/cm7xf4cyv0000t8fmqx3zdz50/logo.png",
+            "name": "Official Trump",
+            "status": "active",
+            "symbol": "trump",
+            "type": "Solana"
         }
     ],
     "logoUri": "",
