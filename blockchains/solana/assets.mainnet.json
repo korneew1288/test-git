@@ -4271,7 +4271,7 @@
             "status": "active",
             "symbol": "fun",
             "type": "Solana"
-        },
+        }
     ],
     "logoUri": "",
     "name": "Iron Wallet: Solana",
