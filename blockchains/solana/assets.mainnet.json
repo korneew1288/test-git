@@ -4271,6 +4271,21 @@
             "status": "active",
             "symbol": "fun",
             "type": "Solana"
+        },
+        {
+            "address": "26f12PmBk77wQV1TzLe8XKkNBvMFggbuypxdtMLzNLzz",
+            "asset_id": "cm7xeqxrs0000ewfmd43ui4x6",
+            "chainId": 1,
+            "decimals": 18,
+            "default": false,
+            "displayDecimals": 4,
+            "explorer": "https://etherscan.io/token/0xb2617246d0c6c0087f18703d576831899ca94f01",
+            "externalId": "zignaly",
+            "logoUri": "assets/cm7xeqxrs0000ewfmd43ui4x6/logo.png",
+            "name": "ZIGChain",
+            "status": "active",
+            "symbol": "zig",
+            "type": "Solana"
         }
     ],
     "logoUri": "",
