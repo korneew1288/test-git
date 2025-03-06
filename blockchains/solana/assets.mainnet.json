@@ -4271,6 +4271,21 @@
             "status": "active",
             "symbol": "fun",
             "type": "Solana"
+        },
+        {
+            "address": "PzuaVAUH2tfxGZcbBR6kMxeJsBngnsPLFotGJNCtcsd",
+            "asset_id": "cm7xf3jme0000yofmedia87j7",
+            "chainId": 1,
+            "decimals": 18,
+            "default": false,
+            "displayDecimals": 4,
+            "explorer": "https://etherscan.io/address/0x58cb30368ceb2d194740b144eab4c2da8a917dcb",
+            "externalId": "zyncoin-2",
+            "logoUri": "assets/cm7xf3jme0000yofmedia87j7/logo.png",
+            "name": "ZynCoin",
+            "status": "active",
+            "symbol": "zyn",
+            "type": "Solana"
         }
     ],
     "logoUri": "",
