@@ -4271,6 +4271,21 @@
             "status": "active",
             "symbol": "fun",
             "type": "Solana"
+        },
+        {
+            "address": "C7heQqfNzdMbUFQwcHkL9FvdwsFsDRBnfwZDDyWYCLTZ",
+            "asset_id": "cm7xdv77n00002gfm3v6poafy",
+            "chainId": 1,
+            "decimals": 6,
+            "default": false,
+            "displayDecimals": 4,
+            "explorer": "https://solscan.io/token/C7heQqfNzdMbUFQwcHkL9FvdwsFsDRBnfwZDDyWYCLTZ",
+            "externalId": "collaterize",
+            "logoUri": "assets/cm7xdv77n00002gfm3v6poafy/logo.png",
+            "name": "Collaterize",
+            "status": "active",
+            "symbol": "collat",
+            "type": "Solana"
         }
     ],
     "logoUri": "",
