@@ -4301,6 +4301,21 @@
             "status": "active",
             "symbol": "trump",
             "type": "Solana"
+        },
+        {
+            "address": "FUAfBo2jgks6gB4Z4LfZkqSZgzNucisEHqnNebaRxM1P",
+            "asset_id": "cm7xf6jwn0000bofmcaekaac6",
+            "chainId": 1,
+            "decimals": 6,
+            "default": false,
+            "displayDecimals": 4,
+            "explorer": "https://solscan.io/token/FUAfBo2jgks6gB4Z4LfZkqSZgzNucisEHqnNebaRxM1P",
+            "externalId": "melania-meme",
+            "logoUri": "assets/cm7xf6jwn0000bofmcaekaac6/logo.png",
+            "name": "Melania Meme",
+            "status": "active",
+            "symbol": "melania",
+            "type": "Solana"
         }
     ],
     "logoUri": "",
