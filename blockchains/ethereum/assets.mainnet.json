@@ -17000,6 +17000,36 @@
             "status": "active",
             "symbol": "xeta",
             "type": "ERC20"
+        },
+        {
+            "address": "0x8292bb45bf1ee4d140127049757c2e0ff06317ed",
+            "asset_id": "cm85r81vy000101qgkgt1vaa5",
+            "chainId": 1,
+            "decimals": null,
+            "default": false,
+            "displayDecimals": 4,
+            "explorer": "https://platform.arkhamintelligence.com/explorer/token/ripple-usd",
+            "externalId": "ripple-usd",
+            "logoUri": "assets/cm85r81vy000101qgkgt1vaa5/logo.png",
+            "name": "Ripple USD",
+            "status": "active",
+            "symbol": "rlusd",
+            "type": "ERC20"
+        },
+        {
+            "address": "0xac6708e83698d34cd5c09d48249b0239008d0ccf",
+            "asset_id": "cm85rg0bt000201qgasbwav2z",
+            "chainId": 1,
+            "decimals": 18,
+            "default": false,
+            "displayDecimals": 4,
+            "explorer": "https://etherscan.io/token/0xAC6708e83698d34CD5c09d48249B0239008d0cCf",
+            "externalId": "fort-knox",
+            "logoUri": "assets/cm85rg0bt000201qgasbwav2z/logo.png",
+            "name": "Fort Knox",
+            "status": "active",
+            "symbol": "fortknox",
+            "type": "ERC20"
         }
     ],
     "logoUri": "",
