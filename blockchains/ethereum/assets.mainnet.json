@@ -17015,6 +17015,21 @@
             "status": "active",
             "symbol": "rlusd",
             "type": "ERC20"
+        },
+        {
+            "address": "0xac6708e83698d34cd5c09d48249b0239008d0ccf",
+            "asset_id": "cm85rg0bt000201qgasbwav2z",
+            "chainId": 1,
+            "decimals": 18,
+            "default": false,
+            "displayDecimals": 4,
+            "explorer": "https://etherscan.io/token/0xAC6708e83698d34CD5c09d48249B0239008d0cCf",
+            "externalId": "fort-knox",
+            "logoUri": "assets/cm85rg0bt000201qgasbwav2z/logo.png",
+            "name": "Fort Knox",
+            "status": "active",
+            "symbol": "fortknox",
+            "type": "ERC20"
         }
     ],
     "logoUri": "",
