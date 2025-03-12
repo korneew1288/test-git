@@ -4316,6 +4316,21 @@
             "status": "active",
             "symbol": "melania",
             "type": "Solana"
+        },
+        {
+            "address": "5m9ahhwmnosop8cawdsjdnfllkg3efkx5sj3zaumpump",
+            "asset_id": "cm85rqd3d000401qgzm2homf4",
+            "chainId": 1,
+            "decimals": 6,
+            "default": false,
+            "displayDecimals": 4,
+            "explorer": "https://solscan.io/token/5m9AhhwMnosop8CAWdSJDNfLLkg3EFkX5sJ3zAuMpump",
+            "externalId": "official-wild-n-out",
+            "logoUri": "assets/cm85rqd3d000401qgzm2homf4/logo.png",
+            "name": "Official Wild 'N Out",
+            "status": "active",
+            "symbol": "wildnout",
+            "type": "Solana"
         }
     ],
     "logoUri": "",
